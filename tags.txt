@@ -1,0 +1,28 @@
+Dead
+Present
+Collective
+Office
+Witness
+Principal
+Scribe
+Executor
+Given at
+Nominative
+Building
+Property
+Street
+Natural feature
+Material feature
+Copy
+Reference
+Predecessor
+Proxy
+Heir
+Neighbor
+From
+Going to
+Coming from
+Was at
+In
+Near
+Job

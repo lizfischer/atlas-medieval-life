@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+          <fileDesc>
+            <titleStmt>
+              <title> HCM 28.txt</title>
+              <author>lizfischer0</author>
+            </titleStmt>
+            <publicationStmt>
+              <p><date>2020-06-02</date></p>             
+            </publicationStmt>
+            <sourceDesc>
+              <bibl source="https://recogito.pelagios.org/document/ea0ri65ukalch9"/>
+              <biblStruct>
+                <monogr>
+                  
+                  <title>HCM 28.txt</title>
+                    
+                </monogr>
+              </biblStruct>
+            </sourceDesc>
+          </fileDesc>
+          <profileDesc>
+              
+              <particDesc>
+                  <ab>
+          <listRelation>
+            <relation name="sibling" active="recogito-34e36179-abde-4995-9f87-b793d4083172" passive="recogito-0fd3a0ad-a99c-454d-bea8-9de36073a107"/>
+          </listRelation>
+        </ab>
+                </particDesc>
+              <settingDesc>
+                  <listPlace>
+          <place xml:id="http://sws.geonames.org/2647074">
+              <placeName>Hereford</placeName>
+            </place>
+        </listPlace>
+                </settingDesc>
+            </profileDesc>
+          <encodingDesc>
+            <projectDesc><p>Downloaded from https://recogito.pelagios.org/</p></projectDesc>
+            
+          </encodingDesc>
+        </teiHeader>
+        <text>
+          <body><div><p>+C&amp;E p716	HCM #28 (1308)[*] / Luis /</p><p>
+No. 28		1308, Monday next after the Fe<persName xml:id="recogito-da28a8d9-f855-42c9-a016-346f255a7b52">as</persName>t of St. Luke the Evang<rs xml:id="recogito-51b36bda-2e24-4c16-9cc1-03c649323b6c" type="event">elist [</rs><rs xml:id="recogito-6ec63c24-05fb-49de-934a-84f26f69b6e7" type="event">October</rs> 21].</p><p>1. <persName xml:id="recogito-ba68a2ad-f735-4191-9d87-0def61851418">Bartholomew le Especer de Hereford</persName>’;
+2. Dominus <persName xml:id="recogito-34e36179-abde-4995-9f87-b793d4083172">William de Broyntone</persName>, chaplain, and <persName xml:id="recogito-0fd3a0ad-a99c-454d-bea8-9de36073a107">Margery</persName>, his sister.</p><p>     GRANT of fifty-two and a half acres of arable land in the vill of <placeName xml:id="recogito-37ae51e3-84a9-4e15-b77f-e08b34d2a0ed" cert="low">Chirchebreyntone</placeName> which the grantor held of the dean and chapter of the church of St. Ethelbert, Hereford.     Given at <placeName ref="http://sws.geonames.org/2647074" xml:id="recogito-b4b3b557-e55f-4307-95f0-705275e4d86d" cert="low">Hereford</placeName>.
+     Witnesses: <persName xml:id="recogito-31fe21bf-7339-44f8-91a7-92bd0229ce95">John de la Barewe</persName>, <persName xml:id="recogito-2efa830e-aac6-4f44-ac65-b9870093dbf2">John de la Felde</persName>, <persName xml:id="recogito-3e547d81-15d3-4b40-9959-47a41217756d">John Lightfot</persName>, <persName xml:id="recogito-db4afa1f-cea5-4237-b11b-2f42e110f33f">John de Seuenak</persName>’, <persName xml:id="recogito-2abca723-9fd3-4f71-bb97-2ab75518222a">Hugh de Tybertone</persName>, <persName xml:id="recogito-086048a0-1de4-45dc-9338-c91f562cf564">Phillip de Ipre</persName>, Hugh Ives, William Lethenard’, Hugh le Shipward’, Hugh de la Stone, John le Bole the clerk.
+     Latin.</p></div></body>
+        </text>
+      </TEI>

@@ -2,3 +2,5 @@
 */.idea/*
 combining pdfs/*
 scans/*
+*\.idea\*
+*\venv\*

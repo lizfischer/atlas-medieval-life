@@ -35,11 +35,21 @@ def make_batches(files, batch_size):
         os.mkdir(f"GIS rest/{i+1}")
         for f in batch_files:
             shutil.move(os.path.join("GIS rest", f), os.path.join(f"GIS rest/{i+1}", f))
-        
 
 
 
-make_batches(os.listdir("GIS rest"), 10)
+def reverse_batches():
+    folders = os.listdir("GIS rest")
+    for folder in folders:
+        path = os.path.join("GIS rest", folder)
+        if os.path.isdir(path):
+            print(path)
+            files = os.listdir(path)
+            for file in files:
+                shutil.move(os.path.join(path, file), os.path.join("GIS rest", file))
+
+get_rest(already_used)
+make_batches(os.listdir("GIS rest"), 20)
 
 def check_numbers():
     ## HCM "UNCORRECTED"

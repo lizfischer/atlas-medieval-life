@@ -1,0 +1,3640 @@
+[
+    {
+        "doc": "HCM 16",
+        "neighbors": [
+            "John Broun' de Breynton",
+            "John de la Berne",
+            "William the Shepherd"
+        ]
+    },
+    {
+        "doc": "HCM 16",
+        "neighbors": [
+            "Roger son of Walter, Medicus of Hereford",
+            "John de la Berne",
+            "William the Shepherd"
+        ]
+    },
+    {
+        "doc": "HCM 11",
+        "neighbors": [
+            "Nicholas de la Calewe",
+            "Hugh the son of John le Sypward"
+        ]
+    },
+    {
+        "doc": "HCM 11",
+        "neighbors": [
+            "Robert the Young, Chaplain",
+            "William the Young",
+            "Hugh the son of John le Sypward"
+        ]
+    },
+    {
+        "doc": "HCM 15",
+        "neighbors": [
+            "John Broun de Breynton",
+            "John de la Berne",
+            "William the Shepherd"
+        ]
+    },
+    {
+        "doc": "HCM 15",
+        "neighbors": [
+            "Roger son of Walter, Medicus de Hereford",
+            "John de la Berne",
+            "William the Shepherd"
+        ]
+    },
+    {
+        "doc": "HCM 8",
+        "neighbors": [
+            "Nicholas de la Calewe",
+            "Bartholomew the Apothecary",
+            "Roger Thuyti",
+            "Reginald Alred de Werham"
+        ]
+    },
+    {
+        "doc": "HCM 8",
+        "neighbors": [
+            "Robert de Postona, called the Young, chaplain",
+            "William the young",
+            "Bartholomew the Apothecary",
+            "Roger de Thuyti",
+            "Reginald Alred de Werham"
+        ]
+    },
+    {
+        "doc": "HCM 9",
+        "neighbors": [
+            "Nicholas de la Calewe de Chirchebreynton",
+            "emme le noreys",
+            "Dean and Chapter of Hereford",
+            "John Thwyti",
+            "Hugh le Sypward"
+        ]
+    },
+    {
+        "doc": "HCM 9",
+        "neighbors": [
+            "Robert, chaplain, called the Young",
+            "William the young",
+            "Emme le Noreys",
+            "Dean and Chapter of Hereford",
+            "John Thwyti",
+            "Hugh le Sypward"
+        ]
+    },
+    {
+        "doc": "HCM 7",
+        "neighbors": [
+            "Nicholas de la Calewe",
+            "Robert the young",
+            "William the young",
+            "men of Breinton",
+            "John son of Thomas son of Brun"
+        ]
+    },
+    {
+        "doc": "HCM 5",
+        "neighbors": [
+            "Nicholas de la Calewe",
+            "Dean and Chapter of Hereford",
+            "emma le noreys"
+        ]
+    },
+    {
+        "doc": "HCM 5",
+        "neighbors": [
+            "William, chaplain, called the young (iuvenis)",
+            "Dean and Chapter of Hereford",
+            "emma le noreys"
+        ]
+    },
+    {
+        "doc": "HCM 3",
+        "neighbors": [
+            "Adam de Brompton",
+            "Bartholomew le Especer",
+            "Nicholas Bryan",
+            "Le Seypward",
+            "Dean of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 3",
+        "neighbors": [
+            "Eve de Orryeshay",
+            "Bartholomew le Especer",
+            "Nicholas Bryan",
+            "Le Seypward",
+            "Dean of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 3",
+        "neighbors": [
+            "Richard de Hertford, archdeacon of Hereford",
+            "Bartholomew le Especer",
+            "Nicholas Bryan",
+            "John Le Shipward",
+            "Dean of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 6",
+        "neighbors": [
+            "Nicholas de la Calewe",
+            "Dean and Chapter of Hereford",
+            "John Thuity",
+            "John le Sypward"
+        ]
+    },
+    {
+        "doc": "HCM 6",
+        "neighbors": [
+            "Robert, chaplain, called the Young",
+            "William, his nephew",
+            "Dean and Chapter of Hereford",
+            "John Thuity",
+            "John le Sypward"
+        ]
+    },
+    {
+        "doc": "HCM 10",
+        "neighbors": [
+            "Nicholas de la Calewe",
+            "Reginald Moniword"
+        ]
+    },
+    {
+        "doc": "HCM 10",
+        "neighbors": [
+            "Robert the Young, chaplain",
+            "William the young",
+            "Reginald Moniword"
+        ]
+    },
+    {
+        "doc": "HCM 21",
+        "neighbors": [
+            "William le Bercher of Broynton",
+            "Roger, medicus, of Hereford",
+            "John de la Berne",
+            "John Broun"
+        ]
+    },
+    {
+        "doc": "HCM 31",
+        "neighbors": [
+            "John Broun de Broynton",
+            "Roger son of Walter le Espicer, medicus",
+            "Dean and Chapter of Hereford",
+            "John de la Berne"
+        ]
+    },
+    {
+        "doc": "HCM 19",
+        "neighbors": [
+            "Eva de Orreshay",
+            "Bartholomew lespicer",
+            "Nicholas Brian",
+            "Dean of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 20",
+        "neighbors": [
+            "William Le Schepeherde of Broynton",
+            "John Broun",
+            "William the Young, chaplain",
+            "John Normon",
+            "Richard Brian",
+            "Dean and Chapter of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 20",
+        "neighbors": [
+            "Roger Lespicer, citizen of Hereford",
+            "John Broun",
+            "William the Young, chaplain",
+            "John Normon",
+            "Richard Brian",
+            "Dean and Chapter of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 22",
+        "neighbors": [
+            "Bartholomew, son of Nicholas de Wistanstowe",
+            "Robert the Young",
+            "Nicholas Bryan",
+            "John de la Barewe",
+            "Archdeacon of Hereford",
+            "Isabell le Shipward",
+            "Alice le Shepeherde"
+        ]
+    },
+    {
+        "doc": "HCM 22",
+        "neighbors": [
+            "Bartholomew Le spicer",
+            "Alice wife of Bartholomew le Spicer",
+            "Robert the Young",
+            "Nicholas Bryan",
+            "John de la Barewe",
+            "Archdeacon of Hereford",
+            "Isabell le Shipward",
+            "Alice le Shepeherde"
+        ]
+    },
+    {
+        "doc": "HCM 23",
+        "neighbors": [
+            "William de Fostone, chaplain",
+            "Roger de Broynton, clerk",
+            "chaplain(s) of St Mary's at Hereford Cathedral",
+            "John de la Berne",
+            "Dean and Chapter of Hereford",
+            "Bishop of Hereford",
+            "Adam de la Pounde",
+            "John Whyty",
+            "John le Schipward",
+            "Emma le Norreys",
+            "Hugh le Schipward"
+        ]
+    },
+    {
+        "doc": "HCM 48",
+        "neighbors": [
+            "Walter Cachepol, citizen of Hereford",
+            "Isolda Colling",
+            "Richard Aubrey",
+            "Thomas Vigerouse"
+        ]
+    },
+    {
+        "doc": "HCM 48",
+        "neighbors": [
+            "John Barbeer de Hereford, cook",
+            "Isolda Colling",
+            "Richard Aubrey",
+            "Thomas Vigerouse"
+        ]
+    },
+    {
+        "doc": "HCM 56",
+        "neighbors": [
+            "John Shakelok' de Hereford",
+            "Philip de la More, clerk",
+            "Giles de la Berne",
+            "John le Clerk",
+            "Thomas Thorgrim"
+        ]
+    },
+    {
+        "doc": "HCM 58",
+        "neighbors": [
+            "William de Mildenhale, citizen of Hereford",
+            "Roger le Ridar",
+            "Richard the Smith"
+        ]
+    },
+    {
+        "doc": "HCM 58",
+        "neighbors": [
+            "Matilda, daughter to William de Mildenhale, citizen of Hereford",
+            "Roger le Ridar",
+            "Richard the Smith"
+        ]
+    },
+    {
+        "doc": "HCM 36",
+        "neighbors": [
+            "Alditha le Noreys de Breynton' Decani",
+            "John le Sypward",
+            "chaplain(s) of St Mary's at Hereford Cathedral"
+        ]
+    },
+    {
+        "doc": "HCM 36",
+        "neighbors": [
+            "Robert the Young, chaplain",
+            "William the young",
+            "John le Sypward",
+            "chaplain(s) of St Mary's at Hereford Cathedral"
+        ]
+    },
+    {
+        "doc": "HCM 60",
+        "neighbors": [
+            "John Filly de Kilfodes",
+            "Richard le White de Aylineston",
+            "Thomas Polle",
+            "Walter Buffard, chaplain"
+        ]
+    },
+    {
+        "doc": "HCM 37",
+        "neighbors": [
+            "John Toky de Broynton",
+            "Thomas Breuel",
+            "Agnes Fraunceys"
+        ]
+    },
+    {
+        "doc": "HCM 37",
+        "neighbors": [
+            "Roger de Seuenak'",
+            "John de Seuenak'",
+            "Roger, who is brother to John Sevanak (but isn' t to be confused with Roger de Sevenak)",
+            "Thomas Breuel",
+            "Agnes Fraunceys"
+        ]
+    },
+    {
+        "doc": "HCM 44",
+        "neighbors": [
+            "Peter de Whytfeld, citizen of Hereford",
+            "Thomas de la Barre",
+            "Cecily Blod",
+            "John le Clerk",
+            "John Pride"
+        ]
+    },
+    {
+        "doc": "HCM 44",
+        "neighbors": [
+            "John de la More, clerk",
+            "Thomas de la Barre",
+            "Cecily Blod",
+            "John le Clerk",
+            "John Pride"
+        ]
+    },
+    {
+        "doc": "HCM 44",
+        "neighbors": [
+            "Walter Aubrey, citizen of Hereford",
+            "Thomas de la Barre",
+            "Cecily Blod",
+            "John le Clerk",
+            "John Pride"
+        ]
+    },
+    {
+        "doc": "HCM 38",
+        "neighbors": [
+            "John Thoky de Breynton",
+            "Roger de Seuenek",
+            "John de Sevenak",
+            "Roger brother of John de Sevenak",
+            "Will Halle",
+            "Agnes Fraunceys"
+        ]
+    },
+    {
+        "doc": "HCM 76",
+        "neighbors": [
+            "Christiana daughter of Hugh le Palmer",
+            "John Lichtfot",
+            "William de la Felde"
+        ]
+    },
+    {
+        "doc": "HCM 76",
+        "neighbors": [
+            "Hugh le Palmer, father to Christina",
+            "John Lichtfot",
+            "William de la Felde"
+        ]
+    },
+    {
+        "doc": "HCM 77",
+        "neighbors": [
+            "John de Bruneshope",
+            "Richard de Bramford",
+            "Bartholomew lespicer"
+        ]
+    },
+    {
+        "doc": "HCM 77",
+        "neighbors": [
+            "John Lyghtfot",
+            "Margery, wife to John Lightfot\nRichard de Bramford",
+            "Bartholomew lespicer"
+        ]
+    },
+    {
+        "doc": "HCM 82",
+        "neighbors": [
+            "Maurice le Walkare, citizen of Hereford",
+            "Adam de Whitfeld",
+            "William de la Mere, barber of Hereford",
+            "John Bade, chaplain"
+        ]
+    },
+    {
+        "doc": "HCM 82",
+        "neighbors": [
+            "William Deke",
+            "Adam de Whitfeld",
+            "William de la Mere, barber of Hereford",
+            "John Bade, chaplain"
+        ]
+    },
+    {
+        "doc": "HCM 92",
+        "neighbors": [
+            "Richard de Braumford the elder",
+            "Alice his wife",
+            "John de Breconia, chaplain",
+            "Roger de Brunhope",
+            "Christina, daughter of Richard de Braumford the elder & Alice his wife"
+        ]
+    },
+    {
+        "doc": "HCM 93",
+        "neighbors": [
+            "Thomas son of Walter de London",
+            "Walter de London",
+            "Roger le Werrur",
+            "Bishop of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 93",
+        "neighbors": [
+            "Thomas de Aylinestone, tailor, of Hereford",
+            "Walter de London",
+            "Roger le Werrur",
+            "Bishop of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 81",
+        "neighbors": [
+            "Richard de Braumford",
+            "Roger Sweyn",
+            "William Godeknave",
+            "Nicholas Wynter",
+            "William de la Felde"
+        ]
+    },
+    {
+        "doc": "HCM 81",
+        "neighbors": [
+            "John de Teynton, chaplain",
+            "Roger Sweyn",
+            "William Godeknave",
+            "Nicholas Wynter",
+            "William de la Felde"
+        ]
+    },
+    {
+        "doc": "HCM 65",
+        "neighbors": [
+            "Robert son of Loukine",
+            "William de Hupledene",
+            "Stephen [...]"
+        ]
+    },
+    {
+        "doc": "HCM 75",
+        "neighbors": [
+            "Thomas son of John",
+            "Walter Ingan",
+            "John Cays"
+        ]
+    },
+    {
+        "doc": "HCM 66",
+        "neighbors": [
+            "John de Reotherwas, citizen of Herford",
+            "Gilbert Thurgrym, chaplain",
+            "William de Rugleye",
+            "Thomas Vigerous"
+        ]
+    },
+    {
+        "doc": "HCM 139",
+        "neighbors": [
+            "Henry de Marcle, cutler",
+            "Rector of St Nicholas, Hereford",
+            "Walter de Merehald",
+            "William Teynterel",
+            "Laurence Stevenes"
+        ]
+    },
+    {
+        "doc": "HCM 139",
+        "neighbors": [
+            "Edward le Webbe",
+            "Rector of St Nicholas, Hereford",
+            "Walter de Merehald",
+            "William Teynterel",
+            "Laurence Stevenes"
+        ]
+    },
+    {
+        "doc": "HCM 94",
+        "neighbors": [
+            "Roger le Werrour",
+            "Gilbert Iwayn",
+            "Osbert Galand"
+        ]
+    },
+    {
+        "doc": "HCM 94",
+        "neighbors": [
+            "Hugh Lemoth",
+            "Alice, his wife",
+            "Gilbert Iwayn",
+            "Osbert Galand"
+        ]
+    },
+    {
+        "doc": "HCM 126",
+        "neighbors": [
+            "Ralph le Baroun of Wydemersmore",
+            "William in le woch of Wydemarsmore",
+            "Walter de Euesham, chaplain",
+            "Thomas le Broy"
+        ]
+    },
+    {
+        "doc": "HCM 98",
+        "neighbors": [
+            "John de Duddeleye, Chapalin of St Mary in the Church of All Saints in Hereford",
+            "Thomas Thurgrim",
+            "Walter Thurgrim, formerly butcher of Hereford",
+            "Annebel de Ledbury"
+        ]
+    },
+    {
+        "doc": "HCM 111",
+        "neighbors": [
+            "William de Mildenhale",
+            "Roger de Maddeleg' , mercer of Hereford",
+            "Joan Thebaud, his wife",
+            "Richard Alkyn"
+        ]
+    },
+    {
+        "doc": "HCM 99",
+        "neighbors": [
+            "John Duddeleye, chaplain",
+            "William de Maleseoueres, vicar",
+            "John Monyword",
+            "Richard de Straddel"
+        ]
+    },
+    {
+        "doc": "HCM 99",
+        "neighbors": [
+            "Thomas Thurgrim, son of Henry THurgrim",
+            "William de Maleseoueres, vicar",
+            "John Monyword",
+            "Richard de Straddel"
+        ]
+    },
+    {
+        "doc": "HCM 123",
+        "neighbors": [
+            "Church of All Saints",
+            "Giles de Leominster",
+            "John de Leominster, his brother, chaplain"
+        ]
+    },
+    {
+        "doc": "HCM 104",
+        "neighbors": [
+            "Thomas de Monnington, burgess of Gloucester",
+            "William Deveras",
+            "Philip de M'",
+            "William de Wye, penitentiary of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 104",
+        "neighbors": [
+            "Henry de Hamstude, citizen of Hereford",
+            "Ceciliy his wife",
+            "William Deveras",
+            "Philip de M'",
+            "William de Wye, penitentiary of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 183",
+        "neighbors": [
+            "Richard de Penebrugg, knight",
+            "William de Stevenes de Hereford",
+            "Margaret, his wife"
+        ]
+    },
+    {
+        "doc": "HCM 140",
+        "neighbors": [
+            "William de Wormbrugge, vicar of Maddeleye",
+            "Robert de Preston, vicar of HC",
+            "Richard de Bukkenhull, vicar of HC",
+            "Robert de Bukkenhull, vicar of HC",
+            "Walter Neet, vicar of HC",
+            "Roger de Snodhull, vicar of HC",
+            "Walter de Thurtleston, vicar of HC",
+            "James de Brundon, vicar of HC",
+            "William de Norton, vicar of HC",
+            "Vicars choral of HC (collective)"
+        ]
+    },
+    {
+        "doc": "HCM 142",
+        "neighbors": [
+            "Thomas Thebaud de Hereford",
+            "Cecilia, widow of Thomas Blod de Hereford",
+            "Giles de la Berne",
+            "John Stephenes"
+        ]
+    },
+    {
+        "doc": "HCM 147",
+        "neighbors": [
+            "Adam de Malmeshullie",
+            "Thomas de Biwardyn",
+            "John Anet"
+        ]
+    },
+    {
+        "doc": "HCM 147",
+        "neighbors": [
+            "Phillip le Sherere de Webbel' , junior",
+            "Thomas de Biwardyn",
+            "John Anet"
+        ]
+    },
+    {
+        "doc": "HCM 154",
+        "neighbors": [
+            "John de Mentrewrthe",
+            "Roger, son of Richard Monyword de la Hay, formerly citizen of H"
+        ]
+    },
+    {
+        "doc": "HCM 178",
+        "neighbors": [
+            "Thomas son of Hugh de Monnynton",
+            "Walter by Weye, skinner"
+        ]
+    },
+    {
+        "doc": "HCM 178",
+        "neighbors": [
+            "Willam de Staupton",
+            "Margery, his wife",
+            "Walter by Weye, skinner"
+        ]
+    },
+    {
+        "doc": "HCM 171",
+        "neighbors": [
+            "Richard de Brokwardyn",
+            "Hugh de Maddeleye",
+            "William the Dyer"
+        ]
+    },
+    {
+        "doc": "HCM 171",
+        "neighbors": [
+            "Margery, widow of Nicholas the baker",
+            "Hugh de Maddeleye",
+            "William the Dyer"
+        ]
+    },
+    {
+        "doc": "HCM 171",
+        "neighbors": [
+            "John de Rok'",
+            "Simon de Radenore",
+            "Walter de Huloford",
+            "Ranulph le putter",
+            "Richard le Baker",
+            "William de Wormbrug",
+            "Hugh de Maddeleye",
+            "William the Dyer"
+        ]
+    },
+    {
+        "doc": "HCM 182",
+        "neighbors": [
+            "William called le White, de la Mere, Baker",
+            "Cecilia his wife",
+            "Richard de Penebrugg, knight"
+        ]
+    },
+    {
+        "doc": "HCM 182",
+        "neighbors": [
+            "Dean and Chapter of Hereford",
+            "Richard de Penebrugg, knight"
+        ]
+    },
+    {
+        "doc": "HCM 151",
+        "neighbors": [
+            "Thomas Sandy",
+            "Deonise his wife",
+            "Gilbert de Leominster",
+            "Matilda his wife",
+            "Richard Alkin",
+            "Roger Ochelmon",
+            "Henry Thurgrym"
+        ]
+    },
+    {
+        "doc": "HCM 170",
+        "neighbors": [
+            "John de Lywode, clerk",
+            "William de Penret",
+            "John Baad, chaplain"
+        ]
+    },
+    {
+        "doc": "HCM 170",
+        "neighbors": [
+            "Symon de Radenore",
+            "John Brayn",
+            "Richard Pere",
+            "Robert de Preston",
+            "Walter de Huleford",
+            "Ranulph le putter",
+            "William de Penret",
+            "John Baad, chaplain"
+        ]
+    },
+    {
+        "doc": "HCM 226",
+        "neighbors": [
+            "Nicholas de la Calewe",
+            "Dean and Chapter of Hereford",
+            "Roger Lucas"
+        ]
+    },
+    {
+        "doc": "HCM 226",
+        "neighbors": [
+            "Robert called the Young, chaplain",
+            "William the young",
+            "Dean and Chapter of Hereford",
+            "Roger Lucas"
+        ]
+    },
+    {
+        "doc": "HCM 192",
+        "neighbors": [
+            "William de Waleye de Wenlak",
+            "William de la Barre",
+            "William Ballard"
+        ]
+    },
+    {
+        "doc": "HCM 192",
+        "neighbors": [
+            "John de Hinkeleye",
+            "Isabel his wife",
+            "William de la Barre",
+            "William Ballard"
+        ]
+    },
+    {
+        "doc": "HCM 195",
+        "neighbors": [
+            "John de Aylinestone",
+            "Walter Ingeyn",
+            "John Kays"
+        ]
+    },
+    {
+        "doc": "HCM 195",
+        "neighbors": [
+            "Richard le Neldare de Hereford",
+            "Walter Ingeyn",
+            "John Kays"
+        ]
+    },
+    {
+        "doc": "HCM 195",
+        "neighbors": [
+            "Hugh de Moniton' , tailor, of Hereford",
+            "Walter Ingeyn",
+            "John Kays"
+        ]
+    },
+    {
+        "doc": "HCM 217",
+        "neighbors": [
+            "Henry Stevenns de Nayesmor",
+            "Abbot & convent of St Peter of Gloucester",
+            "Adam Pirk'"
+        ]
+    },
+    {
+        "doc": "HCM 217",
+        "neighbors": [
+            "Thomas Baron",
+            "Abbot & convent of St Peter of Gloucester",
+            "Adam Pirk'"
+        ]
+    },
+    {
+        "doc": "HCM 215",
+        "neighbors": [
+            "Thomas le Orfeuere",
+            "Church of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 215",
+        "neighbors": [
+            "Hugh de Maddeley",
+            "Church of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 204",
+        "neighbors": [
+            "Cristiana, widow of Thomas de la Pype",
+            "Luke de Bergeueni",
+            "Agnes, widow of Hugh de Ketherwas"
+        ]
+    },
+    {
+        "doc": "HCM 204",
+        "neighbors": [
+            "Ralph de Homme, chaplain",
+            "Luke de Bergeueni",
+            "Agnes, widow of Hugh de Ketherwas"
+        ]
+    },
+    {
+        "doc": "HCM 224",
+        "neighbors": [
+            "Thomas Sandy",
+            "Dionysia his wife",
+            "Gilbert de Leominstr'",
+            "Matilda his wife",
+            "Walter Thurgrim"
+        ]
+    },
+    {
+        "doc": "HCM 200",
+        "neighbors": [
+            "Richard Merewech de Norton",
+            "John le Leche",
+            "Thomas le Bailiff de Huntiton'"
+        ]
+    },
+    {
+        "doc": "HCM 200",
+        "neighbors": [
+            "Nicholas le Tauerner",
+            "John le Leche",
+            "Thomas le Bailiff de Huntiton'"
+        ]
+    },
+    {
+        "doc": "HCM 222",
+        "neighbors": [
+            "Roger le iuyde son of Nicolas Muchegross",
+            "John le Gurdlere de Gloucester",
+            "Alice his wife"
+        ]
+    },
+    {
+        "doc": "HCM 279",
+        "neighbors": [
+            "Roger de Imlham",
+            "John Algod de Haketon'",
+            "Walter de la Burkote",
+            "John Godit de Tyberton'",
+            "William de Huntelowe"
+        ]
+    },
+    {
+        "doc": "HCM 279",
+        "neighbors": [
+            "John son of Wygot' Hake",
+            "John Algod de Haketon'",
+            "Walter de la Burkote",
+            "John Godit de Tyberton'",
+            "William de Huntelowe"
+        ]
+    },
+    {
+        "doc": "HCM 238",
+        "neighbors": [
+            "Richard de Hopton'",
+            "Richard de Hurtisley",
+            "William Deuerews",
+            "Richard de Scholle"
+        ]
+    },
+    {
+        "doc": "HCM 238",
+        "neighbors": [
+            "Walter de la Hulle de Parua Asperton",
+            "Agnes [his wife], daughter of Richard de Hopton",
+            "Richard de Hurtisley",
+            "William Deuerews",
+            "Richard de Scholle"
+        ]
+    },
+    {
+        "doc": "HCM 246",
+        "neighbors": [
+            "Richard son of Hugh de Westitone",
+            "Alice his mother",
+            "John de Schelwyk",
+            "John de la Halle",
+            "Margaret de Folemor'"
+        ]
+    },
+    {
+        "doc": "HCM 246",
+        "neighbors": [
+            "William le Cok de Hopewoluith'",
+            "John de Schelwyk",
+            "John de la Halle",
+            "Margaret de Folemor'"
+        ]
+    },
+    {
+        "doc": "HCM 242",
+        "neighbors": [
+            "Simon de Thurkeleson'",
+            "Rose his wife",
+            "John Gorewy",
+            "John le Kede de Hompton'"
+        ]
+    },
+    {
+        "doc": "HCM 242",
+        "neighbors": [
+            "Richard le Whyte son of William le Whyte de Aylneston'",
+            "John Gorewy",
+            "John le Kede de Hompton'"
+        ]
+    },
+    {
+        "doc": "HCM 280",
+        "neighbors": [
+            "Walter le Waleys de Huntytone",
+            "William son of Robert",
+            "William le Fenere de Huntytone",
+            "Hugh de la stone"
+        ]
+    },
+    {
+        "doc": "HCM 280",
+        "neighbors": [
+            "John Iwayne",
+            "William son of Robert",
+            "William le Fenere de Huntytone",
+            "Hugh de la stone"
+        ]
+    },
+    {
+        "doc": "HCM 275",
+        "neighbors": [
+            "Roger [no surname given]",
+            "Richard son of Robert le Clerk",
+            "Isold, daughter of Robert le Clerk",
+            "John de Brompton"
+        ]
+    },
+    {
+        "doc": "HCM 286",
+        "neighbors": [
+            "John le Bayliff de Purtelton' Odort",
+            "Walter le Drake",
+            "Rector of Hatfield parve",
+            "Richard le Drake",
+            "Adam Benetot",
+            "Thomas le Knyht",
+            "John le Mortemer"
+        ]
+    },
+    {
+        "doc": "HCM 286",
+        "neighbors": [
+            "Margaret, daughter of Robert de Weston'",
+            "Katherine, daughter of Robert de Weston'",
+            "Walter le Drake",
+            "Rector of Hatfield parve",
+            "Richard le Drake",
+            "Adam Benetot",
+            "Thomas le Knyht",
+            "John le Mortemer"
+        ]
+    },
+    {
+        "doc": "HCM 241",
+        "neighbors": [
+            "John Dewy",
+            "William de Werham",
+            "John Doughe",
+            "Alice his wife",
+            "The almhouse (in Wyneston' , surburb of Hereford)",
+            "Adam de Eton",
+            "Bishop of Hereford",
+            "James de Hunderton'"
+        ]
+    },
+    {
+        "doc": "HCM 323",
+        "neighbors": [
+            "Sibil, daughter of William Deme de Parua Thynghulle, widow",
+            "William le Baroun"
+        ]
+    },
+    {
+        "doc": "HCM 323",
+        "neighbors": [
+            "Alice, daughter of Sibil, daughter of William Deme de Parua Thynghulle",
+            "William le Baroun"
+        ]
+    },
+    {
+        "doc": "HCM 306",
+        "neighbors": [
+            "Willam son of Nicholas le Clerk de Sutton'",
+            "Richard Guthe, chaplain",
+            "Agnes, daughter of Hugh le Smyth"
+        ]
+    },
+    {
+        "doc": "HCM 306",
+        "neighbors": [
+            "John de Sutton'",
+            "Richard Guthe, chaplain",
+            "Agnes, daughter of Hugh le Smyth",
+            "Juliana, daughter of Hugh le Smyth"
+        ]
+    },
+    {
+        "doc": "HCM 307",
+        "neighbors": [
+            "William son of Richard Godwyne de Sutton",
+            "Thomas Koc",
+            "Walter de Monemuts",
+            "Walter Goche"
+        ]
+    },
+    {
+        "doc": "HCM 307",
+        "neighbors": [
+            "Richard ad Fraxinum de Sutton",
+            "Thomas Koc",
+            "Walter de Monemuts",
+            "Walter Goche"
+        ]
+    },
+    {
+        "doc": "HCM 353",
+        "neighbors": [
+            "Alice de la Calewe, widow of William de Tromppeton",
+            "William le Crumppe",
+            "Ellis Keyset"
+        ]
+    },
+    {
+        "doc": "HCM 338",
+        "neighbors": [
+            "Henry Keck de Stanedisch",
+            "Almoner of Standish",
+            "Gilbert Coppe"
+        ]
+    },
+    {
+        "doc": "HCM 338",
+        "neighbors": [
+            "Richard son of Richard de Ledebury",
+            "Almoner of Standish",
+            "Gilbert Coppe"
+        ]
+    },
+    {
+        "doc": "HCM 340",
+        "neighbors": [
+            "Peter Engelond de Morton' s",
+            "Philip le Bonde"
+        ]
+    },
+    {
+        "doc": "HCM 340",
+        "neighbors": [
+            "Hugh Odyarn de Stanedisch",
+            "Philip le Bonde"
+        ]
+    },
+    {
+        "doc": "HCM 346",
+        "neighbors": [
+            "Rober atte Tounesende de Stanerton",
+            "Joan his wife",
+            "Robert son of Agnes Kapeles de Heydon",
+            "John Cley de Stanerton",
+            "Robert atte Watere"
+        ]
+    },
+    {
+        "doc": "HCM 367",
+        "neighbors": [
+            "Thomas le Colyar of wordiford' s",
+            "Nicholas his brother",
+            "Margery, wife of Nicholas"
+        ]
+    },
+    {
+        "doc": "HCM 354",
+        "neighbors": [
+            "Robert vicar of Bishop' s Frome",
+            "Walter le Sopare"
+        ]
+    },
+    {
+        "doc": "HCM 354",
+        "neighbors": [
+            "John de Kemeseye",
+            "Walter le Sopare"
+        ]
+    },
+    {
+        "doc": "HCM 361",
+        "neighbors": [
+            "Geoffrey son of Davit of Cloppeleye",
+            "Robert Andrea",
+            "Henry Reyner",
+            "Bishop of Hereford",
+            "William de Calecumbe",
+            "Walter Coterel",
+            "Mabel de le Forde"
+        ]
+    },
+    {
+        "doc": "HCM 361",
+        "neighbors": [
+            "Stephen son of Adam atte Halle of Cronebroke",
+            "Robert Andrea",
+            "Henry Reyner",
+            "Bishop of Hereford",
+            "William de Calecumbe",
+            "Walter Coterel",
+            "Mabel de le Forde"
+        ]
+    },
+    {
+        "doc": "HCM 375",
+        "neighbors": [
+            "Lucia sister of William Aunfrey of Netherton'",
+            "Roger le Waleys",
+            "Roger the Miller",
+            "Walter Grey",
+            "Walter Waties"
+        ]
+    },
+    {
+        "doc": "HCM 375",
+        "neighbors": [
+            "William son of Walter de Wyneston",
+            "Roger le Waleys",
+            "Roger the Miller",
+            "Walter Grey",
+            "Walter Waties"
+        ]
+    },
+    {
+        "doc": "HCM 359",
+        "neighbors": [
+            "Alice de la Calewe, widow of William de Tromppeton",
+            "Ellis Keyset"
+        ]
+    },
+    {
+        "doc": "HCM 359",
+        "neighbors": [
+            "William de Crumppe",
+            "Ellis Keyset"
+        ]
+    },
+    {
+        "doc": "HCM 355",
+        "neighbors": [
+            "John le Meson of Colewell' s",
+            "John de Kemeseye",
+            "Richard his brother",
+            "Bishop of Hereford",
+            "Robert son of Walter de Brok",
+            "Ralphn de Birchelete"
+        ]
+    },
+    {
+        "doc": "HCM 358",
+        "neighbors": [
+            "Alice de Trompelton",
+            "William le Crompe",
+            "John de Fonte"
+        ]
+    },
+    {
+        "doc": "HCM 404",
+        "neighbors": [
+            "Bartholomew Lespicer",
+            "John Lithfot",
+            "Bishop of Hereford",
+            "Adam Frewyn'",
+            "William de Feia'"
+        ]
+    },
+    {
+        "doc": "HCM 392",
+        "neighbors": [
+            "Walter de Stredene the elder",
+            "Walter de Comede",
+            "Richard de Olebroke",
+            "William de Stredene, chaplain",
+            "John de Reued",
+            "Juliana widow of Nicholas Cays",
+            "William son of Richard de la Brugge",
+            "Adam his brother"
+        ]
+    },
+    {
+        "doc": "HCM 392",
+        "neighbors": [
+            "Agnes, daughter to Walter de Stredene the elder",
+            "Walter de Comede",
+            "Richard de Olebroke",
+            "William de Stredene, chaplain",
+            "John de Reued",
+            "Juliana widow of Nicholas Cays",
+            "William son of Richard de la Brugge",
+            "Adam his brother"
+        ]
+    },
+    {
+        "doc": "HCM 408",
+        "neighbors": [
+            "John Bysshop, son of Walter Bysshop of Hereford",
+            "Richard Cogan, chaplain",
+            "Nicholas Bysshop",
+            "John Brewes",
+            "Margery his wife"
+        ]
+    },
+    {
+        "doc": "HCM 408",
+        "neighbors": [
+            "William Trody' of Weston",
+            "Richard Cogan, chaplain",
+            "Nicholas Bysshop",
+            "John Brewes",
+            "Margery his wife"
+        ]
+    },
+    {
+        "doc": "HCM 397",
+        "neighbors": [
+            "William son of William Godknave of Hereford\nAdam le Gurdelere of Hereford",
+            "Richard le Psalmere"
+        ]
+    },
+    {
+        "doc": "HCM 395",
+        "neighbors": [
+            "John son of Philip de Leominstria",
+            "Hugh de la Halle",
+            "Sibil his wife",
+            "Almshouse of Hereford",
+            "Roger atte Tounesende",
+            "Alan de Leyntwardyn"
+        ]
+    },
+    {
+        "doc": "HCM 398",
+        "neighbors": [
+            "John son of Roger de Brunshope",
+            "John de la Pounde",
+            "Robert de Somersete",
+            "John Lightfot"
+        ]
+    },
+    {
+        "doc": "HCM 398",
+        "neighbors": [
+            "Svererd, son of John le Clerk of Bristol",
+            "John de la Pounde",
+            "Robert de Somersete",
+            "John Lightfot"
+        ]
+    },
+    {
+        "doc": "HCM 399",
+        "neighbors": [
+            "John son of Roger de Brunsope",
+            "John de la Pounde",
+            "Robert de Somersete",
+            "Church of St Nicholas",
+            "John Lightfot"
+        ]
+    },
+    {
+        "doc": "HCM 399",
+        "neighbors": [
+            "Everard, son of John le clerk of Bristol",
+            "John de la Pounde",
+            "Robert de Somersete",
+            "Church of St Nicholas",
+            "John Lightfot"
+        ]
+    },
+    {
+        "doc": "HCM 402",
+        "neighbors": [
+            "Richard son of Philip Hasard of Aschton",
+            "Richard de Lugwardin, tailor",
+            "Thomas de Aylineston, tailor of Hereford",
+            "Hugh Bade"
+        ]
+    },
+    {
+        "doc": "HCM 409",
+        "neighbors": [
+            "John Dewy",
+            "Ralph Dewy, his brother",
+            "Alice, wife to Ralph Dewy",
+            "Stephen de Skydemor",
+            "Adam le Shepherde"
+        ]
+    },
+    {
+        "doc": "HCM 413",
+        "neighbors": [
+            "Richard, son of Philip Hasard of Aschton' s",
+            "Thomas de Aylineston, tailor of Hereford",
+            "Hugh Bade"
+        ]
+    },
+    {
+        "doc": "HCM 414",
+        "neighbors": [
+            "William Fint",
+            "Joan his wife",
+            "Stephen le Crumpe",
+            "Nicholas Peodu'"
+        ]
+    },
+    {
+        "doc": "HCM 414",
+        "neighbors": [
+            "Henry Fullonu'",
+            "Margery his wife",
+            "Stephen le Crumpe",
+            "Nicholas Peodu'"
+        ]
+    },
+    {
+        "doc": "HCM 426",
+        "neighbors": [
+            "Walter le Bret de Pichencumb",
+            "Matilda ate Heueld'"
+        ]
+    },
+    {
+        "doc": "HCM 426",
+        "neighbors": [
+            "William Ythenard",
+            "Emma his wife",
+            "Matilda ate Heueld'"
+        ]
+    },
+    {
+        "doc": "HCM 433",
+        "neighbors": [
+            "John le Marehal",
+            "Margaret le Cokes",
+            "John le Crumpe"
+        ]
+    },
+    {
+        "doc": "HCM 433",
+        "neighbors": [
+            "Richard Rowan, chaplain",
+            "Margaret le Cokes",
+            "John le Crumpe"
+        ]
+    },
+    {
+        "doc": "HCM 435",
+        "neighbors": [
+            "John Lytfot, citizen of Hereford",
+            "Walter de Evesham, chaplain",
+            "Hugh de Mora",
+            "Hugh Tronne",
+            "Hugh the clerk",
+            "Philip de Bruneshope",
+            "Richard de Ledbury",
+            "Bishop of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 436",
+        "neighbors": [
+            "Nicholas Contayl",
+            "Men of Mora (collective)",
+            "Bishop of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 436",
+        "neighbors": [
+            "Richard de Braumford",
+            "Men of Mora (collective)",
+            "Bishop of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 436",
+        "neighbors": [
+            "John de Teyntone, chaplain",
+            "John his nephew",
+            "Men of Mora (collective)",
+            "Bishop of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 468",
+        "neighbors": [
+            "John le Knicht de Mora Canticorum",
+            "Thomas Thebaud",
+            "John Pryde"
+        ]
+    },
+    {
+        "doc": "HCM 468",
+        "neighbors": [
+            "John Iweyn de Hereford, clerk",
+            "Thomas Thebaud",
+            "John Pryde"
+        ]
+    },
+    {
+        "doc": "HCM 470",
+        "neighbors": [
+            "Yeuan Mon",
+            "Alice his Wife",
+            "Matilda, widow of Hugh le Hore",
+            "Dean and Chapter of Hereford",
+            "William de Straddel"
+        ]
+    },
+    {
+        "doc": "HCM 470",
+        "neighbors": [
+            "Walter son of John Pigage",
+            "Alice his wife",
+            "Dean and Chapter of Hereford",
+            "William de Straddel"
+        ]
+    },
+    {
+        "doc": "HCM 508",
+        "neighbors": [
+            "Ema Rord widow of Thomas son of John",
+            "Thomas son of John, citizen of Hereford",
+            "Walter Ingian",
+            "John Cays"
+        ]
+    },
+    {
+        "doc": "HCM 508",
+        "neighbors": [
+            "William Jonderay, citizen of Hereford",
+            "Walter Ingian",
+            "John Cays"
+        ]
+    },
+    {
+        "doc": "HCM 516",
+        "neighbors": [
+            "Nicholas de la Barre, skinner",
+            "Tenement of the Lepers",
+            "John Scholliht",
+            "Robert the Dyer (Sanetor)"
+        ]
+    },
+    {
+        "doc": "HCM 516",
+        "neighbors": [
+            "Walter de Eueshame, chaplain",
+            "Tenement of the Lepers",
+            "John Scholliht",
+            "Robert the Dyer (Sanetor)"
+        ]
+    },
+    {
+        "doc": "HCM 492",
+        "neighbors": [
+            "Joan de Bohun de Kylpek",
+            "Lord of Kilpeck",
+            "Matilda le Bonde",
+            "Roger de Tudenore",
+            "Roger le Freynseh'"
+        ]
+    },
+    {
+        "doc": "HCM 492",
+        "neighbors": [
+            "Dean and chapter of Hereford",
+            "Lord of Kilpeck",
+            "Matilda le Bonde",
+            "Roger de Tudenore",
+            "Roger le Freynseh'"
+        ]
+    },
+    {
+        "doc": "HCM 497",
+        "neighbors": [
+            "John son of John de Stretton, clerk",
+            "Henry de Sancto Albano",
+            "Hereford Cathedral",
+            "Thomas le Combare"
+        ]
+    },
+    {
+        "doc": "HCM 497",
+        "neighbors": [
+            "Thomas de Leominstria",
+            "Henry de Sancto Albano",
+            "Hereford Cathedral",
+            "Thomas le Combare"
+        ]
+    },
+    {
+        "doc": "HCM 497",
+        "neighbors": [
+            "Henry son of Miles de Moniton",
+            "Henry de Sancto Albano",
+            "Hereford Cathedral",
+            "Thomas le Combare"
+        ]
+    },
+    {
+        "doc": "HCM 517",
+        "neighbors": [
+            "Nicholas Presebon de Hereford, fisherman",
+            "Thomas de la barre",
+            "William le Knyt",
+            "William Ballard"
+        ]
+    },
+    {
+        "doc": "HCM 517",
+        "neighbors": [
+            "Hugh Thrum de Abouetheine",
+            "Thomas de la barre",
+            "William le Knyt",
+            "William Ballard"
+        ]
+    },
+    {
+        "doc": "HCM 547",
+        "neighbors": [
+            "Nicholas de la Calewe de Chirchbreynton",
+            "Altar (Chantry) of BVM at Hereford Cathedral"
+        ]
+    },
+    {
+        "doc": "HCM 547",
+        "neighbors": [
+            "William de Foston' , chaplain",
+            "Altar (Chantry) of BVM at Hereford Cathedral"
+        ]
+    },
+    {
+        "doc": "HCM 533",
+        "neighbors": [
+            "Adam de Oulithe de Bromsberwe",
+            "George le Meleward'",
+            "John atte Hacche",
+            "Walter atte Grene"
+        ]
+    },
+    {
+        "doc": "HCM 532",
+        "neighbors": [
+            "Agnes de Gutinga, daughter of John Andreu de Cloppeleye condam",
+            "William ad Fontem",
+            "Henry de la Hale"
+        ]
+    },
+    {
+        "doc": "HCM 532",
+        "neighbors": [
+            "Stephen de Cronebroc",
+            "William ad Fontem",
+            "Henry de la Hale"
+        ]
+    },
+    {
+        "doc": "HCM 582",
+        "neighbors": [
+            "Thomas de Kent",
+            "Rector of Estenor",
+            "Richard Berde"
+        ]
+    },
+    {
+        "doc": "HCM 582",
+        "neighbors": [
+            "John son of John Scharp de Ledbury",
+            "Rector of Estenor",
+            "Richard Berde"
+        ]
+    },
+    {
+        "doc": "HCM 594",
+        "neighbors": [
+            "Roger Enyow de Lutelhope",
+            "Philip Paty of Lutelhope",
+            "Symon the parear'",
+            "Richard Paty"
+        ]
+    },
+    {
+        "doc": "HCM 556",
+        "neighbors": [
+            "Henry de Full'",
+            "Elizabeth le Smezes",
+            "Roger de la Mersch",
+            "John de Hompton",
+            "Lord of Welynton",
+            "Lord of Tulynton"
+        ]
+    },
+    {
+        "doc": "HCM 556",
+        "neighbors": [
+            "Robert de Preston",
+            "John de Hompton",
+            "Lord of Welynton",
+            "Lord of Tulynton"
+        ]
+    },
+    {
+        "doc": "HCM 557",
+        "neighbors": [
+            "Margery widow of Laurence de Arundel de Ludegodfrey",
+            "John de Hompton",
+            "Adam called the Smith",
+            "William son of Adam called the Smith de Bourghull",
+            "Lord of Selynton",
+            "Lord of Tullynton'"
+        ]
+    },
+    {
+        "doc": "HCM 611",
+        "neighbors": [
+            "Nicholas Wynter",
+            "John de Teynton, chaplain",
+            "Hugh de Rotherwas",
+            "Roger de Seuenak'"
+        ]
+    },
+    {
+        "doc": "HCM 610",
+        "neighbors": [
+            "John de Kemesinge",
+            "Cecilia his wife",
+            "William de Cyrecestr, goldsmith",
+            "Geoffrey de Werham",
+            "Alice de Braunford, widow of Richar",
+            "John de la Hulle",
+            "John Eynter",
+            "Gilbert de Reygate",
+            "Richard de Braumford"
+        ]
+    },
+    {
+        "doc": "HCM 600",
+        "neighbors": [
+            "Margery, daughter of Walter son of James",
+            "Emmorius, son of Walter son of James",
+            "William Motun de Wyhtewall",
+            "Sibil de Underwode",
+            "Lord of Walford",
+            "Thomas de Blakeneye",
+            "Richard Adames"
+        ]
+    },
+    {
+        "doc": "HCM 600",
+        "neighbors": [
+            "Thomas Benet, chaplain, de Kos",
+            "Emmorius, son of Walter son of James",
+            "William Motun de Wyhtewall",
+            "Sibil de Underwode",
+            "Lord of Walford",
+            "Thomas de Blakeneye",
+            "Richard Adames"
+        ]
+    },
+    {
+        "doc": "HCM 602",
+        "neighbors": [
+            "Thomas Benet, chaplain, de Ross",
+            "Emmor' son of Walter James",
+            "William Motun de Whytewall",
+            "Sibil Underwood",
+            "Thomas de Blakeneye",
+            "Lord of Walford",
+            "Richard Adams"
+        ]
+    },
+    {
+        "doc": "HCM 602",
+        "neighbors": [
+            "William son of Roger Payn de Hamme",
+            "Margery, daughter of Walter James",
+            "Emmor' son of Walter James",
+            "William Motun de Whytewall",
+            "Sibil Underwood",
+            "Thomas de Blakeneye",
+            "Lord of Walford",
+            "Richard Adams"
+        ]
+    },
+    {
+        "doc": "HCM 604",
+        "neighbors": [
+            "Margery, daughter of Walter james de Walforde",
+            "Emmor' , son of Walter James de Walforde",
+            "Thomas de Blakeneye"
+        ]
+    },
+    {
+        "doc": "HCM 604",
+        "neighbors": [
+            "Thomas Benet, chaplain, de Ross",
+            "Emmor' , son of Walter James de Walforde",
+            "Thomas de Blakeneye"
+        ]
+    },
+    {
+        "doc": "HCM 605",
+        "neighbors": [
+            "Margery, daughter of Sibil, who is widow Walter james de Walforde",
+            "Emmor' , son of Sibil",
+            "Thomas de Blakeneye"
+        ]
+    },
+    {
+        "doc": "HCM 605",
+        "neighbors": [
+            "Sibil, widow of Walter James de Walforde",
+            "Emmor' , son of Sibil",
+            "Thomas de Blakeneye"
+        ]
+    },
+    {
+        "doc": "HCM 603",
+        "neighbors": [
+            "Margery, daughter of Walter son of James",
+            "Matilda, widow of Emmorius, son of Walter son of James",
+            "William Motun de Wyhtewall",
+            "Sibil de Underwode",
+            "Lord of Walford",
+            "Thomas de Blakeneye",
+            "Richard Adames"
+        ]
+    },
+    {
+        "doc": "HCM 607",
+        "neighbors": [
+            "Richard de Breumford",
+            "John de la Hulle",
+            "Geoffrey the Reeve",
+            "Robert Young"
+        ]
+    },
+    {
+        "doc": "HCM 607",
+        "neighbors": [
+            "John de Teynton, chaplain",
+            "John de la Hulle",
+            "Geoffrey the Reeve",
+            "Robert Young"
+        ]
+    },
+    {
+        "doc": "HCM 606",
+        "neighbors": [
+            "Richard de Braumford",
+            "John de la Hulle de Werham",
+            "Geoffrey the Reeve"
+        ]
+    },
+    {
+        "doc": "HCM 606",
+        "neighbors": [
+            "John de Teynton, chaplain",
+            "John de la Hulle de Werham",
+            "Geoffrey the Reeve"
+        ]
+    },
+    {
+        "doc": "HCM 601",
+        "neighbors": [
+            "Margery, daughter of Walter son of James",
+            "Emmorius, son of Walter son of James",
+            "William Motun de Wyhtewall",
+            "Sibil de Underwode",
+            "Lord of Walford",
+            "Thomas de Blakeneye",
+            "Richard Adames"
+        ]
+    },
+    {
+        "doc": "HCM 624",
+        "neighbors": [
+            "Walter Belle",
+            "Geoffrey the clerk",
+            "John son of Hugh",
+            "Adam Belle",
+            "John Batte",
+            "Gilbert del Broce",
+            "Henry Bole",
+            "David the clerk"
+        ]
+    },
+    {
+        "doc": "HCM 638",
+        "neighbors": [
+            "John de Homptone",
+            "Roger de Lugwardyn"
+        ]
+    },
+    {
+        "doc": "HCM 638",
+        "neighbors": [
+            "John le Spencer de Moretone",
+            "Roger de Lugwardyn"
+        ]
+    },
+    {
+        "doc": "HCM 635",
+        "neighbors": [
+            "Adam de la Felde de Lulham",
+            "Andrew de Lulham [neighbor\u2014missed in orig markup]",
+            "John de Albrug",
+            "John de Lulham",
+            "John Attesion",
+            "Reginald de Mora",
+            "Nicholas de Mora de Lulham",
+            "John son of Richard de Lulham",
+            "Adam de Lulham"
+        ]
+    },
+    {
+        "doc": "HCM 633",
+        "neighbors": [
+            "Stephen Payne de Doweswalle",
+            "John Turburuile",
+            "John de la Grene"
+        ]
+    },
+    {
+        "doc": "HCM 633",
+        "neighbors": [
+            "John Iweyn, clerk",
+            "John Turburuile",
+            "John de la Grene"
+        ]
+    },
+    {
+        "doc": "HCM 636",
+        "neighbors": [
+            "William Chardegod de Poussulle",
+            "Avicia his wife",
+            "John de la Lee",
+            "Adam Cole",
+            "William le Mercer"
+        ]
+    },
+    {
+        "doc": "HCM 636",
+        "neighbors": [
+            "William son of Robert de Hyldesleye",
+            "John de la Lee",
+            "Adam Cole",
+            "William le Mercer"
+        ]
+    },
+    {
+        "doc": "HCM 663",
+        "neighbors": [
+            "John de Naurdin",
+            "Ralph Loue",
+            "Walter Red",
+            "Phillip Minne"
+        ]
+    },
+    {
+        "doc": "HCM 663",
+        "neighbors": [
+            "Richard ad Fraxinum de Sutione",
+            "Ralph Loue",
+            "Walter Red",
+            "Phillip Minne"
+        ]
+    },
+    {
+        "doc": "HCM 664",
+        "neighbors": [
+            "Walter de Monemut'",
+            "Richard de Fraxino de Sotion'",
+            "John the presbyter de Sotton"
+        ]
+    },
+    {
+        "doc": "HCM 644",
+        "neighbors": [
+            "John de Homptone de Luyde son of Roger Homptone",
+            "Henry le Hodere",
+            "Richard de la Beere",
+            "Huhg le Sergaunt",
+            "Hugh de Shelwyke",
+            "William Ballard",
+            "Agnes de Arundel"
+        ]
+    },
+    {
+        "doc": "HCM 644",
+        "neighbors": [
+            "John de Nortone, chaplain",
+            "Henry le Hodere",
+            "Richard de la Beere",
+            "Huhg le Sergaunt",
+            "Hugh de Shelwyke",
+            "William Ballard",
+            "Agnes de Arundel"
+        ]
+    },
+    {
+        "doc": "HCM 666",
+        "neighbors": [
+            "William Reod de Sutton",
+            "Richard de Frene",
+            "William Frankys"
+        ]
+    },
+    {
+        "doc": "HCM 666",
+        "neighbors": [
+            "Warin de Brokampton, Rector of Sutton",
+            "Hugh Berton, chaplain",
+            "William Herbert de Sutton, chaplain",
+            "John Tope de Sutton",
+            "Richard de Frene",
+            "William Frankys"
+        ]
+    },
+    {
+        "doc": "HCM 669",
+        "neighbors": [
+            "John son of Phillip de Middlewode",
+            "John de Monitone",
+            "Richard Lynon",
+            "Symon son of Adam"
+        ]
+    },
+    {
+        "doc": "HCM 669",
+        "neighbors": [
+            "John son of John Walenc'",
+            "Agnes his wife",
+            "John de Monitone",
+            "Richard Lynon",
+            "Symon son of Adam"
+        ]
+    },
+    {
+        "doc": "HCM 682",
+        "neighbors": [
+            "Hamund Wake de Hereford",
+            "Felicia his wife",
+            "John Iweyn, clerk",
+            "William Mengaund",
+            "John Keyset",
+            "John Payn",
+            "John the clerk",
+            "William le Palmar",
+            "Hugh Helle",
+            "Hugh Goodmon",
+            "Hugh Maungeaund"
+        ]
+    },
+    {
+        "doc": "HCM 685",
+        "neighbors": [
+            "Margery daughter of William de Coleuile",
+            "Dionisia Iweyn de Hereford",
+            "John Turburuile",
+            "John Iweyn"
+        ]
+    },
+    {
+        "doc": "HCM 672",
+        "neighbors": [
+            "Richard de Boyfield de Munstreworth",
+            "Richard Wyleken",
+            "Ralph Hathewy",
+            "John de Clynton",
+            "William de Colrugge de Aston"
+        ]
+    },
+    {
+        "doc": "HCM 672",
+        "neighbors": [
+            "Henry le Draper, burgess of Gloucester",
+            "Richard Wyleken",
+            "Ralph Hathewy",
+            "John de Clynton",
+            "William de Colrugge de Aston"
+        ]
+    },
+    {
+        "doc": "HCM 676",
+        "neighbors": [
+            "Margery de Coleuilile",
+            "John Iweyn, clerk",
+            "John Turberuille",
+            "Henry le Mason"
+        ]
+    },
+    {
+        "doc": "HCM 679",
+        "neighbors": [
+            "Roger le Wyne",
+            "Thomas Atenasse",
+            "John the clerk",
+            "The King"
+        ]
+    },
+    {
+        "doc": "HCM 679",
+        "neighbors": [
+            "John Iweyn, clerk",
+            "Thomas Atenasse",
+            "John the clerk",
+            "The King"
+        ]
+    },
+    {
+        "doc": "HCM 693",
+        "neighbors": [
+            "John, clerk of Deueswelle",
+            "Reginald Calunus (le Calewe?)",
+            "William the medicus"
+        ]
+    },
+    {
+        "doc": "HCM 693",
+        "neighbors": [
+            "Matthew the taverner of Hereford",
+            "Reginald Calunus (le Calewe?)",
+            "William the medicus"
+        ]
+    },
+    {
+        "doc": "HCM 690",
+        "neighbors": [
+            "William de Payne de Deueswell",
+            "William de Trompeton",
+            "Matthew le Tauerner",
+            "John ad Fontem",
+            "Nicholas Cossyn",
+            "Walter Grym"
+        ]
+    },
+    {
+        "doc": "HCM 690",
+        "neighbors": [
+            "William le Crumppe, forester de Haya",
+            "William de Trompeton",
+            "Matthew le Tauerner",
+            "John ad Fontem",
+            "Nicholas Cossyn",
+            "Walter Grym"
+        ]
+    },
+    {
+        "doc": "HCM 688",
+        "neighbors": [
+            "William son of Richard the medicus of Dewynsall",
+            "John de Fonte de Dewynswall",
+            "William le Palmer",
+            "Walter Grim",
+            "William Payn"
+        ]
+    },
+    {
+        "doc": "HCM 689",
+        "neighbors": [
+            "William Payn de Deuswelle",
+            "Henry de Baddesaghe",
+            "Cradoc Seisel"
+        ]
+    },
+    {
+        "doc": "HCM 689",
+        "neighbors": [
+            "William the forester",
+            "Henry de Baddesaghe",
+            "Cradoc Seisel"
+        ]
+    },
+    {
+        "doc": "HCM 687",
+        "neighbors": [
+            "Henry le Masun de Lunhales",
+            "John son of Vincent de Deweswalle",
+            "Stephen de la Grene",
+            "John de Turburuile"
+        ]
+    },
+    {
+        "doc": "HCM 692",
+        "neighbors": [
+            "John le Clerk de Deweswalle",
+            "Edith his wife",
+            "Hamon Wake",
+            "Felicia his wife",
+            "John Payne",
+            "William le Palmer"
+        ]
+    },
+    {
+        "doc": "HCM 691",
+        "neighbors": [
+            "William Payn son of William Payn de Deuswelle",
+            "William le Cromppe, foresta of Haye",
+            "Roger Tyrel",
+            "Prioress of Acornbury",
+            "William le Palmer"
+        ]
+    },
+    {
+        "doc": "HCM 703",
+        "neighbors": [
+            "John son of Agnes daughter of Alice Mansion",
+            "Richard de Webbeleye, chaplain",
+            "John de Maurdin, chaplain"
+        ]
+    },
+    {
+        "doc": "HCM 889",
+        "neighbors": [
+            "Alan de Leyntwardyn",
+            "William de Schelwye, clerk, custos of almshouse of Hereford",
+            "Almsouse of Hereford",
+            "Philip le Smyth"
+        ]
+    },
+    {
+        "doc": "HCM 1058",
+        "neighbors": [
+            "Richard Swinfield, Bp of Hereford",
+            "Abbot & convent of Shrewsbury",
+            "Richard the clerk",
+            "Roger le Feuere",
+            "Ralph son of Walter"
+        ]
+    },
+    {
+        "doc": "HCM 1067",
+        "neighbors": [
+            "Richard Swinfield, Bp of Hereford",
+            "John Amfrey"
+        ]
+    },
+    {
+        "doc": "HCM 1067",
+        "neighbors": [
+            "Luke de Bree, Treasurer of Hereford",
+            "Richard Swinfield, Bp of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 1075",
+        "neighbors": [
+            "Adam, son of Adam the Fisherman",
+            "Richard de Swinfield, Bp of Hereford",
+            "Hugh, son of Robert Idrich"
+        ]
+    },
+    {
+        "doc": "HCM 1073",
+        "neighbors": [
+            "Hugh son of Robert Edrich",
+            "Richard Swinfield, Bp of Hereford",
+            "Margery, widow of William Gylemyn"
+        ]
+    },
+    {
+        "doc": "HCM 1179",
+        "neighbors": [
+            "Roger de Malmeshull, vicar of Preston",
+            "John Wyllies of Preston",
+            "Dean and chapter of Hereford",
+            "John de Ledelowe"
+        ]
+    },
+    {
+        "doc": "HCM 1274",
+        "neighbors": [
+            "John son of Walter Pytte of Breyntona",
+            "Robert de Fostona, chaplain",
+            "William the clerk, his nephew",
+            "Roger Lucas",
+            "Adam de la Punde"
+        ]
+    },
+    {
+        "doc": "HCM 1200",
+        "neighbors": [
+            "Henry de Penebrugge, Lord of Clehangre",
+            "Thomas de Leominstre, chaplain",
+            "Henry son of Roger",
+            "Agnes de Bereford, widow of Benedi t de Wodestowe",
+            "John son of Gilbert",
+            "Prioro f Wormeleye",
+            "Hugh Wronon"
+        ]
+    },
+    {
+        "doc": "HCM 1260",
+        "neighbors": [
+            "Roger Pylat of Hommelacy",
+            "John le Clerc",
+            "John Pylat"
+        ]
+    },
+    {
+        "doc": "HCM 1260",
+        "neighbors": [
+            "Henry de Maddeleye, formerly servant of John de Maddeleye",
+            "John le Clerc",
+            "John Pylat"
+        ]
+    },
+    {
+        "doc": "HCM 1246",
+        "neighbors": [
+            "Adam de Nortone",
+            "Richard de Penebrugge",
+            "Walter Gautron",
+            "Hugh de la Calewe"
+        ]
+    },
+    {
+        "doc": "HCM 1246",
+        "neighbors": [
+            "James de Hundertone",
+            "Richard de Penebrugge",
+            "Walter Gautron",
+            "Hugh de la Calewe"
+        ]
+    },
+    {
+        "doc": "HCM 1221",
+        "neighbors": [
+            "Thomas Lulham de Clehungre",
+            "Alice Renald",
+            "John de Stoney",
+            "Canons of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 1221",
+        "neighbors": [
+            "Nicholas Pere de Preston, chaplain",
+            "Alice Renald",
+            "John de Stoney",
+            "Canons of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 1314",
+        "neighbors": [
+            "Roger Wyty de Breynton",
+            "Alice his wife",
+            "Bartholomew le Spicer, citizen of Hereford",
+            "Alice his wife",
+            "Prebend of Brainton",
+            "Alice la Scheperd",
+            "Swety la Noreis",
+            "Alditha la Scheperd"
+        ]
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": [
+            "Dean and Chapter of Hereford",
+            "William de Blakemere",
+            "Vicars of Hereford",
+            "Thomas Hervy"
+        ]
+    },
+    {
+        "doc": "HCM 1471",
+        "neighbors": [
+            "Thomas le Saltere of Hereford",
+            "Hugh de Clifford, vicar at HC"
+        ]
+    },
+    {
+        "doc": "HCM 1474",
+        "neighbors": [
+            "Robert de Biford, chaplain of HC",
+            "John atte Roke, chaplain of HC",
+            "Robert de Preston, chaplain of HC",
+            "Richard de Bohenhull, chaplain of HC",
+            "Robert de Bokenhull, chaplain of HC",
+            "Roger de Clehangre, chaplain of HC\nRector of St Nicholas",
+            "Walter de Marchald",
+            "William Teyntrl",
+            "Laurence Stevenys"
+        ]
+    },
+    {
+        "doc": "HCM 1474",
+        "neighbors": [
+            "Henry de Marcle le Cotyler\nRector of St Nicholas",
+            "Walter de Marchald",
+            "William Teyntrl",
+            "Laurence Stevenys"
+        ]
+    },
+    {
+        "doc": "HCM 1486",
+        "neighbors": [
+            "Gilbert le Welere de Meaheleres",
+            "Walter de Coblinton"
+        ]
+    },
+    {
+        "doc": "HCM 1486",
+        "neighbors": [
+            "William de Staunton",
+            "Isabella his wife",
+            "Walter de Coblinton"
+        ]
+    },
+    {
+        "doc": "HCM 1473",
+        "neighbors": [
+            "Andrew de Leominstre, clerk",
+            "Nicholas Peare, vicar at HC",
+            "Cecilia, widow of John de Boreford",
+            "Thomas Tope"
+        ]
+    },
+    {
+        "doc": "HCM 1473",
+        "neighbors": [
+            "Thomas de Leominstre, chaplain",
+            "Nicholas Peare, vicar at HC",
+            "Cecilia, widow of John de Boreford",
+            "Thomas Tope"
+        ]
+    },
+    {
+        "doc": "HCM 1487",
+        "neighbors": [
+            "William de Staunton",
+            "Isabella his wife",
+            "Gilbert le Whelere de Maddeleye",
+            "Walter de Cobleton"
+        ]
+    },
+    {
+        "doc": "HCM 1487",
+        "neighbors": [
+            "Thomas de Chaundos",
+            "Gilbert le Whelere de Maddeleye",
+            "Walter de Cobleton"
+        ]
+    },
+    {
+        "doc": "HCM 1584",
+        "neighbors": [
+            "John son of Peter Jones of Little Hereford",
+            "John Rogeres",
+            "Altar of the BVM"
+        ]
+    },
+    {
+        "doc": "HCM 1584",
+        "neighbors": [
+            "John son of Geoffrey of Clifton",
+            "John Rogeres",
+            "Altar of the BVM"
+        ]
+    },
+    {
+        "doc": "HCM 1601",
+        "neighbors": [
+            "Robert Curteys",
+            "Osbert Daget",
+            "Christina his wife",
+            "William, son of Osbert & Christina",
+            "Matilda Curteys",
+            "Villeans of the abbot of St Peter' s Gloucester"
+        ]
+    },
+    {
+        "doc": "HCM 1587",
+        "neighbors": [
+            "Marger' Colevyll, widow",
+            "Roger de Dornedal'",
+            "Roger Bithebrok",
+            "Alice his wife"
+        ]
+    },
+    {
+        "doc": "HCM 1611",
+        "neighbors": [
+            "Abbot & convent of St Peter' s Gloucester",
+            "Church of Bromfeld"
+        ]
+    },
+    {
+        "doc": "HCM 1611",
+        "neighbors": [
+            "Geoffrey de Sotton'",
+            "Isabella his wife",
+            "Church of Bromfeld"
+        ]
+    },
+    {
+        "doc": "HCM 1654",
+        "neighbors": [
+            "Robert de Kynemarsbur",
+            "Reginald, abbot and convent of Gloucester"
+        ]
+    },
+    {
+        "doc": "HCM 1667",
+        "neighbors": [
+            "Nicholas Brounyng of Essex",
+            "Margaret le Brok' , his wife",
+            "John, abbot and convent of St Peter' s Gloucester",
+            "Edith La Carter",
+            "Eva La Fremon",
+            "Robert le Cartar'",
+            "J. atte Halle",
+            "Richard le Peyter"
+        ]
+    },
+    {
+        "doc": "HCM 1667",
+        "neighbors": [
+            "Richard de Wydecombe, carpenter",
+            "John, abbot and convent of St Peter' s Gloucester",
+            "Edith La Carter",
+            "Eva La Fremon",
+            "Robert le Cartar'",
+            "J. atte Halle",
+            "Richard le Peyter"
+        ]
+    },
+    {
+        "doc": "HCM 1719",
+        "neighbors": [
+            "Geoffrey de la Wode of Ledbury",
+            "Ralph Berde",
+            "Isabel Russel",
+            "Rector of the Upper Hall at Ledbury"
+        ]
+    },
+    {
+        "doc": "HCM 1719",
+        "neighbors": [
+            "William Woderoue",
+            "Ralph Berde",
+            "Isabel Russel",
+            "Rector of the Upper Hall at Ledbury"
+        ]
+    },
+    {
+        "doc": "HCM 1724",
+        "neighbors": [
+            "Stephen le Ioeuene, Master of the Hospital of St Katerine, Ledbury, & brethren",
+            "John Scharp",
+            "Walter de Abbynhal"
+        ]
+    },
+    {
+        "doc": "HCM 1724",
+        "neighbors": [
+            "Thomas the miller of Ledbury",
+            "John Scharp",
+            "Walter de Abbynhal"
+        ]
+    },
+    {
+        "doc": "HCM 1723",
+        "neighbors": [
+            "Ralph Berde",
+            "Stephen le Yunge, Master, and hospital of St Katherine' s, Ledbury"
+        ]
+    },
+    {
+        "doc": "HCM 1750",
+        "neighbors": [
+            "Adam Beneth de Ledbury",
+            "Henry de la Keldepirie",
+            "Hospital of St Katherine' s, Ledbury",
+            "Matilda de Estonor'"
+        ]
+    },
+    {
+        "doc": "HCM 1750",
+        "neighbors": [
+            "Richard Berde of Ledbury",
+            "Alena his wife",
+            "Henry de la Keldepirie",
+            "Hospital of St Katherine' s, Ledbury",
+            "Matilda de Estonor'"
+        ]
+    },
+    {
+        "doc": "HCM 1747",
+        "neighbors": [
+            "Richard de Boyfield of the manor of Ministrewurth",
+            "Richard Whleken",
+            "Ralphn Hathewy",
+            "John de Clynton",
+            "William de Astone"
+        ]
+    },
+    {
+        "doc": "HCM 1747",
+        "neighbors": [
+            "William de Southham, burgess of GLoucester",
+            "Richard Whleken",
+            "Ralphn Hathewy",
+            "John de Clynton",
+            "William de Astone"
+        ]
+    },
+    {
+        "doc": "HCM 1729",
+        "neighbors": [
+            "Ralph called Berde of Ledbury",
+            "Hospital of St Katherine, Ledbury"
+        ]
+    },
+    {
+        "doc": "HCM 1732",
+        "neighbors": [
+            "Bartholomew le Spicer of Hereford",
+            "Dean and Chapter of Hereford",
+            "John Helle, chaplain of altar of BVM",
+            "Bishop of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 1732",
+        "neighbors": [
+            "Roger de Breynton, clerk",
+            "Dean and Chapter of Hereford",
+            "John Helle, chaplain of altar of BVM",
+            "Bishop of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 1755",
+        "neighbors": [
+            "William de Southham, burgess of Gloucester",
+            "Richard Wilkyn",
+            "Ralph Hathewy",
+            "John de Clynton",
+            "William Colrugge de Aston"
+        ]
+    },
+    {
+        "doc": "HCM 1755",
+        "neighbors": [
+            "John le Draper, burgess of Gloucester",
+            "Richard Wilkyn",
+            "Ralph Hathewy",
+            "John de Clynton",
+            "William Colrugge de Aston"
+        ]
+    },
+    {
+        "doc": "HCM 1798",
+        "neighbors": [
+            "Adam Benet of Ledbury",
+            "Rector of the Lower Hall, Ledbury",
+            "Roger Esiger",
+            "Walter de Abbenhale",
+            "Richard Coleuile",
+            "Henry le Skynnare",
+            "John THorban",
+            "William Balle"
+        ]
+    },
+    {
+        "doc": "HCM 1798",
+        "neighbors": [
+            "Richard Berde of Ledbury",
+            "Alena his wife",
+            "Thomas their son",
+            "Rector of the Lower Hall, Ledbury",
+            "Roger Esiger",
+            "Walter de Abbenhale",
+            "Richard Coleuile",
+            "Henry le Skynnare",
+            "John THorban",
+            "William Balle"
+        ]
+    },
+    {
+        "doc": "HCM 1799",
+        "neighbors": [
+            "Adam Benet of Ledbury",
+            "Rector of the Lower Hall, Ledbury",
+            "Roger Esiger",
+            "Walter de Abbenhale",
+            "Richard Coleuile",
+            "Henry le Skynnare",
+            "John THorban",
+            "William Balle"
+        ]
+    },
+    {
+        "doc": "HCM 1799",
+        "neighbors": [
+            "Richard Berde of Ledbury",
+            "Alena his wife",
+            "Thomas their son",
+            "Rector of the Lower Hall, Ledbury",
+            "Roger Esiger",
+            "Walter de Abbenhale",
+            "Richard Coleuile",
+            "Henry le Skynnare",
+            "John THorban",
+            "William Balle"
+        ]
+    },
+    {
+        "doc": "HCM 1800",
+        "neighbors": [
+            "Margery Joce, daughter to Osbert Joce of Ledbury",
+            "Parson (rector?) of the Upper Hall, Ledbury",
+            "William Eseger",
+            "John de Habenhole"
+        ]
+    },
+    {
+        "doc": "HCM 1800",
+        "neighbors": [
+            "Benedict le Hopere of Ledbury",
+            "Parson (rector?) of the Upper Hall, Ledbury",
+            "William Eseger",
+            "John de Habenhole"
+        ]
+    },
+    {
+        "doc": "HCM 1786",
+        "neighbors": [
+            "John le locare",
+            "Adam Tandi",
+            "Edith Pirk",
+            "Rector of the Upper Hall, Ledbury"
+        ]
+    },
+    {
+        "doc": "HCM 1786",
+        "neighbors": [
+            "Petronilla de Calberwe",
+            "Edith her sister",
+            "Adam Tandi",
+            "Edith Pirk",
+            "Rector of the Upper Hall, Ledbury"
+        ]
+    },
+    {
+        "doc": "HCM 1790",
+        "neighbors": [
+            "Isolda, widow of Hugh de la Wode of Ledbury",
+            "Hospital of St Katherine, Ledbury",
+            "Bishop of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 1790",
+        "neighbors": [
+            "John de Donnton",
+            "William de Mukulton",
+            "Hospital of St Katherine, Ledbury",
+            "Bishop of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": [
+            "Juliana, widow of John Thorbarn",
+            "Thomas le Cartar'",
+            "Ralph Morel",
+            "Emma hiswife",
+            "William le Cartar'",
+            "Edeth Forthryd'",
+            "Rector of the Lower Hall, Ledbury"
+        ]
+    },
+    {
+        "doc": "HCM 1904",
+        "neighbors": [
+            "Gilbert, Master of St Katherine' s Ledbury",
+            "Geoffrey Aluart",
+            "Geoffrey Bissop"
+        ]
+    },
+    {
+        "doc": "HCM 1904",
+        "neighbors": [
+            "Robert le Schepherde",
+            "Alice his wife",
+            "Henry their son",
+            "Geoffrey Aluart",
+            "Geoffrey Bissop"
+        ]
+    },
+    {
+        "doc": "HCM 1933",
+        "neighbors": [
+            "Edith de la Groues",
+            "James Scharp",
+            "Thomas Kent",
+            "Geoffrey Skeg'",
+            "Cecilia his wife",
+            "Hospital of St Katherine, Ledbury",
+            "Richard Beverleye",
+            "Richard Frenen",
+            "Thomas Berde, chaplain",
+            "Walter Chaumberlayn"
+        ]
+    },
+    {
+        "doc": "HCM 1910",
+        "neighbors": [
+            "Richard Wyting of Ledbury, junior",
+            "Philip le Cok'",
+            "Christine, daughter of Geoffrey de Malvernias"
+        ]
+    },
+    {
+        "doc": "HCM 2055",
+        "neighbors": [
+            "Sibil Waldebuf, widow of Walter de Childeston'",
+            "Walter de Mordeford"
+        ]
+    },
+    {
+        "doc": "HCM 2053",
+        "neighbors": [
+            "Stephen de Buford",
+            "Richard de Ploufeld"
+        ]
+    },
+    {
+        "doc": "HCM 2054",
+        "neighbors": [
+            "Walter called de Mordeford de Coblintona, parishioner of Maddeleye",
+            "Sibil de Childestona",
+            "Walter de Mordeford",
+            "Adam de Murival",
+            "Richard de Childeston",
+            "Agnes de Coblinton",
+            "Robert de la Hulle",
+            "John le Taylur"
+        ]
+    },
+    {
+        "doc": "HCM 2054",
+        "neighbors": [
+            "Dean and Chapter of Hereford",
+            "Sibil de Childestona",
+            "Walter de Mordeford",
+            "Adam de Murival",
+            "Richard de Childeston",
+            "Agnes de Coblinton",
+            "Robert de la Hulle",
+            "John le Taylur"
+        ]
+    },
+    {
+        "doc": "HCM 2020",
+        "neighbors": [
+            "Almshouse of Hereford",
+            "Bishop of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 2057",
+        "neighbors": [
+            "Robert de Foston' , chaplain",
+            "Roger de Seuenck'",
+            "Phillip de Ypre, son of Henry de Ypre, of Maddeleye"
+        ]
+    },
+    {
+        "doc": "HCM 2057",
+        "neighbors": [
+            "Robert de Foston' , chaplain",
+            "Roger de Seuenck'",
+            "Dean and Chapter of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 2066",
+        "neighbors": [
+            "Hereford Cathedral church",
+            "John Cacche",
+            "John Spark"
+        ]
+    },
+    {
+        "doc": "HCM 2066",
+        "neighbors": [
+            "Hereford Cathedral church",
+            "John Cacche",
+            "Dean and Chapter of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 2056",
+        "neighbors": [
+            "Adam de Lulham",
+            "Walter de Coblinton"
+        ]
+    },
+    {
+        "doc": "HCM 2056",
+        "neighbors": [
+            "Adam de Lulham",
+            "Hugh de la Felde"
+        ]
+    },
+    {
+        "doc": "HCM 2056",
+        "neighbors": [
+            "Sibil de Childeson",
+            "Richard her son",
+            "William de Oldetone",
+            "Walter Serle"
+        ]
+    },
+    {
+        "doc": "HCM 2056",
+        "neighbors": [
+            "William de Blakemar'",
+            "Walter son of Robert"
+        ]
+    },
+    {
+        "doc": "HCM 2056",
+        "neighbors": [
+            "Margery Tumberel",
+            "Robert Aldebart",
+            "Hugh Eri"
+        ]
+    },
+    {
+        "doc": "HCM 2056",
+        "neighbors": [
+            "Margery Tumberel",
+            "John Hake",
+            "Stephen the chaplain",
+            "Adam de Lulham"
+        ]
+    },
+    {
+        "doc": "HCM 2095",
+        "neighbors": [
+            "Walter son of Gilbert Iweyn de [neal?]",
+            "Nicholas de Folebrugge, chaplain of St Katherine' s Chapel, Hereford",
+            "Richard de Pio, chaplain of St Katherine' s Chapel, Hereford",
+            "Robert de Tyberton, chaplain of St Katherine' s Chapel, Hereford",
+            "Precentor of Hereford",
+            "William Russel, spicer"
+        ]
+    },
+    {
+        "doc": "HCM 2122",
+        "neighbors": [
+            "Richard de Staunton'",
+            "Juliana, widow of Walter le Bond' de Cors",
+            "Walter le Bond"
+        ]
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": [
+            "Agnes, widow of William in le Wough de Wydemerssemore",
+            "Dean and chapter of Hereford",
+            "Nicholas de Vokemerssefeld, chaplain",
+            "John Pryde",
+            "John Thurm de Mora Canonicorum"
+        ]
+    },
+    {
+        "doc": "HCM 2163",
+        "neighbors": [
+            "Joan de Bohun",
+            "Lord of Lugwardyn (De Bohun?)",
+            "Matilda le Bonde",
+            "Roger de Tudenore",
+            "Roger le Frenshe"
+        ]
+    },
+    {
+        "doc": "HCM 2163",
+        "neighbors": [
+            "Dean and chapter of Hereford",
+            "Lord of Lugwardyn (De Bohun?)",
+            "Matilda le Bonde",
+            "Roger de Tudenore",
+            "Roger le Frenshe"
+        ]
+    },
+    {
+        "doc": "HCM 2200",
+        "neighbors": [
+            "Roger de Doubleische",
+            "Christine his wife",
+            "Richard de Netherton"
+        ]
+    },
+    {
+        "doc": "HCM 2200",
+        "neighbors": [
+            "John de Cowarne",
+            "Richard de Netherton"
+        ]
+    },
+    {
+        "doc": "HCM 2218",
+        "neighbors": [
+            "Nicholas Bryan de Hereford",
+            "Richard his son",
+            "Robert called the Young",
+            "William the young",
+            "Dean and chapter of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 2289",
+        "neighbors": [
+            "Richard de Dunre",
+            "Agnes his wife",
+            "Rector of Dunre",
+            "Gilbert de Childeston'",
+            "Prioress of Acornbury"
+        ]
+    },
+    {
+        "doc": "HCM 2289",
+        "neighbors": [
+            "Dean and chapter of Hereford",
+            "Rector of Dunre",
+            "Gilbert de Childeston'",
+            "Prioress of Acornbury"
+        ]
+    },
+    {
+        "doc": "HCM 2305",
+        "neighbors": [
+            "Simon de Terburuilla",
+            "Godric the Fuller"
+        ]
+    },
+    {
+        "doc": "HCM 2305",
+        "neighbors": [
+            "Payn de Turberuilla, Lord of Coytiff, son of Richard t.",
+            "Wenchlyane his wife",
+            "Godric the Fuller"
+        ]
+    },
+    {
+        "doc": "HCM 2305",
+        "neighbors": [
+            "Payn de Turberuilla, Lord of Coytiff, son of Richard t.",
+            "Wenchlyane his wife",
+            "Relph the knight"
+        ]
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": [
+            "John de Newebourgh' Webbe",
+            "Adam Esger, Prebendery of Gorwalle",
+            "Richard de Ledebur",
+            "Bishop of Hereford (John Trillek)"
+        ]
+    },
+    {
+        "doc": "HCM 2851",
+        "neighbors": [
+            "Richard de Vernon, canon",
+            "Hugh de Brehousa, penitentiary"
+        ]
+    },
+    {
+        "doc": "HCM 2881",
+        "neighbors": [
+            "William le Woch' of Wydemersmore",
+            "Dean and Chapter of Hereford",
+            "Ralph le Barun",
+            "John Pryde",
+            "John Thrum"
+        ]
+    },
+    {
+        "doc": "HCM 2881",
+        "neighbors": [
+            "Hugh de Brehosa",
+            "Dean and Chapter of Hereford",
+            "Ralph le Barun",
+            "John Pryde",
+            "John Thrum"
+        ]
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": [
+            "Rector of Norton",
+            "William Mon, vicar of Norton",
+            "Dean and Chapter of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 2089-em2",
+        "neighbors": [
+            "Walter de la Bache",
+            "Dean and Chapter of Hereford",
+            "Richard Hervi",
+            "Philip le Walseche"
+        ]
+    },
+    {
+        "doc": "HCM 2089-em2",
+        "neighbors": [
+            "John de Aka, chaplain",
+            "John called le Peer de Bellymare, chaplain",
+            "Dean and Chapter of Hereford",
+            "Richard Hervi",
+            "Philip le Walseche"
+        ]
+    },
+    {
+        "doc": "HCM 2100-em",
+        "neighbors": [
+            "James de Henley, Canon of Hereford",
+            "Robert of Gloucester, Canon of Hereford",
+            "Elias the chaplain, vicar at HC"
+        ]
+    },
+    {
+        "doc": "HCM 2100-em",
+        "neighbors": [
+            "Richard called de Credelee, vicar at HC",
+            "Robert of Gloucester, Canon of Hereford",
+            "Elias the chaplain, vicar at HC"
+        ]
+    },
+    {
+        "doc": "HCM 97",
+        "neighbors": [
+            "Thomas Thurgym, son of Henry Thurgrym of Hereford",
+            "John de Duddeleye, chaplain",
+            "Walter Thurgrim, butcher",
+            "Annabell de Jataerys"
+        ]
+    },
+    {
+        "doc": "HCM 63",
+        "neighbors": [
+            "John Lightfot",
+            "John de Kemeseye",
+            "Walter the son of William de la Hay"
+        ]
+    },
+    {
+        "doc": "HCM 63",
+        "neighbors": [
+            "Hugh de Monyton, citizen of Hereford",
+            "John de Kemeseye",
+            "Walter the son of William de la Hay"
+        ]
+    },
+    {
+        "doc": "HCM 119",
+        "neighbors": [
+            "Osbert Galant of Hereford",
+            "Hugh Leuyot",
+            "John le Worrour",
+            "Henry Galant"
+        ]
+    },
+    {
+        "doc": "HCM 150",
+        "neighbors": [
+            "Thomas de la Felde",
+            "Parson of St Nicholas, Hereford",
+            "Cecilia de Badesshawe",
+            "Luke de Bergeueni"
+        ]
+    },
+    {
+        "doc": "HCM 150",
+        "neighbors": [
+            "Jpohn Ocche de Hereford",
+            "Parson of St Nicholas, Hereford",
+            "Cecilia de Badesshawe",
+            "Luke de Bergeueni"
+        ]
+    },
+    {
+        "doc": "HCM 39",
+        "neighbors": [
+            "Robert de Newebold, clerk",
+            "Roger de Breynton, rector of Monnington",
+            "Robert de Marceleye, chaplain",
+            "Walter de Burghulle, cobbler",
+            "John Blak'"
+        ]
+    },
+    {
+        "doc": "HCM 50",
+        "neighbors": [
+            "Roger son of Richard Ledebury, citizen of Hereford",
+            "Hugh de Brehusa, penitentiary of Hereford",
+            "Dean and Chapter of Hereford",
+            "John Thrum",
+            "Thomas Thebaud",
+            "Giles, tintor",
+            "John Pryde",
+            "William Ploume",
+            "Reginald Siward"
+        ]
+    },
+    {
+        "doc": "HCM 196",
+        "neighbors": [
+            "Roger de Luyde",
+            "John le Gurdlere",
+            "Alice his wife",
+            "Hugh the Wheelwright, chaplain"
+        ]
+    },
+    {
+        "doc": "HCM 186",
+        "neighbors": [
+            "Dean and Chapter of Hereford",
+            "John le Chapmon",
+            "Nicholas le Barbour",
+            "John le Werrour, chaplain"
+        ]
+    },
+    {
+        "doc": "HCM 186",
+        "neighbors": [
+            "Adam de Wyghtfeld'",
+            "John le Chapmon",
+            "Nicholas le Barbour",
+            "John le Werrour, chaplain"
+        ]
+    },
+    {
+        "doc": "HCM 218",
+        "neighbors": [
+            "John son of Roger de Bruneshope de Hereford",
+            "John de Punda",
+            "Robert de Somersete"
+        ]
+    },
+    {
+        "doc": "HCM 218",
+        "neighbors": [
+            "Roger de Brayntone, clerk",
+            "John de Punda",
+            "Robert de Somersete"
+        ]
+    },
+    {
+        "doc": "HCM 219",
+        "neighbors": [
+            "John le Werrur, chaplain",
+            "Hugh Levioth",
+            "Matilda de Magdalona"
+        ]
+    },
+    {
+        "doc": "HCM 219",
+        "neighbors": [
+            "Walter le Bonde",
+            "Hugh Levioth",
+            "Matilda de Magdalona"
+        ]
+    },
+    {
+        "doc": "HCM 201",
+        "neighbors": [
+            "Robert de Garewy",
+            "Church of St Nicholas, Hereford",
+            "David de Rotherwas",
+            "Walter Oghwelman, chaplain"
+        ]
+    },
+    {
+        "doc": "HCM 201",
+        "neighbors": [
+            "Cecilia, daughter of Robert de Garewy",
+            "Church of St Nicholas, Hereford",
+            "David de Rotherwas",
+            "Walter Oghwelman, chaplain"
+        ]
+    },
+    {
+        "doc": "HCM 203",
+        "neighbors": [
+            "Euerard son of John le Clerk de Bristoll",
+            "John de la Pounde, chaplain",
+            "Robert de Somersete",
+            "John Lyghtfot"
+        ]
+    },
+    {
+        "doc": "HCM 203",
+        "neighbors": [
+            "Roger de Breynton, vicar at HC",
+            "John de la Pounde, chaplain",
+            "Robert de Somersete",
+            "John Lyghtfot"
+        ]
+    },
+    {
+        "doc": "HCM 207",
+        "neighbors": [
+            "Hugh son of Ralph de Byryton' de Hereford",
+            "John de la Barewe, tailor",
+            "Henry de Welbeton",
+            "Church of All Saints, Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 207",
+        "neighbors": [
+            "John le Monk' , chaplain",
+            "John de la Barewe, tailor",
+            "Henry de Welbeton",
+            "Church of All Saints, Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 209",
+        "neighbors": [
+            "John de Straddel, son of Richard de Wycombe",
+            "Walter Cole de Waddeleye",
+            "Walter, son of Walter Cole de Waddeleye",
+            "Walter le Spisor",
+            "Roger de Ledeburi"
+        ]
+    },
+    {
+        "doc": "HCM 181",
+        "neighbors": [
+            "Dean and Chapter of Hereford",
+            "Walter de la Borcote"
+        ]
+    },
+    {
+        "doc": "HCM 181",
+        "neighbors": [
+            "James de Henle, rector of Ross",
+            "Walter de la Borcote"
+        ]
+    },
+    {
+        "doc": "HCM 181",
+        "neighbors": [
+            "Richard de Bere",
+            "Walter de la Borcote"
+        ]
+    },
+    {
+        "doc": "HCM 174",
+        "neighbors": [
+            "Robert Sauage",
+            "John le Werour",
+            "Walter the fisherman of Retherwas",
+            "John de la Barwe"
+        ]
+    },
+    {
+        "doc": "HCM 174",
+        "neighbors": [
+            "Phillip le Werour",
+            "John le Werour",
+            "Walter the fisherman of Retherwas",
+            "John de la Barwe"
+        ]
+    },
+    {
+        "doc": "HCM 383",
+        "neighbors": [
+            "John called Batun",
+            "Roger the Marshal",
+            "Chaplain of the BVM of Newent",
+            "Phillip de la Ghildhalle",
+            "William le Tornour"
+        ]
+    },
+    {
+        "doc": "HCM 383",
+        "neighbors": [
+            "Walter son of William Hathewy of Oxenhale",
+            "Roger the Marshal",
+            "Chaplain of the BVM of Newent",
+            "Phillip de la Ghildhalle",
+            "William le Tornour"
+        ]
+    },
+    {
+        "doc": "HCM 384",
+        "neighbors": [
+            "John Batun",
+            "William le Gondre",
+            "William le Tornour",
+            "Roger the Marshall",
+            "Roger le Webbe of Newent"
+        ]
+    },
+    {
+        "doc": "HCM 384",
+        "neighbors": [
+            "Walter son of William Hathewy of Oxenhale",
+            "William le Gondre",
+            "William le Tornour",
+            "Roger the Marshall",
+            "Roger le Webbe of Newent"
+        ]
+    },
+    {
+        "doc": "HCM 405",
+        "neighbors": [
+            "Roger de Bruneshop, citizen of Hereford",
+            "John de la Pounde, chaplain",
+            "Robert de Somercete",
+            "John Lichtfot"
+        ]
+    },
+    {
+        "doc": "HCM 405",
+        "neighbors": [
+            "John, son of Roger de Bruneshop, citizen of Hereford",
+            "John de la Pounde, chaplain",
+            "Robert de Somercete",
+            "John Lichtfot"
+        ]
+    },
+    {
+        "doc": "HCM 406",
+        "neighbors": [
+            "Roger de Bruneshop, citizen of Hereford",
+            "John de la Pounde, chaplain",
+            "Robert de Somercete",
+            "John Lichtfot"
+        ]
+    },
+    {
+        "doc": "HCM 406",
+        "neighbors": [
+            "John, son of Roger de Bruneshop, citizen of Hereford",
+            "John de la Pounde, chaplain",
+            "Robert de Somercete",
+            "John Lichtfot"
+        ]
+    },
+    {
+        "doc": "HCM 287",
+        "neighbors": [
+            "Walter de Weston'",
+            "Gilbertle Coliar'",
+            "Walter de Cimiten'",
+            "Hospital of St Katherine, Ledbury"
+        ]
+    },
+    {
+        "doc": "HCM 287",
+        "neighbors": [
+            "John le leche de Walsned'",
+            "Gilbertle Coliar'",
+            "Walter de Cimiten'",
+            "Hospital of St Katherine, Ledbury"
+        ]
+    },
+    {
+        "doc": "HCM 378",
+        "neighbors": [
+            "Henry de Heyton, clerk",
+            "William Bene",
+            "Hugh Rondulf"
+        ]
+    },
+    {
+        "doc": "HCM 378",
+        "neighbors": [
+            "Richard the smith of Neuton'",
+            "William Bene",
+            "Hugh Rondulf"
+        ]
+    },
+    {
+        "doc": "HCM 378",
+        "neighbors": [
+            "Robert de la Sete",
+            "William Bene",
+            "Hugh Rondulf"
+        ]
+    },
+    {
+        "doc": "HCM 559",
+        "neighbors": [
+            "Adam called le Turnur de Staunton juxta Cors",
+            "Robert ate Heye"
+        ]
+    },
+    {
+        "doc": "HCM 559",
+        "neighbors": [
+            "William Wytte de Staunton juxta Cors",
+            "Emma his wife",
+            "Robert ate Heye"
+        ]
+    },
+    {
+        "doc": "HCM 593",
+        "neighbors": [
+            "Philip, son of Robert le Park",
+            "Lucy, mother of Phillip son of Robert le Park",
+            "Robert de Ho' tone",
+            "Lord of Fowehope",
+            "John Speed",
+            "William de Baysham",
+            "Margery le Helmscmit"
+        ]
+    },
+    {
+        "doc": "HCM 593",
+        "neighbors": [
+            "Richard, son of Robert le Park",
+            "Lucy, mother of Phillip son of Robert le Park",
+            "Robert de Ho' tone",
+            "Lord of Fowehope",
+            "John Speed",
+            "William de Baysham",
+            "Margery le Helmscmit"
+        ]
+    },
+    {
+        "doc": "HCM 564",
+        "neighbors": [
+            "William son of John de la More",
+            "Agnes his wife",
+            "Richard son of Philip de Brompton",
+            "Ralph le Vreynshe",
+            "Hugh le Reded",
+            "Ralph de Brompton",
+            "Prebent of Castle of Coblynton",
+            "William de Brompton",
+            "Nicholas de Brompton"
+        ]
+    },
+    {
+        "doc": "HCM 608",
+        "neighbors": [
+            "John son of Roger de Bruneshope de Hereford",
+            "John de la Berne",
+            "John de Kemesynge",
+            "Hugh Troue",
+            "Alice, widow of Richard de Braumford",
+            "John de Teyntone",
+            "Ralph de Byritone"
+        ]
+    },
+    {
+        "doc": "HCM 608",
+        "neighbors": [
+            "Nicholas de Reygate, clerk",
+            "John de la Berne",
+            "John de Kemesynge",
+            "Hugh Troue",
+            "Alice, widow of Richard de Braumford",
+            "John de Teyntone",
+            "Ralph de Byritone"
+        ]
+    },
+    {
+        "doc": "HCM 608",
+        "neighbors": [
+            "John son of Roger de Bruneshope de Hereford",
+            "Nicholas de Reygate, clerk",
+            "Lord Treasurer of Hereford",
+            "Geoffrey de la Hulle",
+            "John de la Hulle",
+            "Alice, widow of Richard Braumford",
+            "John de Kemesynge"
+        ]
+    },
+    {
+        "doc": "HCM 412",
+        "neighbors": [
+            "Hugh Bade",
+            "Thomas de Aylineston, tailor of Hereford",
+            "Hugh de Monyton, citizen of Hereford"
+        ]
+    },
+    {
+        "doc": "HCM 670",
+        "neighbors": [
+            "Richard de ecclesia de Hamton in manor of Munstreworth",
+            "Richard ce Harsecumb",
+            "Reginald Yrp",
+            "Richard Gorlek",
+            "John de Byse called the Butmynges",
+            "William le Brok'"
+        ]
+    },
+    {
+        "doc": "HCM 670",
+        "neighbors": [
+            "William Wyteknyght de Munstreworth",
+            "Richard ce Harsecumb",
+            "Reginald Yrp",
+            "Richard Gorlek",
+            "John de Byse called the Butmynges",
+            "William le Brok'"
+        ]
+    },
+    {
+        "doc": "HCM 678",
+        "neighbors": [
+            "Walter son of Henry le Reue de Waltone",
+            "John de Turbeuill",
+            "John Iwayn son of William de Broumia",
+            "Roger son of Henry le Mason"
+        ]
+    },
+    {
+        "doc": "HCM 700",
+        "neighbors": [
+            "William Noremon, citizen of Hereford",
+            "Dean and Chapter of Hereford",
+            "Walter son of William de la Hay"
+        ]
+    },
+    {
+        "doc": "HCM 700",
+        "neighbors": [
+            "Richard son of Richarc Monyword, citizen of Hereford",
+            "Dean and Chapter of Hereford",
+            "Walter son of William de la Hay"
+        ]
+    },
+    {
+        "doc": "HCM 746",
+        "neighbors": [
+            "William Hamelyn",
+            "Church of St Peter, Hereford"
+        ]
+    }
+]

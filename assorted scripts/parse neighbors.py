@@ -128,4 +128,19 @@ def find_ids(data_file):
         json.dump(new_data, out, indent=4)
 
 
-find_ids("neighbors-grouped.json")
+def many_to_many(json_file):
+    with open(json_file, "r") as f:
+        data = json.load(f)
+
+    with open("neighbors.csv", "w") as f:
+        f.write("Source,Target,Type,Document\n")
+        for group in data:
+            neighbors = list(group["neighbors"].values())
+            for i in range(0, len(neighbors)):
+                for j in range(i, len(neighbors)-1):
+                    f.write(f"{neighbors[i]}, {neighbors[j+1]}, neighbors, {group['doc']}\n")
+
+
+
+
+many_to_many("groups-with-ids.json")

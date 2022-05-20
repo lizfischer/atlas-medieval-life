@@ -69,7 +69,7 @@
         "doc": "HCM 9",
         "neighbors": {
             "Nicholas de la Calewe de Chirchebreynton": "a6bd15db-2d3d-4cc5-a506-7a5f3266c887",
-            "emme le noreys": "efab5942-f964-4618-94dc-63088c5995ec",
+            "Emma le Noreys": "efab5942-f964-4618-94dc-63088c5995ec",
             "Dean and Chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
             "John Thwyti": "dd2bb92f-be22-401d-9e03-cb83dd53615a",
             "Hugh le Sypward": "91e93f81-6053-43a3-bf49-ea605cdc7f2b"
@@ -80,7 +80,7 @@
         "neighbors": {
             "Robert": "ecbef2e8-0dc9-414f-8cae-dd9629492ff1",
             "William the young": "0934414c-edea-4554-bf76-dc141f3d2e5c",
-            "Emme le Noreys": "efab5942-f964-4618-94dc-63088c5995ec",
+            "Emma le Noreys": "efab5942-f964-4618-94dc-63088c5995ec",
             "Dean and Chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
             "John Thwyti": "dd2bb92f-be22-401d-9e03-cb83dd53615a",
             "Hugh le Sypward": "91e93f81-6053-43a3-bf49-ea605cdc7f2b"
@@ -101,7 +101,7 @@
         "neighbors": {
             "Nicholas de la Calewe": "a6bd15db-2d3d-4cc5-a506-7a5f3266c887",
             "Dean and Chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
-            "emma le noreys": "efab5942-f964-4618-94dc-63088c5995ec"
+            "Emma le Noreys": "efab5942-f964-4618-94dc-63088c5995ec"
         }
     },
     {
@@ -109,7 +109,7 @@
         "neighbors": {
             "William": "0934414c-edea-4554-bf76-dc141f3d2e5c",
             "Dean and Chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
-            "emma le noreys": "efab5942-f964-4618-94dc-63088c5995ec"
+            "Emma le Noreys": "efab5942-f964-4618-94dc-63088c5995ec"
         }
     },
     {
@@ -177,6 +177,10 @@
         }
     },
     {
+        "doc": "HCM 10",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 21",
         "neighbors": {
             "William le Bercher of Broynton": "8c0dfa25-95d2-414e-880e-aa156d330a10",
@@ -195,6 +199,10 @@
         }
     },
     {
+        "doc": "HCM 31",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 19",
         "neighbors": {
             "Eva de Orreshay": "399c40d6-78f5-4da1-aada-657cb2b810a5",
@@ -202,6 +210,14 @@
             "Nicholas Brian": "03d098de-e410-455f-89b5-eece3bbeedfa",
             "Dean of Hereford": "e4da2937-dc23-4b2e-b432-4316fb4b3171"
         }
+    },
+    {
+        "doc": "HCM 19",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 19",
+        "neighbors": {}
     },
     {
         "doc": "HCM 20",
@@ -241,7 +257,7 @@
         "doc": "HCM 22",
         "neighbors": {
             "Bartholomew Le spicer": "1ff1abc6-e1a7-43f7-9391-15e8c95f8388",
-            "Alice wife of Bartholomew le Spicer": "4e6aba6d-09e3-4b74-b690-55cae71081bd",
+            "Alice his wife": "64928c37-ad68-44df-b76f-4af08dd5d1a6",
             "Robert the Young": "ecbef2e8-0dc9-414f-8cae-dd9629492ff1",
             "Nicholas Bryan": "03d098de-e410-455f-89b5-eece3bbeedfa",
             "John de la Barewe": "9f198569-1a34-4d35-835d-0b7dea068a59",
@@ -260,11 +276,15 @@
             "Dean and Chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
             "Bishop of Hereford": "1eb4933c-65f8-40fc-9eb8-7a62800229b5",
             "Adam de la Pounde": "8b8784b3-0a31-4e93-bb2d-8a10db8d5035",
-            "John Whyty": "dd2bb92f-be22-401d-9e03-cb83dd53615a",
+            "John Wyty": "dd2bb92f-be22-401d-9e03-cb83dd53615a",
             "John le Schipward": "07c8ef19-f64d-49b5-a866-f11cf059f1ae",
             "Emma le Norreys": "efab5942-f964-4618-94dc-63088c5995ec",
             "Hugh le Schipward": "91e93f81-6053-43a3-bf49-ea605cdc7f2b"
         }
+    },
+    {
+        "doc": "HCM 23",
+        "neighbors": {}
     },
     {
         "doc": "HCM 48",
@@ -328,6 +348,10 @@
         }
     },
     {
+        "doc": "HCM 36",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 60",
         "neighbors": {
             "John Filly de Kilfodes": "d8501794-6270-406c-989d-b5fca306da0e",
@@ -349,7 +373,7 @@
         "neighbors": {
             "Roger de Seuenak'": "66b3af47-70bf-48c6-aa82-4e2cd131ba92",
             "John de Seuenak'": "b5581852-7506-4bcf-9029-1609cc0a4015",
-            "Roger, brother of John de Seuenak": "66b3af47-70bf-48c6-aa82-4e2cd131ba92",
+            "Roger": "31e8338d-7d04-4405-8c6b-e0529f0fb30a",
             "Thomas Breuel": "a583ea11-dd7d-4781-b37b-107b811d1bab",
             "Agnes Fraunceys": "44058877-b2f8-4041-ac08-4602745aaec1"
         }
@@ -385,12 +409,16 @@
         }
     },
     {
+        "doc": "HCM 44",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 38",
         "neighbors": {
             "John Thoky de Breynton": "7e72492a-7df0-4132-9f99-11f820f0874a",
             "Roger de Seuenek": "3019bd14-950a-42e8-acd4-f77153a37e57",
             "John de Sevenak": "b5581852-7506-4bcf-9029-1609cc0a4015",
-            "Roger brother of John de Sevenak": "66b3af47-70bf-48c6-aa82-4e2cd131ba92",
+            "Roger": "3019bd14-950a-42e8-acd4-f77153a37e57",
             "Will Halle": "3a74b1b9-671c-4856-ac92-459b33103cc7",
             "Agnes Fraunceys": "44058877-b2f8-4041-ac08-4602745aaec1"
         }
@@ -448,8 +476,8 @@
     {
         "doc": "HCM 92",
         "neighbors": {
-            "Richard de Braumford I": "0020e911-9805-46ae-8b09-2a56c5868f75",
-            "Alice his wife": "25e80a03-5cef-4601-ac73-60e5674c64b7",
+            "Richard de Braumford the elder": "0020e911-9805-46ae-8b09-2a56c5868f75",
+            "Alice his wife": "64928c37-ad68-44df-b76f-4af08dd5d1a6",
             "John de Breconia": "d7f9fd59-ca64-4b24-83a8-2919664397a0",
             "Roger de Brunhope": "00ab2983-ed64-4499-ad1c-ba5228890521",
             "Christina": "3d9bdefb-2243-42bd-aa9c-c3b9f41368d6"
@@ -492,6 +520,10 @@
             "Nicholas Wynter": "7c4791b5-3aa5-488e-9ab1-485af17f0c96",
             "William de la Felde": "4a335312-9c87-4fb5-bccf-f43aa18faa3c"
         }
+    },
+    {
+        "doc": "HCM 81",
+        "neighbors": {}
     },
     {
         "doc": "HCM 65",
@@ -539,6 +571,10 @@
         }
     },
     {
+        "doc": "HCM 139",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 94",
         "neighbors": {
             "Roger le Werrour": "5fefd3ad-beda-46fd-bdd5-dc50b91c57fd",
@@ -560,7 +596,7 @@
         "neighbors": {
             "Ralph le Baroun of Wydemersmore": "5bc41dfe-1c0a-47e4-80ae-f8fbb141fb74",
             "William in le woch of Wydemarsmore": "7af5f0bd-2a6b-4a7f-98d6-aa13f0e7f838",
-            "Walter de Euesham": "e01a71c5-7db0-48fd-9e85-11810c27b2e",
+            "Walter de Euesham": "e01a71c5-7db0-48fd-9e85-11810c27b2ea",
             "Thomas le Broy": "efac4600-888a-4c27-8a91-8d2fc65cd7a5"
         }
     },
@@ -572,6 +608,10 @@
             "Walter Thurgrim": "f435b7cf-5245-4044-8670-1c7e811e92d8",
             "Annebel de Ledbury": "4aab8391-beea-4e4e-adf9-345ed973bb1f"
         }
+    },
+    {
+        "doc": "HCM 98",
+        "neighbors": {}
     },
     {
         "doc": "HCM 111",
@@ -614,7 +654,7 @@
             "Thomas de Monnington": "27b4bfaf-f2e4-4a7f-84dd-797a06b11b8e",
             "William Deveras": "01f39bd0-0f32-4925-8266-54e6361607ac",
             "Philip de M'": "a6e638ef-0f9b-4e4b-8fa6-0be288356796",
-            "William de Wyke": "01dfcbcf-1e60-4267-887d-fa33a4a23290"
+            "William de Wye": "01dfcbcf-1e60-4267-887d-fa33a4a23290"
         }
     },
     {
@@ -641,7 +681,6 @@
             "William de Wormbrugge": "e2d9669f-fb09-4527-8ad1-f4c40d24a23b",
             "Robert de Preston": "703e3220-5cb2-43fd-acab-78ab405337bc",
             "Richard de Bukkenhull": "20a2ee4f-bbf4-441b-afd2-d57acef72839",
-            "Robert de Bukkenhull": "703e3220-5cb2-43fd-acab-78ab405337bc",
             "Walter Neet": "20b907d1-d32d-4337-b5d6-24f3b93eca8b",
             "Roger de Snodhull": "bdc02342-44c1-4dfc-ae62-7808c34a0b46",
             "Walter de Thurtleston": "e930e008-e172-485a-922e-6cccb1ef755a",
@@ -769,10 +808,14 @@
             "Richard Pere": "4d2cb65c-5d29-4d42-b527-2fd32b07cd23",
             "Robert de Preston": "703e3220-5cb2-43fd-acab-78ab405337bc",
             "Walter de Huleford": "f3505d25-c9f4-4cf9-bc27-5f4ee7813e0a",
-            "Ranulph le putter": "ba5ee9e4-69cc-44a4-a659-36922cf48972",
+            "Ranulph le putter": "NOT FOUND",
             "William de Penret": "44c5dd27-6906-466b-8a81-6f48c27b8c6a",
             "John Baad": "a705b6dc-359d-45b3-ad16-31243e432731"
         }
+    },
+    {
+        "doc": "HCM 170",
+        "neighbors": {}
     },
     {
         "doc": "HCM 226",
@@ -803,7 +846,7 @@
         "doc": "HCM 192",
         "neighbors": {
             "John de Hinkeleye": "d2cca3ce-20bc-4a6d-9771-673dfd79d9e7",
-            "Isabel his wife": "d14c079a-e3a4-4bf0-9f44-acde844ae5b2",
+            "Isabel his wife": "684e3e77-3a73-4e4b-be90-e8c2fed18747",
             "William de la Barre": "459b7fcb-df88-406a-aca4-3921fae0752d",
             "William Ballard": "7335e045-b727-4cc7-acf1-54ba7ec19b44"
         }
@@ -811,7 +854,7 @@
     {
         "doc": "HCM 195",
         "neighbors": {
-            "John de Aylinestone": "6b600416-f759-4603-9f32-cdb2fe040164",
+            "John de Aylinestone": "NOT FOUND",
             "Walter Ingeyn": "9db4b0e3-559c-4fdb-bf55-aa04641b0914",
             "John Kays": "0df0c477-7a75-4555-bf52-8f9304bbcbea"
         }
@@ -827,7 +870,7 @@
     {
         "doc": "HCM 195",
         "neighbors": {
-            "Hugh de Moniton' ": "7fa6d101-5d15-4c34-93e3-9df63e5bea69",
+            "Hugh de Moniton' ": "NOT FOUND",
             "Walter Ingeyn": "9db4b0e3-559c-4fdb-bf55-aa04641b0914",
             "John Kays": "0df0c477-7a75-4555-bf52-8f9304bbcbea"
         }
@@ -836,7 +879,7 @@
         "doc": "HCM 217",
         "neighbors": {
             "Henry Stevenns de Nayesmor": "5429b194-779f-4463-9ce5-67d00f51047e",
-            "Abbot & convent of St Peter of Gloucester": "aabade39-f8ba-481c-a646-3dda1233051f",
+            "Abbot & convent of St Peter of Gloucester": "NOT FOUND",
             "Adam Pirk'": "39ab2ec3-eb46-4427-b04b-ca544f5b3c95"
         }
     },
@@ -844,7 +887,7 @@
         "doc": "HCM 217",
         "neighbors": {
             "Thomas Baron": "934042df-307f-47d2-8273-ebff6aa43603",
-            "Abbot & convent of St Peter of Gloucester": "aabade39-f8ba-481c-a646-3dda1233051f",
+            "Abbot & convent of St Peter of Gloucester": "NOT FOUND",
             "Adam Pirk'": "39ab2ec3-eb46-4427-b04b-ca544f5b3c95"
         }
     },
@@ -866,7 +909,7 @@
         "doc": "HCM 204",
         "neighbors": {
             "Cristiana": "e6503caa-a4f0-405c-9c47-a5e038795e8a",
-            "Luke de Bergeueni": "a48201c2-412d-45d7-837d-91689769d117",
+            "Luke de Bergeueni": "NOT FOUND",
             "Agnes": "45f5e8c9-ef6e-4fc3-b65c-e828dc690edf"
         }
     },
@@ -874,7 +917,7 @@
         "doc": "HCM 204",
         "neighbors": {
             "Ralph de Homme": "edd95e31-9ede-4c9c-9a98-efa0acf13da5",
-            "Luke de Bergeueni": "a48201c2-412d-45d7-837d-91689769d117",
+            "Luke de Bergeueni": "NOT FOUND",
             "Agnes": "45f5e8c9-ef6e-4fc3-b65c-e828dc690edf"
         }
     },
@@ -882,9 +925,9 @@
         "doc": "HCM 224",
         "neighbors": {
             "Thomas Sandy": "cb1838f1-dcdd-4ef8-b5b2-d7b7c2c34bfb",
-            "Dionysia his wife": "2e4151f9-def6-40ff-b967-6976b567d1fa",
-            "Gilbert de Leominstr'": "974a2eae-680d-4f3a-a65c-55ceac631ec0",
-            "Matilda his wife": "ea496dcb-5c97-47a0-9d24-4c7378d70938",
+            "Dionysia his wife": "274aad00-6b5b-4308-8ce9-fd2cb53d031f",
+            "Gilbert de Leominstr'": "NOT FOUND",
+            "Matilda his wife": "e3ef7769-50d3-452b-8bda-d43a96feb524",
             "Walter Thurgrim": "f435b7cf-5245-4044-8670-1c7e811e92d8"
         }
     },
@@ -893,7 +936,7 @@
         "neighbors": {
             "Richard Merewech de Norton": "71d77c6a-2991-4421-9a4b-8a2d321b3af7",
             "John le Leche": "57ade380-ad97-4b64-bfb0-c710fac4eda2",
-            "Thomas le Bailiff de Huntiton'": "e7e7758f-fec1-41d8-936b-4173aa9b16b0"
+            "Thomas le Bailiff de Huntiton'": "NOT FOUND"
         }
     },
     {
@@ -901,13 +944,13 @@
         "neighbors": {
             "Nicholas le Tauerner": "048a0bf5-5d90-48ca-b2fa-68090d09484c",
             "John le Leche": "57ade380-ad97-4b64-bfb0-c710fac4eda2",
-            "Thomas le Bailiff de Huntiton'": "e7e7758f-fec1-41d8-936b-4173aa9b16b0"
+            "Thomas le Bailiff de Huntiton'": "NOT FOUND"
         }
     },
     {
         "doc": "HCM 222",
         "neighbors": {
-            "Roger le iuyde son of Nicolas Muchegross": "4c6bf144-1ac4-44b7-9989-2284121bc594",
+            "Roger le iuyde son of Nicolas Muchegross": "NOT FOUND",
             "John le Gurdlere de Gloucester": "67a6a682-5263-443a-920d-58f86f7b62be",
             "Alice his wife": "a1cfc5e5-ecb9-4e3e-bc9a-fc3dc4bbb86d"
         }
@@ -917,7 +960,7 @@
         "neighbors": {
             "Roger de Imlham": "79ddb780-9271-44c0-9dca-eefbaf0a884c",
             "John Algod de Haketon'": "d317498f-9e07-4488-a996-2633e9c2d9d5",
-            "Walter de la Burkote": "b57f47a4-d084-446b-b0f9-3fd497bbfce1",
+            "Walter de la Burkote": "NOT FOUND",
             "John Godit de Tyberton'": "cd41c176-4c78-4d46-b1cf-980241613ec3",
             "William de Huntelowe": "e8a5cd4a-1085-4f36-a773-03b0d832baeb"
         }
@@ -925,12 +968,16 @@
     {
         "doc": "HCM 279",
         "neighbors": {
-            "John son of Wygot' Hake": "0ee44077-7bc7-4457-a398-ce90b1e5c4fb",
+            "John son of Wygot' Hake": "NOT FOUND",
             "John Algod de Haketon'": "d317498f-9e07-4488-a996-2633e9c2d9d5",
-            "Walter de la Burkote": "b57f47a4-d084-446b-b0f9-3fd497bbfce1",
+            "Walter de la Burkote": "NOT FOUND",
             "John Godit de Tyberton'": "cd41c176-4c78-4d46-b1cf-980241613ec3",
             "William de Huntelowe": "e8a5cd4a-1085-4f36-a773-03b0d832baeb"
         }
+    },
+    {
+        "doc": "HCM 279",
+        "neighbors": {}
     },
     {
         "doc": "HCM 238",
@@ -944,8 +991,8 @@
     {
         "doc": "HCM 238",
         "neighbors": {
-            "Walter de la Hulle de Parua Asperton": "e74f42da-2fa3-4eda-948f-d54764ade43f",
-            "Agnes [his wife]": "e46cf716-3967-4294-981f-f5a64319fa20",
+            "Walter de la Hulle de Parua Asperton": "NOT FOUND",
+            "Agnes [his wife]": "NOT FOUND",
             "Richard de Hurtisley": "bc252a3f-622a-4a31-af82-f8650b54a259",
             "William Deuerews": "01f39bd0-0f32-4925-8266-54e6361607ac",
             "Richard de Scholle": "1e017a4c-5d41-4c2f-9872-21afc10523f9"
@@ -955,7 +1002,7 @@
         "doc": "HCM 246",
         "neighbors": {
             "Richard son of Hugh de Westitone": "a19785fa-05cc-464a-8157-9d8c934259b1",
-            "Alice his mother": "6f1b6063-6a02-480c-9fdf-b007939c88b9",
+            "Alice his mother": "NOT FOUND",
             "John de Schelwyk": "9f72d058-f41d-487c-bb16-4260f1332488",
             "John de la Halle": "3ad90ed7-806c-4dc0-bbb8-13052f68dd5d",
             "Margaret de Folemor'": "d2448d32-5f9b-416c-b3e7-de5499cd25ce"
@@ -973,8 +1020,8 @@
     {
         "doc": "HCM 242",
         "neighbors": {
-            "Simon de Thurkeleson'": "955cea6c-0ef3-426e-a85c-3a676a8ec335",
-            "Rose his wife": "c1f2806a-5426-4275-9a92-fc59e49dcee4",
+            "Simon de Thurkeleson'": "NOT FOUND",
+            "Rose his wife": "03d02c22-2486-48d0-9f82-a78c7e857fab",
             "John Gorewy": "8e4f21e3-c353-4d2a-85af-3b46040c94e1",
             "John le Kede de Hompton'": "46ef5a4e-8bfc-4569-bcd5-b59209a16f70"
         }
@@ -982,7 +1029,7 @@
     {
         "doc": "HCM 242",
         "neighbors": {
-            "Richard le Whyte son of William le Whyte de Aylneston'": "5d69d972-99c0-4120-a535-6434748c2a68",
+            "Richard le Whyte son of William le Whyte de Aylneston'": "NOT FOUND",
             "John Gorewy": "8e4f21e3-c353-4d2a-85af-3b46040c94e1",
             "John le Kede de Hompton'": "46ef5a4e-8bfc-4569-bcd5-b59209a16f70"
         }
@@ -1008,8 +1055,8 @@
     {
         "doc": "HCM 275",
         "neighbors": {
-            "Roger [no surname given]": "b1831dd0-0f63-44d0-a772-b00f104f2c10",
-            "Richard son of Robert le Clerk": "3e8b5bde-ee2a-4646-9186-a3eac83072b6",
+            "Roger [no surname given]": "NOT FOUND",
+            "Richard son of Robert le Clerk": "NOT FOUND",
             "Isold": "f1c0a416-648f-4851-9f89-9f11ffd7b5b4",
             "John de Brompton": "1d2d424c-5e4a-4297-bc03-ae0c2aaf7023"
         }
@@ -1017,12 +1064,12 @@
     {
         "doc": "HCM 286",
         "neighbors": {
-            "John le Bayliff de Purtelton' Odort": "a7216585-719c-4074-b2ad-a7b20e465fd6",
+            "John le Bayliff de Purtelton' Odort": "NOT FOUND",
             "Walter le Drake": "40103b07-83c7-4dc2-966e-8e9a8d2dfd92",
-            "Rector of Hatfield parve": "3913bab0-e93d-4899-b1f1-3af0b7dad9d3",
+            "Rector of Hatfield parve": "NOT FOUND",
             "Richard le Drake": "ab263884-6afc-4de1-981a-13fbb2ffd93e",
             "Adam Benetot": "d6e715a9-225e-4ed8-ad91-b91f28a48546",
-            "Thomas le Knyht": "cafabf2a-d33c-4deb-b8aa-82f27e25ea14",
+            "Thomas le Knyht": "NOT FOUND",
             "John le Mortemer": "6a4651e0-ad96-4879-a844-00b25b3b3ace"
         }
     },
@@ -1032,12 +1079,16 @@
             "Margaret": "205e965e-e8df-41eb-96df-f5d8c91be2fd",
             "Katherine": "4836662e-0ed1-44b4-84ca-6fd463c6177e",
             "Walter le Drake": "40103b07-83c7-4dc2-966e-8e9a8d2dfd92",
-            "Rector of Hatfield parve": "3913bab0-e93d-4899-b1f1-3af0b7dad9d3",
+            "Rector of Hatfield parve": "NOT FOUND",
             "Richard le Drake": "ab263884-6afc-4de1-981a-13fbb2ffd93e",
             "Adam Benetot": "d6e715a9-225e-4ed8-ad91-b91f28a48546",
-            "Thomas le Knyht": "cafabf2a-d33c-4deb-b8aa-82f27e25ea14",
+            "Thomas le Knyht": "NOT FOUND",
             "John le Mortemer": "6a4651e0-ad96-4879-a844-00b25b3b3ace"
         }
+    },
+    {
+        "doc": "HCM 286",
+        "neighbors": {}
     },
     {
         "doc": "HCM 241",
@@ -1045,17 +1096,17 @@
             "John Dewy": "4fa9658c-f7ca-451d-ad0f-8b597979dca3",
             "William de Werham": "fb0b5911-7c36-4c5b-bc64-c5985408c10d",
             "John Doughe": "a96a40b7-2727-45d0-9396-a5a9daad66ce",
-            "Alice his wife": "2f7561f3-a11e-4e44-9523-5f39e20bd52a",
-            "The almhouse (in Wyneston' ": "05e337f5-9911-4498-9b0e-af276ab1ed21",
+            "Alice his wife": "64928c37-ad68-44df-b76f-4af08dd5d1a6",
+            "The almhouse (in Wyneston' ": "NOT FOUND",
             "Adam de Eton": "14df8393-893b-4865-b101-e2da5a93363d",
-            "Bishop of Hereford": "60d3ffe2-5bb4-48a4-91de-484a580e94d0",
+            "Bishop of Hereford": "0d75305d-89af-4da3-b7ba-6421a1a97da3",
             "James de Hunderton'": "bbdfce6e-9476-4814-b901-c24446bd1380"
         }
     },
     {
         "doc": "HCM 323",
         "neighbors": {
-            "Sibil": "0221f220-814f-4947-ac2f-5c33cc23da90",
+            "Sibil": "NOT FOUND",
             "William le Baroun": "673d5c60-7077-41fd-ad7b-c270411eb221"
         }
     },
@@ -1067,9 +1118,33 @@
         }
     },
     {
+        "doc": "HCM 323",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 323",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 323",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 323",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 323",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 323",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 306",
         "neighbors": {
-            "Willam son of Nicholas le Clerk de Sutton'": "44cddc61-c56d-4df3-87e8-ae57dc01fa6d",
+            "Willam son of Nicholas le Clerk de Sutton'": "NOT FOUND",
             "Richard Guthe": "aeecb939-d129-4b4f-8188-71c7624e30cf",
             "Agnes": "88a13e07-7442-4b72-8e03-dd2253fbd45f"
         }
@@ -1082,6 +1157,10 @@
             "Agnes": "88a13e07-7442-4b72-8e03-dd2253fbd45f",
             "Juliana": "219ce669-cf10-4641-af97-b431ebb2383c"
         }
+    },
+    {
+        "doc": "HCM 306",
+        "neighbors": {}
     },
     {
         "doc": "HCM 307",
@@ -1110,25 +1189,41 @@
         }
     },
     {
+        "doc": "HCM 353",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 353",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 353",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 353",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 338",
         "neighbors": {
-            "Henry Keck de Stanedisch": "b1035b6a-715f-4771-8b49-5762325152b5",
-            "Almoner of Standish": "e4cbd5ec-393b-470d-ba92-62b6ae288890",
+            "Henry Keck de Stanedisch": "NOT FOUND",
+            "Almoner of Standish": "NOT FOUND",
             "Gilbert Coppe": "25d2a659-9de5-41d3-8fdb-2e19871f3209"
         }
     },
     {
         "doc": "HCM 338",
         "neighbors": {
-            "Richard son of Richard de Ledebury": "3cb3594f-17d4-4c45-9d70-b5f9f93af605",
-            "Almoner of Standish": "e4cbd5ec-393b-470d-ba92-62b6ae288890",
+            "Richard son of Richard de Ledebury": "NOT FOUND",
+            "Almoner of Standish": "NOT FOUND",
             "Gilbert Coppe": "25d2a659-9de5-41d3-8fdb-2e19871f3209"
         }
     },
     {
         "doc": "HCM 340",
         "neighbors": {
-            "Peter Engelond de Morton' s": "9a9d3c6b-77d9-422b-8018-82f8fd51e52c",
+            "Peter Engelond de Morton' s": "NOT FOUND",
             "Philip le Bonde": "230da96c-1742-4d47-98c5-f05859b0902c"
         }
     },
@@ -1140,9 +1235,17 @@
         }
     },
     {
+        "doc": "HCM 340",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 340",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 346",
         "neighbors": {
-            "Robert atte Tounesende de Stanerton": "a1d5ee41-cb3b-4916-a146-88f68b57a8c4",
+            "Rober atte Tounesende de Stanerton": "NOT FOUND",
             "Joan his wife": "c2c33f3c-b8d8-4d9b-80a3-62e18979751c",
             "Robert son of Agnes Kapeles de Heydon": "9e22c53f-2a87-42ad-bd38-abddde54def9",
             "John Cley de Stanerton": "a6b49d05-5506-4e74-bf51-483ea46d1333",
@@ -1150,17 +1253,21 @@
         }
     },
     {
+        "doc": "HCM 346",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 367",
         "neighbors": {
-            "Thomas le Colyar of wordiford' s": "13c492fb-081e-4ac0-a5fd-b9ee3e6febeb",
-            "Nicholas his brother": "f21cd018-b2fb-4acd-b116-979effaeb31f",
+            "Thomas le Colyar of wordiford' s": "NOT FOUND",
+            "Nicholas his brother": "NOT FOUND",
             "Margery": "284fb429-e9aa-4a9e-ad32-5891d8004cc9"
         }
     },
     {
         "doc": "HCM 354",
         "neighbors": {
-            "Robert vicar of Bishop' s Frome": "8d3c4f1a-b3b4-42dc-874f-6d25ce54953b",
+            "Robert vicar of Bishop' s Frome": "NOT FOUND",
             "Walter le Sopare": "b75a0e1d-7bb2-4fc6-bcdc-1e7717bec523"
         }
     },
@@ -1175,7 +1282,7 @@
         "doc": "HCM 361",
         "neighbors": {
             "Geoffrey son of Davit of Cloppeleye": "0b3bc2db-bfea-4776-9dbc-a5abd388eeda",
-            "Robert Andrea": "82a28e2f-ad14-4767-8485-740dc21939aa",
+            "Robert Andrea": "NOT FOUND",
             "Henry Reyner": "61b46cc4-5c73-489a-89e8-507ed6a3119b",
             "Bishop of Hereford": "1eb4933c-65f8-40fc-9eb8-7a62800229b5",
             "William de Calecumbe": "2c99b146-33dd-46b3-928f-467faade45b6",
@@ -1187,7 +1294,7 @@
         "doc": "HCM 361",
         "neighbors": {
             "Stephen son of Adam atte Halle of Cronebroke": "8c028b66-45ed-455d-af6c-87ea800ae8c5",
-            "Robert Andrea": "82a28e2f-ad14-4767-8485-740dc21939aa",
+            "Robert Andrea": "NOT FOUND",
             "Henry Reyner": "61b46cc4-5c73-489a-89e8-507ed6a3119b",
             "Bishop of Hereford": "1eb4933c-65f8-40fc-9eb8-7a62800229b5",
             "William de Calecumbe": "2c99b146-33dd-46b3-928f-467faade45b6",
@@ -1198,7 +1305,7 @@
     {
         "doc": "HCM 375",
         "neighbors": {
-            "Lucia sister of William Aunfrey of Netherton'": "aa3ca384-c8d2-41d7-9851-1bd46fd9ea7c",
+            "Lucia sister of William Aunfrey of Netherton'": "NOT FOUND",
             "Roger le Waleys": "2e887557-38d2-49ec-ab89-e95e45ab551d",
             "Roger the Miller": "a78020dc-e462-4bd6-b208-55916f59f55f",
             "Walter Grey": "e249ffbe-2694-4e95-80d0-cc06d2637cf4",
@@ -1216,9 +1323,13 @@
         }
     },
     {
+        "doc": "HCM 375",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 359",
         "neighbors": {
-            "Alice de la Calewe": "552a602e-cad3-4520-a870-d735d1b86c1e",
+            "Alice de la Calewe": "NOT FOUND",
             "Ellis Keyset": "7320e432-ef57-44cb-9cac-33c9cf56041d"
         }
     },
@@ -1232,21 +1343,29 @@
     {
         "doc": "HCM 355",
         "neighbors": {
-            "John le Meson of Colewell' s": "9f187465-f7ea-447c-9f8c-c601b5ba40bc",
+            "John le Meson of Colewell' s": "NOT FOUND",
             "John de Kemeseye": "d32f70d1-07b8-41da-a100-1967fff70c02",
-            "Richard his brother": "d4265455-cf85-4731-b9b6-a3573d32c285",
+            "Richard his brother": "5e6ee378-caa5-49c3-83d9-8025f79c7093",
             "Bishop of Hereford": "1eb4933c-65f8-40fc-9eb8-7a62800229b5",
             "Robert son of Walter de Brok": "5826d001-60de-4ba6-be7f-c0eecc3daf0d",
-            "Ralph de Birchelete": "3050555c-0056-435a-917e-7003e8285b29"
+            "Ralphn de Birchelete": "NOT FOUND"
         }
     },
     {
         "doc": "HCM 358",
         "neighbors": {
             "Alice de Trompelton": "552a602e-cad3-4520-a870-d735d1b86c1e",
-            "William le Crompe": "9c4ad2a8-7d00-4045-9f3f-2b4cd6e497c4",
+            "William le Crompe": "NOT FOUND",
             "John de Fonte": "691c45df-8dc7-4f31-8214-98af6ef48b6e"
         }
+    },
+    {
+        "doc": "HCM 358",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 358",
+        "neighbors": {}
     },
     {
         "doc": "HCM 404",
@@ -1254,19 +1373,19 @@
             "Bartholomew Lespicer": "1ff1abc6-e1a7-43f7-9391-15e8c95f8388",
             "John Lithfot": "3a67e78b-ec43-4730-b479-3431c316781b",
             "Bishop of Hereford": "1eb4933c-65f8-40fc-9eb8-7a62800229b5",
-            "Adam Frewyn'": "c3e7ef22-9f09-454d-9e35-4d93546a19d1",
-            "William de Feia'": "d34ac76f-032d-4208-8fa4-0397939db7c2"
+            "Adam Frewyn'": "NOT FOUND",
+            "William de Feia'": "NOT FOUND"
         }
     },
     {
         "doc": "HCM 392",
         "neighbors": {
             "Walter de Stredene the elder": "3f478c6a-8644-4fc5-ae4c-d1d03b95d53e",
-            "Walter de Comede": "415fcea3-64af-472e-aa86-787a7b2eb5db",
+            "Walter de Comede": "NOT FOUND",
             "Richard de Olebroke": "1a458cd6-f630-430b-9518-1f73a314c78a",
             "William de Stredene": "7cf17ac6-008b-4f0b-9972-0cc38ea72148",
             "John de Reued": "f6274835-2128-4b76-8e62-955bf52153d7",
-            "Juliana widow of Nicholas Cays": "fdf4e58f-713e-41b2-a195-feb1f9d2bf62",
+            "Juliana widow of Nicholas Cays": "NOT FOUND",
             "William son of Richard de la Brugge": "a7c8ab20-3f65-4d35-a7f0-fabb6f2b54cb",
             "Adam his brother": "1281a89c-49e5-469b-b5c5-411b6b36d893"
         }
@@ -1275,11 +1394,11 @@
         "doc": "HCM 392",
         "neighbors": {
             "Agnes": "03de9fad-820e-4ddf-a994-5cada4048f80",
-            "Walter de Comede": "415fcea3-64af-472e-aa86-787a7b2eb5db",
+            "Walter de Comede": "NOT FOUND",
             "Richard de Olebroke": "1a458cd6-f630-430b-9518-1f73a314c78a",
             "William de Stredene": "7cf17ac6-008b-4f0b-9972-0cc38ea72148",
             "John de Reued": "f6274835-2128-4b76-8e62-955bf52153d7",
-            "Juliana widow of Nicholas Cays": "fdf4e58f-713e-41b2-a195-feb1f9d2bf62",
+            "Juliana widow of Nicholas Cays": "NOT FOUND",
             "William son of Richard de la Brugge": "a7c8ab20-3f65-4d35-a7f0-fabb6f2b54cb",
             "Adam his brother": "1281a89c-49e5-469b-b5c5-411b6b36d893"
         }
@@ -1291,7 +1410,7 @@
             "Richard Cogan": "7bcf10cb-a4f5-4d66-bd95-91801c7abbe5",
             "Nicholas Bysshop": "5d011536-66ce-419d-a78d-7853c4144182",
             "John Brewes": "5c7a64a5-365d-478f-beb5-99f037b41b7f",
-            "Margery his wife": "0de7299b-273b-4303-91e2-71c890d7e30f"
+            "Margery his wife": "74d5506c-5d99-4cdd-bf24-21d4b7d313ad"
         }
     },
     {
@@ -1301,22 +1420,22 @@
             "Richard Cogan": "7bcf10cb-a4f5-4d66-bd95-91801c7abbe5",
             "Nicholas Bysshop": "5d011536-66ce-419d-a78d-7853c4144182",
             "John Brewes": "5c7a64a5-365d-478f-beb5-99f037b41b7f",
-            "Margery his wife": "0de7299b-273b-4303-91e2-71c890d7e30f"
+            "Margery his wife": "74d5506c-5d99-4cdd-bf24-21d4b7d313ad"
         }
     },
     {
         "doc": "HCM 397",
         "neighbors": {
-            "William son of William Godknave of Hereford\nAdam le Gurdelere of Hereford": "8fc3f14a-aa3e-4e35-942c-d59b6a2716e9",
-            "Richard le Psalmere": "55ed75e0-34d2-4ae0-a7db-b175f68c8d27"
+            "William son of William Godknave of Hereford\nAdam le Gurdelere of Hereford": "NOT FOUND",
+            "Richard le Psalmere": "NOT FOUND"
         }
     },
     {
         "doc": "HCM 395",
         "neighbors": {
-            "John son of Philip de Leominstria": "df5e76fe-c3f1-44d5-957f-a2b4ea33c116",
+            "John son of Philip de Leominstria": "NOT FOUND",
             "Hugh de la Halle": "89a2d8ca-ecb2-4b88-a65d-daf243a50bea",
-            "Sibil his wife": "0fec66a7-148a-42c8-80f5-3153122eb427",
+            "Sibil his wife": "NOT FOUND",
             "Almshouse of Hereford": "05e337f5-9911-4498-9b0e-af276ab1ed21",
             "Roger atte Tounesende": "bff96cd7-d0d7-4cda-9350-3158dc68f687",
             "Alan de Leyntwardyn": "c271f207-cc8f-499f-be17-f8d9270903b2"
@@ -1325,7 +1444,7 @@
     {
         "doc": "HCM 398",
         "neighbors": {
-            "John son of Roger de Brunshope": "eab48173-f8ba-4251-9f2a-a70a643204d1",
+            "John son of Roger de Brunshope": "NOT FOUND",
             "John de la Pounde": "01ad425b-f560-4b05-952e-b91ee25cd430",
             "Robert de Somersete": "6511cf39-725a-43ae-9392-2780870d4191",
             "John Lightfot": "3a67e78b-ec43-4730-b479-3431c316781b"
@@ -1363,11 +1482,15 @@
     {
         "doc": "HCM 402",
         "neighbors": {
-            "Richard son of Philip Hasard of Aschton": "6a5ab668-2d74-4878-a81b-8ed1e1336aa2",
+            "Richard son of Philip Hasard of Aschton": "NOT FOUND",
             "Richard de Lugwardin": "f569eb0a-64c5-4069-b8f6-98e25c04d117",
             "Thomas de Aylineston": "848f49d3-2a7f-42f8-9b83-bda7806de0a4",
             "Hugh Bade": "4cf0d726-aa27-470c-b0d5-49e72bdfe84e"
         }
+    },
+    {
+        "doc": "HCM 402",
+        "neighbors": {}
     },
     {
         "doc": "HCM 409",
@@ -1378,6 +1501,14 @@
             "Stephen de Skydemor": "80c46309-25eb-41e2-8a49-cb6914d6b046",
             "Adam le Shepherde": "8d36d49e-5857-412a-945d-0a341923ecdd"
         }
+    },
+    {
+        "doc": "HCM 409",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 409",
+        "neighbors": {}
     },
     {
         "doc": "HCM 413",
@@ -1391,7 +1522,7 @@
         "doc": "HCM 414",
         "neighbors": {
             "William Fint": "891ef0b9-f0fd-4c7d-8c62-ee643f856087",
-            "Joan his wife": "050e2684-3f23-49d0-aac1-0cc7fe636866",
+            "Joan his wife": "c2c33f3c-b8d8-4d9b-80a3-62e18979751c",
             "Stephen le Crumpe": "e8ec2200-43e2-4d02-92ee-d5991072c6e8",
             "Nicholas Peodu'": "c6e54344-8bd8-40cb-ad21-11a2b43519ea"
         }
@@ -1399,8 +1530,8 @@
     {
         "doc": "HCM 414",
         "neighbors": {
-            "Henry Fullonu'": "ebc951d9-5e2e-4871-ac01-9e624c302c5f",
-            "Margery his wife": "9506f1f4-1452-47ba-a017-1e5e5452c44a",
+            "Henry Fullonu'": "NOT FOUND",
+            "Margery his wife": "74d5506c-5d99-4cdd-bf24-21d4b7d313ad",
             "Stephen le Crumpe": "e8ec2200-43e2-4d02-92ee-d5991072c6e8",
             "Nicholas Peodu'": "c6e54344-8bd8-40cb-ad21-11a2b43519ea"
         }
@@ -1408,7 +1539,7 @@
     {
         "doc": "HCM 426",
         "neighbors": {
-            "Walter le Bret de Pichencumb": "7e2f9f2c-4bcd-4fe0-a3bc-1d49807cf7e2",
+            "Walter le Bret de Pichencumb": "NOT FOUND",
             "Matilda ate Heueld'": "864158cd-16c1-43c6-9cc6-ed6615e122c4"
         }
     },
@@ -1419,6 +1550,42 @@
             "Emma his wife": "fb783b16-eca7-411c-8213-80a549a21617",
             "Matilda ate Heueld'": "864158cd-16c1-43c6-9cc6-ed6615e122c4"
         }
+    },
+    {
+        "doc": "HCM 426",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 426",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 426",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 426",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 426",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 426",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 426",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 426",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 426",
+        "neighbors": {}
     },
     {
         "doc": "HCM 433",
@@ -1445,15 +1612,15 @@
             "Hugh Tronne": "030ba6e3-dae3-4c41-9902-faa294849d75",
             "Hugh the clerk": "2c03d85a-8109-4b54-bd98-20e4e9f230e3",
             "Philip de Bruneshope": "9a9d8bbe-44b1-4fab-9e04-442a12d86220",
-            "Richard de Ledbury": "d9fa20bd-2e31-4477-b5b6-cd8a8c071f3d",
-            "Bishop of Hereford": "1eb4933c-65f8-40fc-9eb8-7a62800229b5"
+            "Richard de Ledbury": "NOT FOUND",
+            "Bishop of Hereford": "0d75305d-89af-4da3-b7ba-6421a1a97da3"
         }
     },
     {
         "doc": "HCM 436",
         "neighbors": {
             "Nicholas Contayl": "9d7fd837-42ae-4a03-bf33-127c03614c72",
-            "Men of Mora (collective)": "37f1f03d-eaa5-4e8e-8caf-cd2330676662",
+            "Men of Mora (collective)": "NOT FOUND",
             "Bishop of Hereford": "1eb4933c-65f8-40fc-9eb8-7a62800229b5"
         }
     },
@@ -1461,7 +1628,7 @@
         "doc": "HCM 436",
         "neighbors": {
             "Richard de Braumford": "0020e911-9805-46ae-8b09-2a56c5868f75",
-            "Men of Mora (collective)": "37f1f03d-eaa5-4e8e-8caf-cd2330676662",
+            "Men of Mora (collective)": "NOT FOUND",
             "Bishop of Hereford": "1eb4933c-65f8-40fc-9eb8-7a62800229b5"
         }
     },
@@ -1470,14 +1637,14 @@
         "neighbors": {
             "John de Teyntone": "1f098fd4-b436-4a54-bf94-2dc9202690d7",
             "John his nephew": "097e8a73-debf-41a9-964e-01799c275d87",
-            "Men of Mora (collective)": "37f1f03d-eaa5-4e8e-8caf-cd2330676662",
+            "Men of Mora (collective)": "NOT FOUND",
             "Bishop of Hereford": "1eb4933c-65f8-40fc-9eb8-7a62800229b5"
         }
     },
     {
         "doc": "HCM 468",
         "neighbors": {
-            "John le Knicht de Mora Canticorum": "f773d945-a240-4f62-b5d6-866125d3ce25",
+            "John le Knicht de Mora Canticorum": "NOT FOUND",
             "Thomas Thebaud": "c7087d8b-f1e5-4664-896f-df122f179472",
             "John Pryde": "da15bb75-5b12-489c-8c1f-bf64f77d6927"
         }
@@ -1503,16 +1670,20 @@
     {
         "doc": "HCM 470",
         "neighbors": {
-            "Walter son of John Pigage": "23161f0a-d70a-4c47-a775-b8ac65d1c25b",
+            "Walter son of John Pigage": "NOT FOUND",
             "Alice his wife": "38410d82-e31c-4828-bf1a-71778f02d357",
             "Dean and Chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
             "William de Straddel": "cd676fcd-6dcc-42ac-b158-0f9a601a072f"
         }
     },
     {
+        "doc": "HCM 470",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 508",
         "neighbors": {
-            "Ema Rord widow of Thomas son of John": "1431a9b6-24cd-4f37-9d80-12820d1da299",
+            "Ema Rord widow of Thomas son of John": "NOT FOUND",
             "Thomas son of John": "1431a9b6-24cd-4f37-9d80-12820d1da299",
             "Walter Ingian": "9db4b0e3-559c-4fdb-bf55-aa04641b0914",
             "John Cays": "0df0c477-7a75-4555-bf52-8f9304bbcbea"
@@ -1527,22 +1698,30 @@
         }
     },
     {
+        "doc": "HCM 508",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 516",
         "neighbors": {
             "Nicholas de la Barre": "fad5c3f3-a00b-439e-906d-9f35e0765c9b",
             "Tenement of the Lepers": "bf8f1409-2fdc-4b08-8ecc-32ef1ad8efa9",
             "John Scholliht": "6b8a2e1d-e78e-49b1-9b46-4376bd231c28",
-            "Robert the Dyer (Sanetor)": "f1f0eee9-8bcd-405f-98ca-254b84115398"
+            "Robert the Dyer (Sanetor)": "NOT FOUND"
         }
     },
     {
         "doc": "HCM 516",
         "neighbors": {
-            "Walter de Eueshame": "e01a71c5-7db0-48fd-9e85-11810c27b2ea",
+            "Walter de Eueshame": "NOT FOUND",
             "Tenement of the Lepers": "bf8f1409-2fdc-4b08-8ecc-32ef1ad8efa9",
             "John Scholliht": "6b8a2e1d-e78e-49b1-9b46-4376bd231c28",
-            "Robert the Dyer (Sanetor)": "f1f0eee9-8bcd-405f-98ca-254b84115398"
+            "Robert the Dyer (Sanetor)": "NOT FOUND"
         }
+    },
+    {
+        "doc": "HCM 516",
+        "neighbors": {}
     },
     {
         "doc": "HCM 492",
@@ -1565,11 +1744,15 @@
         }
     },
     {
+        "doc": "HCM 492",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 497",
         "neighbors": {
             "John son of John de Stretton": "8651ba2a-2e9e-438d-a0db-dadf4255670d",
             "Henry de Sancto Albano": "14134dbb-2a89-4b77-819f-cc0bd5680869",
-            "Hereford Cathedral": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
+            "Hereford Cathedral": "NOT FOUND",
             "Thomas le Combare": "f05c2ac3-c6d2-4790-a0ac-5a061d34b634"
         }
     },
@@ -1578,7 +1761,7 @@
         "neighbors": {
             "Thomas de Leominstria": "f3423ca0-7ddd-4363-8d2b-4426e1239a79",
             "Henry de Sancto Albano": "14134dbb-2a89-4b77-819f-cc0bd5680869",
-            "Hereford Cathedral": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
+            "Hereford Cathedral": "NOT FOUND",
             "Thomas le Combare": "f05c2ac3-c6d2-4790-a0ac-5a061d34b634"
         }
     },
@@ -1587,50 +1770,82 @@
         "neighbors": {
             "Henry son of Miles de Moniton": "de5edd63-0fe6-40f9-bceb-db58dc31652a",
             "Henry de Sancto Albano": "14134dbb-2a89-4b77-819f-cc0bd5680869",
-            "Hereford Cathedral": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
+            "Hereford Cathedral": "NOT FOUND",
             "Thomas le Combare": "f05c2ac3-c6d2-4790-a0ac-5a061d34b634"
         }
     },
     {
-        "doc": "HCM 516",
+        "doc": "HCM 517",
         "neighbors": {
-            "Nicholas Presebon de Hereford": "55cb38e8-88f2-4d90-a9f4-f78da99b3dcb",
+            "Nicholas Presebon de Hereford": "NOT FOUND",
             "Thomas de la barre": "02e5a46a-3416-47b1-8e3f-c9866ed27105",
-            "William le Knyt": "bd39ba08-d5a2-4c28-8971-29c2d533edce",
+            "William le Knyt": "NOT FOUND",
             "William Ballard": "7335e045-b727-4cc7-acf1-54ba7ec19b44"
         }
     },
     {
-        "doc": "HCM 516",
+        "doc": "HCM 517",
         "neighbors": {
-            "Hugh Thrum de Abouetheine": "6019bfe6-b4ce-4a3e-baf2-64b58f01b5e8",
+            "Hugh Thrum de Abouetheine": "NOT FOUND",
             "Thomas de la barre": "02e5a46a-3416-47b1-8e3f-c9866ed27105",
-            "William le Knyt": "bd39ba08-d5a2-4c28-8971-29c2d533edce",
+            "William le Knyt": "NOT FOUND",
             "William Ballard": "7335e045-b727-4cc7-acf1-54ba7ec19b44"
+        }
+    },
+    {
+        "doc": "HCM 517",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 517",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 547",
+        "neighbors": {
+            "Nicholas de la Calewe de Chirchbreynton": "NOT FOUND",
+            "Altar (Chantry) of BVM at Hereford Cathedral": "NOT FOUND"
         }
     },
     {
         "doc": "HCM 547",
         "neighbors": {
-            "Nicholas de la Calewe de Chirchbreynton": "a6bd15db-2d3d-4cc5-a506-7a5f3266c887",
-            "Altar (Chantry) of BVM at Hereford Cathedral": "3268bd6f-3e06-4687-b973-e187116b697b"
+            "William de Foston' ": "NOT FOUND",
+            "Altar (Chantry) of BVM at Hereford Cathedral": "NOT FOUND"
         }
     },
     {
         "doc": "HCM 547",
-        "neighbors": {
-            "William de Foston' ": "0934414c-edea-4554-bf76-dc141f3d2e5c",
-            "Altar (Chantry) of BVM at Hereford Cathedral": "3268bd6f-3e06-4687-b973-e187116b697b"
-        }
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 547",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 547",
+        "neighbors": {}
     },
     {
         "doc": "HCM 533",
         "neighbors": {
-            "Adam de Oulithe de Bromsberwe": "5a47e861-292f-4dac-9723-baa4bb6f06a9",
+            "Adam de Oulithe de Bromsberwe": "NOT FOUND",
             "George le Meleward'": "7aacd63e-3942-4d13-aca7-84c9020d2dae",
             "John atte Hacche": "2475588a-63b8-4ca1-9a2f-f98c43ee3612",
             "Walter atte Grene": "e1ab50c7-aa68-4d45-a2e6-38f97942bbe4"
         }
+    },
+    {
+        "doc": "HCM 533",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 533",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 533",
+        "neighbors": {}
     },
     {
         "doc": "HCM 532",
@@ -1649,6 +1864,10 @@
         }
     },
     {
+        "doc": "HCM 532",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 582",
         "neighbors": {
             "Thomas de Kent": "55a9382a-55ac-4f95-b611-296874cee8b2",
@@ -1659,17 +1878,21 @@
     {
         "doc": "HCM 582",
         "neighbors": {
-            "John son of John Scharp de Ledbury": "92db7f7f-e5a4-4b27-bfc6-e0cf011d91e7",
+            "John son of John Scharp de Ledbury": "NOT FOUND",
             "Rector of Estenor": "1e83fa4e-6be8-4c98-a93c-528060cdb210",
             "Richard Berde": "0184eed5-e71f-4713-a176-654b540c9777"
         }
     },
     {
+        "doc": "HCM 582",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 594",
         "neighbors": {
             "Roger Enyow de Lutelhope": "dfeada4c-7d4a-47c0-8797-220cc258b0bb",
-            "Philip Paty of Lutelhope": "259ca3dc-82de-400b-9af8-7b35d46ad3a5",
-            "Symon the parear'": "573b6598-477e-4747-94ba-1ff6b9b2bc51",
+            "Philip Paty of Lutelhope": "NOT FOUND",
+            "Symon the parear'": "NOT FOUND",
             "Richard Paty": "8bc25efb-84de-4042-ad2d-7e44f638d1b9"
         }
     },
@@ -1694,9 +1917,25 @@
         }
     },
     {
+        "doc": "HCM 556",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 556",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 556",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 556",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 557",
         "neighbors": {
-            "Margery widow of Laurence de Arundel de Ludegodfrey": "05881ef0-1b57-45ab-ad9d-455457b03f35",
+            "Margery widow of Laurence de Arundel de Ludegodfrey": "NOT FOUND",
             "John de Hompton": "7a081ebd-d6bc-409b-87ac-367d1bb076fe",
             "Adam called the Smith": "ed1e1bbb-b008-47e6-bda7-74099c8da0e4",
             "William son of Adam called the Smith de Bourghull": "c7a095d2-5f23-4e04-97ed-c316c5e6ebfe",
@@ -1710,19 +1949,19 @@
             "Nicholas Wynter": "7c4791b5-3aa5-488e-9ab1-485af17f0c96",
             "John de Teynton": "1f098fd4-b436-4a54-bf94-2dc9202690d7",
             "Hugh de Rotherwas": "bef87055-c05b-4bbf-8cf5-0aec4f971e96",
-            "Roger de Seuenak'": "3019bd14-950a-42e8-acd4-f77153a37e57"
+            "Roger de Seuenak'": "66b3af47-70bf-48c6-aa82-4e2cd131ba92"
         }
     },
     {
         "doc": "HCM 610",
         "neighbors": {
             "John de Kemesinge": "d32f70d1-07b8-41da-a100-1967fff70c02",
-            "Cecilia his wife": "61211bdc-60ae-43f3-b9d8-f5f6d87c6a2a",
+            "Cecilia his wife": "2f3a9db3-0da4-471c-8b20-3e0347c7f3ed",
             "William de Cyrecestr": "15c28993-4488-4640-84dd-89898bf46852",
             "Geoffrey de Werham": "c6520127-ec59-48c7-b482-2db5a145d6bc",
             "Alice de Braunford": "25e80a03-5cef-4601-ac73-60e5674c64b7",
             "John de la Hulle": "477a4040-4601-4f71-8f27-b6d1aa2c298c",
-            "John Wynter": "bcf6101e-36c1-4b15-b8f3-0f8a760671e9",
+            "John Eynter": "NOT FOUND",
             "Gilbert de Reygate": "f26f305f-bc8f-49a2-a42d-5ce3c8b024eb",
             "Richard de Braumford": "0020e911-9805-46ae-8b09-2a56c5868f75"
         }
@@ -1731,7 +1970,7 @@
         "doc": "HCM 600",
         "neighbors": {
             "Margery": "74acfdd0-69c3-49d9-a647-0953c29c17e7",
-            "Emmorius": "78f995da-7c59-45b9-b891-8220cc5418a9",
+            "Emmorius": "NOT FOUND",
             "William Motun de Wyhtewall": "f8226ca6-1fa4-4ca4-a945-1a5fa1bc8c8b",
             "Sibil de Underwode": "0f82bdea-2dc3-4c09-bf0e-47e6ac45c551",
             "Lord of Walford": "a26a28c0-103f-46e5-a147-9ef31a07bf74",
@@ -1743,7 +1982,7 @@
         "doc": "HCM 600",
         "neighbors": {
             "Thomas Benet": "55b6e3d4-ee8f-4d95-8bcd-ce63d5288b1f",
-            "Emmorius": "78f995da-7c59-45b9-b891-8220cc5418a9",
+            "Emmorius": "NOT FOUND",
             "William Motun de Wyhtewall": "f8226ca6-1fa4-4ca4-a945-1a5fa1bc8c8b",
             "Sibil de Underwode": "0f82bdea-2dc3-4c09-bf0e-47e6ac45c551",
             "Lord of Walford": "a26a28c0-103f-46e5-a147-9ef31a07bf74",
@@ -1755,12 +1994,12 @@
         "doc": "HCM 602",
         "neighbors": {
             "Thomas Benet": "55b6e3d4-ee8f-4d95-8bcd-ce63d5288b1f",
-            "Emmor' son of Walter James": "78f995da-7c59-45b9-b891-8220cc5418a9",
-            "William Motun de Whytewall": "f8226ca6-1fa4-4ca4-a945-1a5fa1bc8c8b",
+            "Emmor' son of Walter James": "NOT FOUND",
+            "William Motun de Whytewall": "NOT FOUND",
             "Sibil Underwood": "0f82bdea-2dc3-4c09-bf0e-47e6ac45c551",
             "Thomas de Blakeneye": "53ceca66-99de-4f8d-b3c6-93e68285713a",
             "Lord of Walford": "a26a28c0-103f-46e5-a147-9ef31a07bf74",
-            "Richard Adams": "dd712f1f-e46b-4c52-8f6b-20b2532c76ee"
+            "Richard Adams": "NOT FOUND"
         }
     },
     {
@@ -1768,19 +2007,19 @@
         "neighbors": {
             "William son of Roger Payn de Hamme": "4bc32815-841f-4349-b073-ce07db1e9007",
             "Margery": "74acfdd0-69c3-49d9-a647-0953c29c17e7",
-            "Emmor' son of Walter James": "78f995da-7c59-45b9-b891-8220cc5418a9",
-            "William Motun de Whytewall": "f8226ca6-1fa4-4ca4-a945-1a5fa1bc8c8b",
+            "Emmor' son of Walter James": "NOT FOUND",
+            "William Motun de Whytewall": "NOT FOUND",
             "Sibil Underwood": "0f82bdea-2dc3-4c09-bf0e-47e6ac45c551",
             "Thomas de Blakeneye": "53ceca66-99de-4f8d-b3c6-93e68285713a",
             "Lord of Walford": "a26a28c0-103f-46e5-a147-9ef31a07bf74",
-            "Richard Adams": "dd712f1f-e46b-4c52-8f6b-20b2532c76ee"
+            "Richard Adams": "NOT FOUND"
         }
     },
     {
         "doc": "HCM 604",
         "neighbors": {
-            "Margery": "74acfdd0-69c3-49d9-a647-0953c29c17e7",
-            "Emmor' ": "78f995da-7c59-45b9-b891-8220cc5418a9",
+            "Margery": "NOT FOUND",
+            "Emmor' ": "NOT FOUND",
             "Thomas de Blakeneye": "53ceca66-99de-4f8d-b3c6-93e68285713a"
         }
     },
@@ -1788,7 +2027,7 @@
         "doc": "HCM 604",
         "neighbors": {
             "Thomas Benet": "55b6e3d4-ee8f-4d95-8bcd-ce63d5288b1f",
-            "Emmor' ": "78f995da-7c59-45b9-b891-8220cc5418a9",
+            "Emmor' ": "NOT FOUND",
             "Thomas de Blakeneye": "53ceca66-99de-4f8d-b3c6-93e68285713a"
         }
     },
@@ -1796,7 +2035,7 @@
         "doc": "HCM 605",
         "neighbors": {
             "Margery": "74acfdd0-69c3-49d9-a647-0953c29c17e7",
-            "Emmor' ": "78f995da-7c59-45b9-b891-8220cc5418a9",
+            "Emmor' ": "NOT FOUND",
             "Thomas de Blakeneye": "53ceca66-99de-4f8d-b3c6-93e68285713a"
         }
     },
@@ -1804,7 +2043,7 @@
         "doc": "HCM 605",
         "neighbors": {
             "Sibil": "0f82bdea-2dc3-4c09-bf0e-47e6ac45c551",
-            "Emmor' ": "78f995da-7c59-45b9-b891-8220cc5418a9",
+            "Emmor' ": "NOT FOUND",
             "Thomas de Blakeneye": "53ceca66-99de-4f8d-b3c6-93e68285713a"
         }
     },
@@ -1813,7 +2052,7 @@
         "neighbors": {
             "Margery": "74acfdd0-69c3-49d9-a647-0953c29c17e7",
             "Matilda": "99941260-59a4-4531-8041-54bbeef9d1ca",
-            "William Motun de Wyhtewall": "50dd534a-7695-44c5-be7c-0f2bfdf66562",
+            "William Motun de Wyhtewall": "NOT FOUND",
             "Sibil de Underwode": "0f82bdea-2dc3-4c09-bf0e-47e6ac45c551",
             "Lord of Walford": "a26a28c0-103f-46e5-a147-9ef31a07bf74",
             "Thomas de Blakeneye": "53ceca66-99de-4f8d-b3c6-93e68285713a",
@@ -1826,7 +2065,7 @@
             "Richard de Breumford": "0020e911-9805-46ae-8b09-2a56c5868f75",
             "John de la Hulle": "477a4040-4601-4f71-8f27-b6d1aa2c298c",
             "Geoffrey the Reeve": "b7b548f5-d2c3-4108-b920-be4167e09229",
-            "Robert Young": "ecbef2e8-0dc9-414f-8cae-dd9629492ff1"
+            "Robert Young": "NOT FOUND"
         }
     },
     {
@@ -1835,7 +2074,7 @@
             "John de Teynton": "1f098fd4-b436-4a54-bf94-2dc9202690d7",
             "John de la Hulle": "477a4040-4601-4f71-8f27-b6d1aa2c298c",
             "Geoffrey the Reeve": "b7b548f5-d2c3-4108-b920-be4167e09229",
-            "Robert Young": "ecbef2e8-0dc9-414f-8cae-dd9629492ff1"
+            "Robert Young": "NOT FOUND"
         }
     },
     {
@@ -1859,12 +2098,16 @@
         "neighbors": {
             "Margery": "74acfdd0-69c3-49d9-a647-0953c29c17e7",
             "Emmorius": "78f995da-7c59-45b9-b891-8220cc5418a9",
-            "William Motun de Wyhtewall": "f8226ca6-1fa4-4ca4-a945-1a5fa1bc8c8b",
+            "William Motun de Wyhtewall": "NOT FOUND",
             "Sibil de Underwode": "0f82bdea-2dc3-4c09-bf0e-47e6ac45c551",
-            "Lord of Walford": "0c4f2cb3-8114-43ce-b451-c33a9ff3cbc7",
+            "Lord of Walford": "a26a28c0-103f-46e5-a147-9ef31a07bf74",
             "Thomas de Blakeneye": "53ceca66-99de-4f8d-b3c6-93e68285713a",
             "Richard Adames": "dd712f1f-e46b-4c52-8f6b-20b2532c76ee"
         }
+    },
+    {
+        "doc": "HCM 601",
+        "neighbors": {}
     },
     {
         "doc": "HCM 624",
@@ -1878,6 +2121,14 @@
             "Henry Bole": "53172cc5-ed44-4105-88f5-114e318e2a8a",
             "David the clerk": "847e815d-85f3-4f04-9346-817136e8d96e"
         }
+    },
+    {
+        "doc": "HCM 624",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 624",
+        "neighbors": {}
     },
     {
         "doc": "HCM 638",
@@ -1894,10 +2145,14 @@
         }
     },
     {
+        "doc": "HCM 638",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 635",
         "neighbors": {
             "Adam de la Felde de Lulham": "663655b9-c33d-408d-be91-ba8264a80573",
-            "Andrew de Lulham [neighbor\u2014missed in orig markup]": "002f6425-43c5-4737-91fd-89f67f06aaa1",
+            "Andrew de Lulham [neighbor\u2014missed in orig markup]": "NOT FOUND",
             "John de Albrug": "ee2c0f42-1927-4c8d-a298-cc5eaba8f8d6",
             "John de Lulham": "4e73709e-1c1b-412f-adf7-e82995460003",
             "John Attesion": "766b080a-21f1-4348-ae53-76b239e603a3",
@@ -1908,15 +2163,15 @@
         }
     },
     {
-        "doc": "HCM 683",
+        "doc": "HCM 633",
         "neighbors": {
-            "Stephen Payne de Doweswalle": "75f7c790-a4f3-4c2f-9a76-7b9d65599094",
+            "Stephen Payne de Doweswalle": "NOT FOUND",
             "John Turburuile": "4844b611-06cd-46b3-a11f-f68aac4ecd69",
             "John de la Grene": "c7c839f4-bd55-48c1-998b-0bc2af25efd4"
         }
     },
     {
-        "doc": "HCM 683",
+        "doc": "HCM 633",
         "neighbors": {
             "John Iweyn": "644c4037-fc1b-4174-b85b-c8de888e6447",
             "John Turburuile": "4844b611-06cd-46b3-a11f-f68aac4ecd69",
@@ -1943,9 +2198,13 @@
         }
     },
     {
+        "doc": "HCM 636",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 663",
         "neighbors": {
-            "John de Naurdin": "9a7aa1b9-37b8-4f29-9c1a-90fa2404fc22",
+            "John de Naurdin": "NOT FOUND",
             "Ralph Loue": "743bddf5-f77e-4333-8aa1-9fab43695e5d",
             "Walter Red": "174c9e61-7930-4f30-8281-2e2bed258b0d",
             "Phillip Minne": "a677b284-0994-49d4-a016-96ba0ed8a20b"
@@ -1961,6 +2220,10 @@
         }
     },
     {
+        "doc": "HCM 663",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 664",
         "neighbors": {
             "Walter de Monemut'": "60463ff2-895f-473c-8a04-fe2ffdf77a9e",
@@ -1969,12 +2232,16 @@
         }
     },
     {
+        "doc": "HCM 664",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 644",
         "neighbors": {
-            "John de Homptone de Luyde son of Roger Homptone": "7a081ebd-d6bc-409b-87ac-367d1bb076fe",
-            "Henry le Hodere": "1aa8024a-1d30-4d7e-a064-bcde69d274b6",
+            "John de Homptone de Luyde son of Roger Homptone": "NOT FOUND",
+            "Henry le Hodere": "NOT FOUND",
             "Richard de la Beere": "701bf6eb-5dea-437b-87d9-2f2343c85389",
-            "Huhg le Sergaunt": "96619b0a-debb-4873-ac18-8d691d3f9c12",
+            "Huhg le Sergaunt": "NOT FOUND",
             "Hugh de Shelwyke": "7fbb80ec-353e-452e-a7a5-ab6522526b00",
             "William Ballard": "7335e045-b727-4cc7-acf1-54ba7ec19b44",
             "Agnes de Arundel": "34fee43d-0b0a-4acf-b93b-658e831919d6"
@@ -1984,9 +2251,9 @@
         "doc": "HCM 644",
         "neighbors": {
             "John de Nortone": "b8adce82-f73e-4d10-9ec5-a14ecdb6a90f",
-            "Henry le Hodere": "1aa8024a-1d30-4d7e-a064-bcde69d274b6",
+            "Henry le Hodere": "NOT FOUND",
             "Richard de la Beere": "701bf6eb-5dea-437b-87d9-2f2343c85389",
-            "Huhg le Sergaunt": "96619b0a-debb-4873-ac18-8d691d3f9c12",
+            "Huhg le Sergaunt": "NOT FOUND",
             "Hugh de Shelwyke": "7fbb80ec-353e-452e-a7a5-ab6522526b00",
             "William Ballard": "7335e045-b727-4cc7-acf1-54ba7ec19b44",
             "Agnes de Arundel": "34fee43d-0b0a-4acf-b93b-658e831919d6"
@@ -2012,9 +2279,25 @@
         }
     },
     {
+        "doc": "HCM 666",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 666",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 666",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 666",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 669",
         "neighbors": {
-            "John son of Phillip de Middlewode": "6e2f7c87-ba33-466d-aba1-eaed1ac83939",
+            "John son of Phillip de Middlewode": "NOT FOUND",
             "John de Monitone": "2ea125d7-ca29-4a4a-ab44-63d65c5c802b",
             "Richard Lynon": "74bfdd51-7672-463c-95c0-bde1d0583395",
             "Symon son of Adam": "6fb30a62-6cb0-45d9-9083-3669426582d9"
@@ -2049,7 +2332,7 @@
     {
         "doc": "HCM 685",
         "neighbors": {
-            "Margery daughter of William de Coleuile": "8570b858-c189-42f5-8912-ed10349ec6e5",
+            "Margery daughter of William de Coleuile": "NOT FOUND",
             "Dionisia Iweyn de Hereford": "5c652d1b-f740-4dac-a28d-a5188988331e",
             "John Turburuile": "4844b611-06cd-46b3-a11f-f68aac4ecd69",
             "John Iweyn": "644c4037-fc1b-4174-b85b-c8de888e6447"
@@ -2058,8 +2341,8 @@
     {
         "doc": "HCM 672",
         "neighbors": {
-            "Richard de Boyfield de Munstreworth": "30514833-3c05-425e-a319-b13fc253b179",
-            "Richard Wyleken": "f6646744-003a-4c20-ad09-d67ff38bc189",
+            "Richard de Boyfield de Munstreworth": "NOT FOUND",
+            "Richard Wyleken": "NOT FOUND",
             "Ralph Hathewy": "187737b7-9831-4938-a36c-1a3d781c1105",
             "John de Clynton": "91a30f17-ff0b-4568-ad5a-e3de582f9ec7",
             "William de Colrugge de Aston": "e5ddb117-f2d8-422d-8df6-ba86d5d56d09"
@@ -2069,11 +2352,15 @@
         "doc": "HCM 672",
         "neighbors": {
             "Henry le Draper": "bc3057d1-3762-4e34-bc7f-70d33be93538",
-            "Richard Wyleken": "f6646744-003a-4c20-ad09-d67ff38bc189",
+            "Richard Wyleken": "NOT FOUND",
             "Ralph Hathewy": "187737b7-9831-4938-a36c-1a3d781c1105",
             "John de Clynton": "91a30f17-ff0b-4568-ad5a-e3de582f9ec7",
             "William de Colrugge de Aston": "e5ddb117-f2d8-422d-8df6-ba86d5d56d09"
         }
+    },
+    {
+        "doc": "HCM 672",
+        "neighbors": {}
     },
     {
         "doc": "HCM 676",
@@ -2103,10 +2390,34 @@
         }
     },
     {
+        "doc": "HCM 679",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 679",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 679",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 679",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 679",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 679",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 693",
         "neighbors": {
             "John": "691c45df-8dc7-4f31-8214-98af6ef48b6e",
-            "Reginald Calunus (le Calewe?)": "35efab93-c23f-451f-995d-542102524e2f",
+            "Reginald Calunus (le Calewe?)": "NOT FOUND",
             "William the medicus": "52ad8e52-13b9-4eab-a371-7b841224cbbe"
         }
     },
@@ -2114,16 +2425,16 @@
         "doc": "HCM 693",
         "neighbors": {
             "Matthew the taverner of Hereford": "325d2880-1e2d-457c-b49a-dcaae68dea8b",
-            "Reginald Calunus (le Calewe?)": "35efab93-c23f-451f-995d-542102524e2f",
+            "Reginald Calunus (le Calewe?)": "NOT FOUND",
             "William the medicus": "52ad8e52-13b9-4eab-a371-7b841224cbbe"
         }
     },
     {
         "doc": "HCM 690",
         "neighbors": {
-            "William de Payne de Deueswell": "d78e3607-1bb8-46fc-be6a-bd4f137da890",
+            "William de Payne de Deueswell": "NOT FOUND",
             "William de Trompeton": "8b89e4d8-2807-4c83-aaf1-481a8338bc80",
-            "Matthew le Tauerner": "325d2880-1e2d-457c-b49a-dcaae68dea8b",
+            "Matthew le Tauerner": "NOT FOUND",
             "John ad Fontem": "691c45df-8dc7-4f31-8214-98af6ef48b6e",
             "Nicholas Cossyn": "af68d188-f0fd-4c27-9074-5b27d1482837",
             "Walter Grym": "bf04bdfb-c5a3-4c10-8d99-770a80739b24"
@@ -2134,7 +2445,7 @@
         "neighbors": {
             "William le Crumppe": "9c4ad2a8-7d00-4045-9f3f-2b4cd6e497c4",
             "William de Trompeton": "8b89e4d8-2807-4c83-aaf1-481a8338bc80",
-            "Matthew le Tauerner": "325d2880-1e2d-457c-b49a-dcaae68dea8b",
+            "Matthew le Tauerner": "NOT FOUND",
             "John ad Fontem": "691c45df-8dc7-4f31-8214-98af6ef48b6e",
             "Nicholas Cossyn": "af68d188-f0fd-4c27-9074-5b27d1482837",
             "Walter Grym": "bf04bdfb-c5a3-4c10-8d99-770a80739b24"
@@ -2143,8 +2454,8 @@
     {
         "doc": "HCM 688",
         "neighbors": {
-            "William son of Richard the medicus of Dewynsall": "52ad8e52-13b9-4eab-a371-7b841224cbbe",
-            "John de Fonte de Dewynswall": "691c45df-8dc7-4f31-8214-98af6ef48b6e",
+            "William son of Richard the medicus of Dewynsall": "NOT FOUND",
+            "John de Fonte de Dewynswall": "NOT FOUND",
             "William le Palmer": "afbe098c-3adb-4fca-af4c-9b98681902b9",
             "Walter Grim": "bf04bdfb-c5a3-4c10-8d99-770a80739b24",
             "William Payn": "d78e3607-1bb8-46fc-be6a-bd4f137da890"
@@ -2178,11 +2489,11 @@
     {
         "doc": "HCM 692",
         "neighbors": {
-            "John le Clerk de Deweswalle": "c140c8c6-a42e-4d6e-886e-d9a64d3ebd7c",
+            "John le Clerk de Deweswalle": "NOT FOUND",
             "Edith his wife": "20f89413-09e9-485f-9035-8896f9041edf",
-            "Hamon Wake": "f873558c-b742-4946-b3d0-a16fd23b5d67",
+            "Hamon Wake": "NOT FOUND",
             "Felicia his wife": "bf3bf411-359a-4cec-8297-70c86bc125e8",
-            "John Payne": "2318b5ae-c66d-4218-ac64-909bb924f081",
+            "John Payne": "NOT FOUND",
             "William le Palmer": "afbe098c-3adb-4fca-af4c-9b98681902b9"
         }
     },
@@ -2192,33 +2503,141 @@
             "William Payn son of William Payn de Deuswelle": "d78e3607-1bb8-46fc-be6a-bd4f137da890",
             "William le Cromppe": "9c4ad2a8-7d00-4045-9f3f-2b4cd6e497c4",
             "Roger Tyrel": "f3879210-83f7-42cb-aea0-db4822b4ac93",
-            "Prioress of Acornbury": "a9275e36-92aa-4d60-82b5-d28a8df75eaf",
+            "Prioress of Acornbury": NaN,
             "William le Palmer": "afbe098c-3adb-4fca-af4c-9b98681902b9"
         }
     },
     {
+        "doc": "HCM 691",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 691",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 691",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 691",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 691",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 703",
         "neighbors": {
-            "John son of Agnes daughter of Alice Mansion": "0a9c3571-65fa-4312-befe-f5c8a0ca580c",
+            "John son of Agnes daughter of Alice Mansion": "NOT FOUND",
             "Richard de Webbeleye": "9df924d8-232b-4641-84c2-592b47ff954f",
             "John de Maurdin": "9a7aa1b9-37b8-4f29-9c1a-90fa2404fc22"
         }
     },
     {
+        "doc": "HCM 703",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 703",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 703",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 703",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 703",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 703",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 703",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 703",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 703",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 703",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 889",
         "neighbors": {
             "Alan de Leyntwardyn": "c271f207-cc8f-499f-be17-f8d9270903b2",
-            "William de Schelwye": "f6645c6e-f7cd-42ce-b8de-77c2cde7ba40",
-            "Almsouse of Hereford": "05e337f5-9911-4498-9b0e-af276ab1ed21",
+            "William de Schelwye": "NOT FOUND",
+            "Almsouse of Hereford": "NOT FOUND",
             "Philip le Smyth": "c4e27115-e739-49d9-8faf-9e42cbd4991b"
         }
+    },
+    {
+        "doc": "HCM 889",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 889",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 889",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 889",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 889",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 889",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 889",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 889",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 889",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 889",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 889",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 889",
+        "neighbors": {}
     },
     {
         "doc": "HCM 1058",
         "neighbors": {
             "Richard Swinfield": "1eb4933c-65f8-40fc-9eb8-7a62800229b5",
-            "Abbot & convent of Shrewsbury": "cf0136ef-606c-4a53-8d0c-00ac971583b2a",
-            "Richard the clerk": "5332b9a5-70c1-475f-81e9-efc8da7f6c36",
+            "Abbot & convent of Shrewsbury": "NOT FOUND",
+            "Richard the clerk": "NOT FOUND",
             "Roger le Feuere": "ea69457f-6f5d-4b0d-98af-2989b447843a",
             "Ralph son of Walter": "228a57e6-dc87-44bc-9161-dad5eb0da8c6"
         }
@@ -2238,6 +2657,14 @@
         }
     },
     {
+        "doc": "HCM 1067",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1067",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 1075",
         "neighbors": {
             "Adam": "5ed0a22f-aa27-4fb7-a675-0d1416718145",
@@ -2246,12 +2673,32 @@
         }
     },
     {
+        "doc": "HCM 1075",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1075",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1075",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 1073",
         "neighbors": {
-            "Hugh son of Robert Edrich": "66c07695-6373-4820-ac6e-06157870e9cf",
+            "Hugh son of Robert Edrich": "NOT FOUND",
             "Richard Swinfield": "1eb4933c-65f8-40fc-9eb8-7a62800229b5",
             "Margery": "1c672454-5cb2-4fd4-adac-ec0f03945d9e"
         }
+    },
+    {
+        "doc": "HCM 1073",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1073",
+        "neighbors": {}
     },
     {
         "doc": "HCM 1179",
@@ -2263,9 +2710,49 @@
         }
     },
     {
+        "doc": "HCM 1179",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1179",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1179",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1179",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1179",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1179",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1179",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1179",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1179",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1179",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 1274",
         "neighbors": {
-            "John son of Walter Pytte of Breyntona": "8f1517d0-3bb4-4bc1-a4b6-69f9b6c6b66e",
+            "John son of Walter Pytte of Breyntona": "NOT FOUND",
             "Robert de Fostona": "ecbef2e8-0dc9-414f-8cae-dd9629492ff1",
             "William the clerk": "0934414c-edea-4554-bf76-dc141f3d2e5c",
             "Roger Lucas": "384534a9-5ec3-400e-9af4-031b67080bd3",
@@ -2280,7 +2767,7 @@
             "Henry son of Roger": "1545b643-b1ec-4c34-b13f-11a28a97f44f",
             "Agnes de Bereford": "d476525c-50e0-4f93-b71d-5a39f5f57730",
             "John son of Gilbert": "b788de98-a3e4-4f87-8f10-7588821098af",
-            "Prior of Wormeleye": "8e9c90fa-b52c-4adb-8101-02fc0936a830",
+            "Prioro f Wormeleye": "NOT FOUND",
             "Hugh Wronon": "331404fb-1ed0-45ec-8919-4ce220fbdf5d"
         }
     },
@@ -2303,7 +2790,7 @@
     {
         "doc": "HCM 1246",
         "neighbors": {
-            "Adam de Nortone": "72dec356-9150-4f36-9aab-4d542d56f1c6",
+            "Adam de Nortone": "NOT FOUND",
             "Richard de Penebrugge": "41f23a70-450d-4255-a531-d18be6d660a1",
             "Walter Gautron": "3917d817-1e12-4c49-9ae6-52d451bba954",
             "Hugh de la Calewe": "0199f904-0f2c-451e-9339-7fb5a3726537"
@@ -2321,8 +2808,8 @@
     {
         "doc": "HCM 1221",
         "neighbors": {
-            "Thomas Lulham de Clehungre": "51f44946-85e2-40fc-9358-dfd216c6149d",
-            "Alice Renald": "3ce0dec7-60ee-41aa-b0f5-703e3aaf0c18",
+            "Thomas Lulham de Clehungre": "NOT FOUND",
+            "Alice Renald": "NOT FOUND",
             "John de Stoney": "74432153-0106-40f5-bcfa-bd690b60665c",
             "Canons of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2"
         }
@@ -2331,31 +2818,267 @@
         "doc": "HCM 1221",
         "neighbors": {
             "Nicholas Pere de Preston": "a84392ae-d7b4-4deb-9e05-aa24a5d39470",
-            "Alice Renald": "3ce0dec7-60ee-41aa-b0f5-703e3aaf0c18",
+            "Alice Renald": "NOT FOUND",
             "John de Stoney": "74432153-0106-40f5-bcfa-bd690b60665c",
             "Canons of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2"
         }
     },
     {
+        "doc": "HCM 1221",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1221",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1221",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1221",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1221",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1221",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1221",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 1314",
         "neighbors": {
-            "Roger Wyty de Breynton": "d8a69612-dfb3-4c4a-964d-36118ec733ea",
+            "Roger Wyty de Breynton": "NOT FOUND",
             "Alice his wife": "3383d4f5-05f2-4b82-8e54-59aad2aecd6c",
             "Bartholomew le Spicer": "1ff1abc6-e1a7-43f7-9391-15e8c95f8388",
-            "Prebend of Brainton": "c266806a-4789-4c7b-9ffa-6b434c0f964c",
+            "Prebend of Brainton": "NOT FOUND",
             "Alice la Scheperd": "d734a120-4c80-4e2e-8a12-fa6aa46949ce",
-            "Swety la Noreis": "dd635172-929b-4c56-8a80-20780cb358ce",
+            "Swety la Noreis": "NOT FOUND",
             "Alditha la Scheperd": "bbddf061-b995-49ae-8f64-ce93d43e1988"
         }
+    },
+    {
+        "doc": "HCM 1314",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1314",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1314",
+        "neighbors": {}
     },
     {
         "doc": "HCM 1300",
         "neighbors": {
             "Dean and Chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
             "William de Blakemere": "560e0602-7dc9-4a95-9b7a-6c389c71f895",
-            "Vicars of Hereford": "ada26f4a-34b6-483b-8001-f4651154e301",
+            "Vicars of Hereford": "NOT FOUND",
             "Thomas Hervy": "32e5efd0-d365-45b2-ac36-a354c3c2c15f"
         }
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1300",
+        "neighbors": {}
     },
     {
         "doc": "HCM 1471",
@@ -2365,27 +3088,55 @@
         }
     },
     {
+        "doc": "HCM 1471",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1471",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1471",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1471",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1471",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 1474",
         "neighbors": {
             "Robert de Biford": "45c22c0c-ccc4-42e1-815c-4873bb4b9ffe",
             "John atte Roke": "082be708-79ef-4e89-8217-2911c7f6a253",
             "Robert de Preston": "703e3220-5cb2-43fd-acab-78ab405337bc",
-            "Richard de Bohenhull": "20a2ee4f-bbf4-441b-afd2-d57acef72839",
+            "Richard de Bohenhull": "NOT FOUND",
             "Robert de Bokenhull": "9f7ead1b-2d08-4345-ac2d-c0009e4d2b9a",
-            "Roger de Clehangre": "8eed191f-4ac0-4ef2-8579-4a72945c84b4",
-            "Walter de Marchald": "fd184f50-b9b3-41bf-ba56-d0edc1531588",
-            "William Teyntrl": "5223ff75-0d12-4998-b0d8-51f149fbe040",
+            "Roger de Clehangre": "NOT FOUND",
+            "Walter de Marchald": "NOT FOUND",
+            "William Teyntrl": "NOT FOUND",
             "Laurence Stevenys": "076b60b5-dc13-4774-894f-0692953d3ecf"
         }
     },
     {
         "doc": "HCM 1474",
         "neighbors": {
-            "Henry de Marcle le Cotyler\nRector of St Nicholas": "66d8a728-2e77-45b5-a693-240b1c621d2e",
-            "Walter de Marchald": "fd184f50-b9b3-41bf-ba56-d0edc1531588",
-            "William Teyntrl": "5223ff75-0d12-4998-b0d8-51f149fbe040",
+            "Henry de Marcle le Cotyler\nRector of St Nicholas": "NOT FOUND",
+            "Walter de Marchald": "NOT FOUND",
+            "William Teyntrl": "NOT FOUND",
             "Laurence Stevenys": "076b60b5-dc13-4774-894f-0692953d3ecf"
         }
+    },
+    {
+        "doc": "HCM 1474",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1474",
+        "neighbors": {}
     },
     {
         "doc": "HCM 1486",
@@ -2405,7 +3156,7 @@
     {
         "doc": "HCM 1473",
         "neighbors": {
-            "Andrew de Leominstre": "ea26235a-e460-412f-8bbe-b8981d7266de",
+            "Andrew de Leominstre": "NOT FOUND",
             "Nicholas Peare": "a84392ae-d7b4-4deb-9e05-aa24a5d39470",
             "Cecilia": "c8ce496a-2c3e-4d34-b233-aab4cdadb544",
             "Thomas Tope": "9c66bd52-c9c2-4f05-b617-80ede1fcd30c"
@@ -2414,7 +3165,7 @@
     {
         "doc": "HCM 1473",
         "neighbors": {
-            "Thomas de Leominstre": "f3423ca0-7ddd-4363-8d2b-4426e1239a79",
+            "Thomas de Leominstre": "NOT FOUND",
             "Nicholas Peare": "a84392ae-d7b4-4deb-9e05-aa24a5d39470",
             "Cecilia": "c8ce496a-2c3e-4d34-b233-aab4cdadb544",
             "Thomas Tope": "9c66bd52-c9c2-4f05-b617-80ede1fcd30c"
@@ -2424,7 +3175,7 @@
         "doc": "HCM 1487",
         "neighbors": {
             "William de Staunton": "038a4ad7-4e97-4aa0-8aca-0f1a4c4e25ee",
-            "Isabella his wife": "5ab5bbc2-41b1-4e25-927f-67ba5a4e4e04",
+            "Isabella his wife": "NOT FOUND",
             "Gilbert le Whelere de Maddeleye": "bda61ed1-4c30-4e5f-8f3f-4f1df90aa8e6",
             "Walter de Cobleton": "8af5fdde-bb6e-4e82-a6fa-d077921492f4"
         }
@@ -2438,45 +3189,69 @@
         }
     },
     {
+        "doc": "HCM 1487",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1487",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1487",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 1584",
         "neighbors": {
-            "John son of Peter Jones of Little Hereford": "1ec44fdb-25bc-4f66-bf11-3b41b085e039",
+            "John son of Peter Jones of Little Hereford": "NOT FOUND",
             "John Rogeres": "1e5131ca-76e1-41a5-88d4-e81abfde7aba",
-            "Altar of the BVM": "3255c29f-eca2-481a-b3d1-c958ddc428d4"
+            "Altar of the BVM": "NOT FOUND"
         }
     },
     {
         "doc": "HCM 1584",
         "neighbors": {
-            "John son of Geoffrey of Clifton": "1e381e9f-042d-49f1-9b97-674ea11e5ac2",
+            "John son of Geoffrey of Clifton": "NOT FOUND",
             "John Rogeres": "1e5131ca-76e1-41a5-88d4-e81abfde7aba",
-            "Altar of the BVM": "3255c29f-eca2-481a-b3d1-c958ddc428d4"
+            "Altar of the BVM": "NOT FOUND"
         }
+    },
+    {
+        "doc": "HCM 1584",
+        "neighbors": {}
     },
     {
         "doc": "HCM 1601",
         "neighbors": {
             "Robert Curteys": "9ad15a0b-0aa3-4646-82ac-88b914517600",
             "Osbert Daget": "920401bc-b129-475c-b3d5-dd5c162d4bd1",
-            "Christina his wife": "f2fb7a3d-3ce4-495e-b516-e148d999ab06",
+            "Christina his wife": "NOT FOUND",
             "William": "47199d98-2b41-4b8b-b5ae-fe64d1497796",
             "Matilda Curteys": "0bd9b9b6-dfb8-49d2-8669-6fe96de4d77d",
-            "Villeans of the abbot of St Peter' s Gloucester": "a95f86bb-f77f-4d73-93c0-7d68d939aebb"
+            "Villeans of the abbot of St Peter' s Gloucester": "NOT FOUND"
         }
+    },
+    {
+        "doc": "HCM 1601",
+        "neighbors": {}
     },
     {
         "doc": "HCM 1587",
         "neighbors": {
-            "Marger' Colevyll": "525f06fb-58b3-4d96-b329-a21f6f39f223",
+            "Marger' Colevyll": "NOT FOUND",
             "Roger de Dornedal'": "cdee2b11-12ef-45bf-9709-c30fdbac0501",
             "Roger Bithebrok": "4243d96b-2d6d-4d4a-8ece-f7300e9c2932",
-            "Alice his wife": "26850d6b-048e-4d87-8ee6-d9e92abfbd2d"
+            "Alice his wife": "64928c37-ad68-44df-b76f-4af08dd5d1a6"
         }
+    },
+    {
+        "doc": "HCM 1587",
+        "neighbors": {}
     },
     {
         "doc": "HCM 1611",
         "neighbors": {
-            "Abbot & convent of St Peter' s Gloucester": "aabade39-f8ba-481c-a646-3dda1233051f",
+            "Abbot & convent of St Peter' s Gloucester": "NOT FOUND",
             "Church of Bromfeld": "9b1266f3-c6c7-4390-bcb2-501be3f129e8"
         }
     },
@@ -2489,6 +3264,30 @@
         }
     },
     {
+        "doc": "HCM 1611",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1611",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1611",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1611",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1611",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1611",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 1654",
         "neighbors": {
             "Robert de Kynemarsbur": "69d86ff9-8f20-44a8-b3ba-c37375a1af7a",
@@ -2496,15 +3295,59 @@
         }
     },
     {
+        "doc": "HCM 1654",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1654",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1654",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1654",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1654",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1654",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1654",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1654",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1654",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1654",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1654",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 1667",
         "neighbors": {
-            "Nicholas Brounyng of Essex": "d363e7fc-439d-4543-852d-94937d552736",
-            "Margaret le Brok' ": "7bd2cc38-4988-4b9f-a653-b8adf4b508ad",
+            "Nicholas Brounyng of Essex": "NOT FOUND",
+            "Margaret le Brok' ": "NOT FOUND",
             "John": "7e72492a-7df0-4132-9f99-11f820f0874a",
             "Edith La Carter": "948e4733-d2a6-4589-b5c9-b124d219735a",
             "Eva La Fremon": "3ed999d8-5ecc-4b1b-98a7-a27bf7b0d588",
             "Robert le Cartar'": "c8abcf94-9f1d-4d15-9b41-3fb4521143a1",
-            "J. atte Halle": "4ae69159-d2eb-4e60-8907-871565d54776",
+            "J. atte Halle": "NOT FOUND",
             "Richard le Peyter": "d400a5c3-5e81-4018-b88d-f43bd9ac511c"
         }
     },
@@ -2516,9 +3359,37 @@
             "Edith La Carter": "948e4733-d2a6-4589-b5c9-b124d219735a",
             "Eva La Fremon": "3ed999d8-5ecc-4b1b-98a7-a27bf7b0d588",
             "Robert le Cartar'": "c8abcf94-9f1d-4d15-9b41-3fb4521143a1",
-            "J. atte Halle": "4ae69159-d2eb-4e60-8907-871565d54776",
+            "J. atte Halle": "NOT FOUND",
             "Richard le Peyter": "d400a5c3-5e81-4018-b88d-f43bd9ac511c"
         }
+    },
+    {
+        "doc": "HCM 1667",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1667",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1667",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1667",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1667",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1667",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1667",
+        "neighbors": {}
     },
     {
         "doc": "HCM 1719",
@@ -2526,7 +3397,7 @@
             "Geoffrey de la Wode of Ledbury": "3c2cd0df-0c05-4701-a6a0-751868d32c82",
             "Ralph Berde": "4d96e178-f304-4303-87b7-30a884508036",
             "Isabel Russel": "a5dd88b6-874c-4e74-bec5-2ec94a5ddd56",
-            "Rector of the Upper Hall at Ledbury": "2ce76370-e964-4669-b112-5f5c5b033dcd"
+            "Rector of the Upper Hall at Ledbury": "NOT FOUND"
         }
     },
     {
@@ -2535,8 +3406,16 @@
             "William Woderoue": "551513af-ba90-4a1d-b66b-0939c25eddab",
             "Ralph Berde": "4d96e178-f304-4303-87b7-30a884508036",
             "Isabel Russel": "a5dd88b6-874c-4e74-bec5-2ec94a5ddd56",
-            "Rector of the Upper Hall at Ledbury": "2ce76370-e964-4669-b112-5f5c5b033dcd"
+            "Rector of the Upper Hall at Ledbury": "NOT FOUND"
         }
+    },
+    {
+        "doc": "HCM 1719",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1719",
+        "neighbors": {}
     },
     {
         "doc": "HCM 1724",
@@ -2558,34 +3437,46 @@
         "doc": "HCM 1723",
         "neighbors": {
             "Ralph Berde": "4d96e178-f304-4303-87b7-30a884508036",
-            "Stephen le Yunge": "f331a219-246a-49b7-af97-1b0de1e09589"
+            "Stephen le Yunge": "NOT FOUND"
         }
+    },
+    {
+        "doc": "HCM 1723",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1723",
+        "neighbors": {}
     },
     {
         "doc": "HCM 1750",
         "neighbors": {
-            "Adam Beneth de Ledbury": "a52bb40f-7c8d-4e49-b973-429744a9d90e",
+            "Adam Beneth de Ledbury": "NOT FOUND",
             "Henry de la Keldepirie": "e3c6603a-fae6-4c39-95de-8d2bf14d94c8",
-            "Hospital of St Katherine' s": "7f653fe7-34d6-48c8-841f-65055ea5679f",
+            "Hospital of St Katherine' s": "NOT FOUND",
             "Matilda de Estonor'": "0132b6b1-d70b-4d09-b1d0-8b8766a2869d"
         }
     },
     {
         "doc": "HCM 1750",
         "neighbors": {
-            "Richard Berde of Ledbury": "0184eed5-e71f-4713-a176-654b540c9777",
+            "Richard Berde of Ledbury": "NOT FOUND",
             "Alena his wife": "ee693867-aa22-4463-a9bf-393d214b901f",
             "Henry de la Keldepirie": "e3c6603a-fae6-4c39-95de-8d2bf14d94c8",
-            "Hospital of St Katherine' s": "7f653fe7-34d6-48c8-841f-65055ea5679f",
+            "Hospital of St Katherine' s": "NOT FOUND",
             "Matilda de Estonor'": "0132b6b1-d70b-4d09-b1d0-8b8766a2869d"
         }
+    },
+    {
+        "doc": "HCM 1750",
+        "neighbors": {}
     },
     {
         "doc": "HCM 1747",
         "neighbors": {
-            "Richard de Boyfield of the manor of Ministrewurth": "30514833-3c05-425e-a319-b13fc253b179",
-            "Richard Whleken": "f6646744-003a-4c20-ad09-d67ff38bc189",
-            "Ralphn Hathewy": "187737b7-9831-4938-a36c-1a3d781c1105",
+            "Richard de Boyfield of the manor of Ministrewurth": "NOT FOUND",
+            "Richard Whleken": "NOT FOUND",
+            "Ralphn Hathewy": "NOT FOUND",
             "John de Clynton": "91a30f17-ff0b-4568-ad5a-e3de582f9ec7",
             "William de Astone": "e5ddb117-f2d8-422d-8df6-ba86d5d56d09"
         }
@@ -2594,23 +3485,31 @@
         "doc": "HCM 1747",
         "neighbors": {
             "William de Southham": "b4444613-24e7-4cfd-94ac-37e68e9fc69e",
-            "Richard Whleken": "f6646744-003a-4c20-ad09-d67ff38bc189",
-            "Ralphn Hathewy": "187737b7-9831-4938-a36c-1a3d781c1105",
+            "Richard Whleken": "NOT FOUND",
+            "Ralphn Hathewy": "NOT FOUND",
             "John de Clynton": "91a30f17-ff0b-4568-ad5a-e3de582f9ec7",
             "William de Astone": "e5ddb117-f2d8-422d-8df6-ba86d5d56d09"
         }
     },
     {
+        "doc": "HCM 1747",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 1729",
         "neighbors": {
-            "Ralph called Berde of Ledbury": "4d96e178-f304-4303-87b7-30a884508036",
-            "Hospital of St Katherine": "7f653fe7-34d6-48c8-841f-65055ea5679f"
+            "Ralph called Berde of Ledbury": "NOT FOUND",
+            "Hospital of St Katherine": "NOT FOUND"
         }
+    },
+    {
+        "doc": "HCM 1729",
+        "neighbors": {}
     },
     {
         "doc": "HCM 1732",
         "neighbors": {
-            "Bartholomew le Spicer of Hereford": "1ff1abc6-e1a7-43f7-9391-15e8c95f8388",
+            "Bartholomew le Spicer of Hereford": "NOT FOUND",
             "Dean and Chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
             "John Helle": "b5f7bc58-4de8-48c4-816f-d6f82e08d156",
             "Bishop of Hereford": "0d75305d-89af-4da3-b7ba-6421a1a97da3"
@@ -2646,12 +3545,24 @@
         }
     },
     {
+        "doc": "HCM 1755",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1755",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1755",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 1798",
         "neighbors": {
             "Adam Benet of Ledbury": "a52bb40f-7c8d-4e49-b973-429744a9d90e",
             "Rector of the Lower Hall": "99199bd4-f6f9-4adf-acc0-48b03aed5898",
             "Roger Esiger": "cbb622a5-0293-452e-a5ab-c32843cbd931",
-            "Walter de Abbenhale": "13e26fdb-c6ad-441d-9c85-c89515fa7cda",
+            "Walter de Abbenhale": "NOT FOUND",
             "Richard Coleuile": "86ae4667-9861-4e00-b5c2-c7d5c0e39c84",
             "Henry le Skynnare": "d910e856-8753-4c8c-81e7-4c966d5fc008",
             "John THorban": "43c9b40e-0aa2-415c-9df0-6f3b5c7b4714",
@@ -2661,12 +3572,12 @@
     {
         "doc": "HCM 1798",
         "neighbors": {
-            "Richard Berde of Ledbury": "0184eed5-e71f-4713-a176-654b540c9777",
+            "Richard Berde of Ledbury": "NOT FOUND",
             "Alena his wife": "ee693867-aa22-4463-a9bf-393d214b901f",
             "Thomas their son": "efb5e58e-cda7-44c4-b26d-6ed9a346e144",
             "Rector of the Lower Hall": "99199bd4-f6f9-4adf-acc0-48b03aed5898",
             "Roger Esiger": "cbb622a5-0293-452e-a5ab-c32843cbd931",
-            "Walter de Abbenhale": "13e26fdb-c6ad-441d-9c85-c89515fa7cda",
+            "Walter de Abbenhale": "NOT FOUND",
             "Richard Coleuile": "86ae4667-9861-4e00-b5c2-c7d5c0e39c84",
             "Henry le Skynnare": "d910e856-8753-4c8c-81e7-4c966d5fc008",
             "John THorban": "43c9b40e-0aa2-415c-9df0-6f3b5c7b4714",
@@ -2678,8 +3589,8 @@
         "neighbors": {
             "Adam Benet of Ledbury": "a52bb40f-7c8d-4e49-b973-429744a9d90e",
             "Rector of the Lower Hall": "99199bd4-f6f9-4adf-acc0-48b03aed5898",
-            "Roger Esiger": "cbb622a5-0293-452e-a5ab-c32843cbd931",
-            "Walter de Abbenhale": "13e26fdb-c6ad-441d-9c85-c89515fa7cda",
+            "Roger Esiger": "NOT FOUND",
+            "Walter de Abbenhale": "NOT FOUND",
             "Richard Coleuile": "86ae4667-9861-4e00-b5c2-c7d5c0e39c84",
             "Henry le Skynnare": "d910e856-8753-4c8c-81e7-4c966d5fc008",
             "John THorban": "43c9b40e-0aa2-415c-9df0-6f3b5c7b4714",
@@ -2693,8 +3604,8 @@
             "Alena his wife": "ee693867-aa22-4463-a9bf-393d214b901f",
             "Thomas their son": "efb5e58e-cda7-44c4-b26d-6ed9a346e144",
             "Rector of the Lower Hall": "99199bd4-f6f9-4adf-acc0-48b03aed5898",
-            "Roger Esiger": "cbb622a5-0293-452e-a5ab-c32843cbd931",
-            "Walter de Abbenhale": "13e26fdb-c6ad-441d-9c85-c89515fa7cda",
+            "Roger Esiger": "NOT FOUND",
+            "Walter de Abbenhale": "NOT FOUND",
             "Richard Coleuile": "86ae4667-9861-4e00-b5c2-c7d5c0e39c84",
             "Henry le Skynnare": "d910e856-8753-4c8c-81e7-4c966d5fc008",
             "John THorban": "43c9b40e-0aa2-415c-9df0-6f3b5c7b4714",
@@ -2705,7 +3616,7 @@
         "doc": "HCM 1800",
         "neighbors": {
             "Margery Joce": "469d7e50-067e-437e-a133-c782681aef91",
-            "Parson (rector?) of the Upper Hall": "2ce76370-e964-4669-b112-5f5c5b033dcd",
+            "Parson (rector?) of the Upper Hall": "NOT FOUND",
             "William Eseger": "0a2e5685-0f9d-4544-b727-0c5029b373fa",
             "John de Habenhole": "7d60e648-94b4-4d76-a21d-057665dbc972"
         }
@@ -2714,10 +3625,14 @@
         "doc": "HCM 1800",
         "neighbors": {
             "Benedict le Hopere of Ledbury": "7d1e4748-5fc2-4fc1-93db-171650337c63",
-            "Parson (rector?) of the Upper Hall": "2ce76370-e964-4669-b112-5f5c5b033dcd",
+            "Parson (rector?) of the Upper Hall": "NOT FOUND",
             "William Eseger": "0a2e5685-0f9d-4544-b727-0c5029b373fa",
             "John de Habenhole": "7d60e648-94b4-4d76-a21d-057665dbc972"
         }
+    },
+    {
+        "doc": "HCM 1800",
+        "neighbors": {}
     },
     {
         "doc": "HCM 1786",
@@ -2725,33 +3640,33 @@
             "John le locare": "07675f6b-8a4e-42e4-b305-c2b17ebc9b6f",
             "Adam Tandi": "f626e4c4-3af9-4e86-ae53-354455664c47",
             "Edith Pirk": "cc39faa5-15b4-4b95-80d1-c6bb6a393fc1",
-            "Rector of the Upper Hall": "2ce76370-e964-4669-b112-5f5c5b033dcd"
+            "Rector of the Upper Hall": "NOT FOUND"
         }
     },
     {
         "doc": "HCM 1786",
         "neighbors": {
             "Petronilla de Calberwe": "c620b2be-b78e-495b-ba60-31991d6d035f",
-            "Edith her sister": "0b06dc33-1c72-4831-8a01-e8ff2d31ed2c",
+            "Edith her sister": "NOT FOUND",
             "Adam Tandi": "f626e4c4-3af9-4e86-ae53-354455664c47",
             "Edith Pirk": "cc39faa5-15b4-4b95-80d1-c6bb6a393fc1",
-            "Rector of the Upper Hall": "2ce76370-e964-4669-b112-5f5c5b033dcd"
+            "Rector of the Upper Hall": "NOT FOUND"
         }
     },
     {
         "doc": "HCM 1790",
         "neighbors": {
             "Isolda": "0db6e838-76be-4d0d-b92b-a2c48919f89f",
-            "Hospital of St Katherine": "7f653fe7-34d6-48c8-841f-65055ea5679f",
+            "Hospital of St Katherine": "NOT FOUND",
             "Bishop of Hereford": "60d3ffe2-5bb4-48a4-91de-484a580e94d0"
         }
     },
     {
         "doc": "HCM 1790",
         "neighbors": {
-            "John de Donnton": "ed813372-b3fa-4a37-8a48-5c675fa94023",
+            "John de Donnton(?)": "NOT FOUND",
             "William de Mukulton": "8b6f7288-8904-497d-80b8-7b3db7d7b58f",
-            "Hospital of St Katherine": "7f653fe7-34d6-48c8-841f-65055ea5679f",
+            "Hospital of St Katherine": "NOT FOUND",
             "Bishop of Hereford": "60d3ffe2-5bb4-48a4-91de-484a580e94d0"
         }
     },
@@ -2761,11 +3676,111 @@
             "Juliana": "8214ba0a-697a-436f-9b33-fda47fb8ba0b",
             "Thomas le Cartar'": "f51083f5-0859-4187-8b45-dbf1093c2f75",
             "Ralph Morel": "53f82dc7-8e76-495e-a4a1-8c376bf5d6fc",
-            "Emma hiswife": "bb5768d7-b927-4c21-a76f-6d4f20081124",
+            "Emma hiswife": "NOT FOUND",
             "William le Cartar'": "7bd66540-4350-43ba-8525-7ed357ea46ac",
-            "Edeth Forthryd'": "210c5c28-95b9-46d1-bbd7-7d8757db2cc1",
+            "Edeth Forthryd'": "NOT FOUND",
             "Rector of the Lower Hall": "99199bd4-f6f9-4adf-acc0-48b03aed5898"
         }
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1803",
+        "neighbors": {}
     },
     {
         "doc": "HCM 1904",
@@ -2786,6 +3801,22 @@
         }
     },
     {
+        "doc": "HCM 1904",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1904",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1904",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1904",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 1933",
         "neighbors": {
             "Edith de la Groues": "99e63529-502c-45ec-9258-a1193ea316d3",
@@ -2793,20 +3824,52 @@
             "Thomas Kent": "55a9382a-55ac-4f95-b611-296874cee8b2",
             "Geoffrey Skeg'": "45efe659-1d20-4dab-be41-5af7cc5848c5",
             "Cecilia his wife": "2f3a9db3-0da4-471c-8b20-3e0347c7f3ed",
-            "Hospital of St Katherine": "7f653fe7-34d6-48c8-841f-65055ea5679f",
+            "Hospital of St Katherine": "NOT FOUND",
             "Richard Beverleye": "f2c81ed0-6205-49c3-83d9-70cc0133231e",
-            "Richard Frenen": "0db741c8-eb6c-40c5-8de1-0280b75bfdab",
+            "Richard Frenen?": "NOT FOUND",
             "Thomas Berde": "efb5e58e-cda7-44c4-b26d-6ed9a346e144",
             "Walter Chaumberlayn": "658d42ad-5b4d-418f-a197-c07288f28e56"
         }
     },
     {
+        "doc": "HCM 1933",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1933",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1933",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1933",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1933",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1933",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 1933",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 1910",
         "neighbors": {
-            "Richard Wyting of Ledbury": "c3ae7fd4-8b14-43d5-981e-4082438bd2b4",
-            "Philip le Cok'": "64b911db-c7c0-43d0-8dff-1f0d8a1464a8",
+            "Richard Wyting of Ledbury": "NOT FOUND",
+            "Philip le Cok'": "NOT FOUND",
             "Christine": "4aad5c5f-bd3c-44e0-8c1e-8a13af68d235"
         }
+    },
+    {
+        "doc": "HCM 1910",
+        "neighbors": {}
     },
     {
         "doc": "HCM 2055",
@@ -2816,6 +3879,14 @@
         }
     },
     {
+        "doc": "HCM 2055",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2055",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 2053",
         "neighbors": {
             "Stephen de Buford": "d4e4d976-9213-4c53-9af3-ce96d34bcefe",
@@ -2823,9 +3894,13 @@
         }
     },
     {
+        "doc": "HCM 2053",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 2054",
         "neighbors": {
-            "Walter called de Mordeford de Coblintona": "f73b5d99-6e55-41d8-9edd-77520490d6c3",
+            "Walter called de Mordeford de Coblintona": "NOT FOUND",
             "Sibil de Childestona": "6e299086-8388-454e-b7cd-78c6b5cc73fa",
             "Walter de Mordeford": "f73b5d99-6e55-41d8-9edd-77520490d6c3",
             "Adam de Murival": "670711c3-e274-474c-9eab-3b20d874b4e5",
@@ -2849,6 +3924,10 @@
         }
     },
     {
+        "doc": "HCM 2054",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 2020",
         "neighbors": {
             "Almshouse of Hereford": "05e337f5-9911-4498-9b0e-af276ab1ed21",
@@ -2856,9 +3935,37 @@
         }
     },
     {
+        "doc": "HCM 2020",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2020",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2020",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2020",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2020",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2020",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2020",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 2057",
         "neighbors": {
-            "Robert de Foston' ": "ecbef2e8-0dc9-414f-8cae-dd9629492ff1",
+            "Robert de Foston' ": "NOT FOUND",
             "Roger de Seuenck'": "3019bd14-950a-42e8-acd4-f77153a37e57",
             "Phillip de Ypre": "e52b6836-004a-43c0-9f18-36774e324b38"
         }
@@ -2866,7 +3973,7 @@
     {
         "doc": "HCM 2057",
         "neighbors": {
-            "Robert de Foston' ": "ecbef2e8-0dc9-414f-8cae-dd9629492ff1",
+            "Robert de Foston' ": "NOT FOUND",
             "Roger de Seuenck'": "3019bd14-950a-42e8-acd4-f77153a37e57",
             "Dean and Chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2"
         }
@@ -2874,18 +3981,26 @@
     {
         "doc": "HCM 2066",
         "neighbors": {
-            "Hereford Cathedral church": "2655327b-0ec4-4f87-878c-3bdc22ba11d8",
-            "John Cacche": "049f6e36-7182-4d2a-8f2e-c9f1bc5366dd",
+            "Hereford Cathedral church": "NOT FOUND",
+            "John Cacche": "NOT FOUND",
             "John Spark": "d8131e87-2d5e-406e-8903-74c35e32949e"
         }
     },
     {
         "doc": "HCM 2066",
         "neighbors": {
-            "Hereford Cathedral church": "2655327b-0ec4-4f87-878c-3bdc22ba11d8",
-            "John Cacche": "049f6e36-7182-4d2a-8f2e-c9f1bc5366dd",
+            "Hereford Cathedral church": "NOT FOUND",
+            "John Cacche": "NOT FOUND",
             "Dean and Chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2"
         }
+    },
+    {
+        "doc": "HCM 2066",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2066",
+        "neighbors": {}
     },
     {
         "doc": "HCM 2056",
@@ -2904,7 +4019,7 @@
     {
         "doc": "HCM 2056",
         "neighbors": {
-            "Sibil de Childeson": "6e299086-8388-454e-b7cd-78c6b5cc73fa",
+            "Sibil de Childeson": "NOT FOUND",
             "Richard her son": "edef84e5-7e13-4367-95dd-5ed92ec0a543",
             "William de Oldetone": "c02c30ca-7f91-4284-aabb-52022b12c61f",
             "Walter Serle": "b2901792-1761-4691-a3ba-3e6c3277dfd1"
@@ -2937,13 +4052,17 @@
     {
         "doc": "HCM 2095",
         "neighbors": {
-            "Walter son of Gilbert Iweyn de [neal?]": "4c218f9c-adac-4b3f-a144-d1217f0e4aea",
+            "Walter son of Gilbert Iweyn de [neal?]": "NOT FOUND",
             "Nicholas de Folebrugge": "79bd21a3-f802-4334-a0c4-0e0e99a1ec15",
             "Richard de Pio": "32499df2-f374-468f-8df6-33e173f6342c",
             "Robert de Tyberton": "417e2da6-6a74-46b7-b2c4-621927b3c6b4",
             "Precentor of Hereford": "7d3609df-288f-41a6-86b3-8aa17685c58e",
             "William Russel": "9f97e394-7658-450c-9d16-6dbdcf86729d"
         }
+    },
+    {
+        "doc": "HCM 2095",
+        "neighbors": {}
     },
     {
         "doc": "HCM 2122",
@@ -2958,16 +4077,88 @@
         "neighbors": {
             "Agnes": "f98e97ab-dd2d-4b2a-87d3-a4c568b6dbe0",
             "Dean and chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
-            "Nicholas de Vokemerssefeld": "43844b72-7f33-4358-a6e4-e3ea0a575b31",
+            "Nicholas de Vokemerssefeld": "NOT FOUND",
             "John Pryde": "da15bb75-5b12-489c-8c1f-bf64f77d6927",
             "John Thurm de Mora Canonicorum": "5c261ff1-eeb7-4ec8-9ba5-f78cbc3461cf"
         }
     },
     {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2097",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 2163",
         "neighbors": {
             "Joan de Bohun": "0e62cdd5-a4c0-4aee-a141-821556d29437",
-            "Lord of Lugwardyn (De Bohun?)": "2ba8e74d-1689-4fa6-b959-87fb4f374b8f",
+            "Lord of Lugwardyn (De Bohun?)": "NOT FOUND",
             "Matilda le Bonde": "f7213382-7cb9-4f6d-b0a2-ba7971a5dfeb",
             "Roger de Tudenore": "8a30cef1-5d91-4a97-990b-af2078c0fbaf",
             "Roger le Frenshe": "df80dc35-1104-4835-8e79-8d8d69785708"
@@ -2977,16 +4168,48 @@
         "doc": "HCM 2163",
         "neighbors": {
             "Dean and chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
-            "Lord of Lugwardyn (De Bohun?)": "2ba8e74d-1689-4fa6-b959-87fb4f374b8f",
+            "Lord of Lugwardyn (De Bohun?)": "NOT FOUND",
             "Matilda le Bonde": "f7213382-7cb9-4f6d-b0a2-ba7971a5dfeb",
             "Roger de Tudenore": "8a30cef1-5d91-4a97-990b-af2078c0fbaf",
             "Roger le Frenshe": "df80dc35-1104-4835-8e79-8d8d69785708"
         }
     },
     {
+        "doc": "HCM 2163",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2163",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2163",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2163",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2163",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2163",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2163",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2163",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 2200",
         "neighbors": {
-            "Roger de Doubleische": "e76ff3d8-652a-477d-839d-6e473e23408e",
+            "Roger de Doubleische": "NOT FOUND",
             "Christine his wife": "aa900472-beea-4371-aae5-4add0e8040b1",
             "Richard de Netherton": "5128dfc1-30da-4eb9-8694-1c53da766d0c"
         }
@@ -2999,6 +4222,38 @@
         }
     },
     {
+        "doc": "HCM 2200",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2200",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2200",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2200",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2200",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2200",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2200",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2200",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 2218",
         "neighbors": {
             "Nicholas Bryan de Hereford": "03d098de-e410-455f-89b5-eece3bbeedfa",
@@ -3009,13 +4264,57 @@
         }
     },
     {
+        "doc": "HCM 2218",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2218",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2218",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2218",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2218",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2218",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2218",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2218",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2218",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2218",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2218",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 2289",
         "neighbors": {
             "Richard de Dunre": "1c645af5-66e2-4043-8fb1-3bc8e0fac27e",
             "Agnes his wife": "deee30cc-63e9-4899-a947-a0efaf70cd0a",
             "Rector of Dunre": "85476c18-734a-4266-8561-cf07971cfdbc",
             "Gilbert de Childeston'": "793f06a7-c964-47d1-968f-64667e6cc37a",
-            "Prioress of Acornbury": "a9275e36-92aa-4d60-82b5-d28a8df75eaf"
+            "Prioress of Acornbury": NaN
         }
     },
     {
@@ -3024,8 +4323,44 @@
             "Dean and chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
             "Rector of Dunre": "85476c18-734a-4266-8561-cf07971cfdbc",
             "Gilbert de Childeston'": "793f06a7-c964-47d1-968f-64667e6cc37a",
-            "Prioress of Acornbury": "a9275e36-92aa-4d60-82b5-d28a8df75eaf"
+            "Prioress of Acornbury": NaN
         }
+    },
+    {
+        "doc": "HCM 2289",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2289",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2289",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2289",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2289",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2289",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2289",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2289",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2289",
+        "neighbors": {}
     },
     {
         "doc": "HCM 2305",
@@ -3051,13 +4386,713 @@
         }
     },
     {
+        "doc": "HCM 2305",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2305",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 2317",
         "neighbors": {
             "John de Newebourgh' Webbe": "e396fe76-05fc-42fb-9635-6165598d9c03",
-            "Adam Esger": "fbf666e0-a013-4f47-8c77-0c83136697e4",
+            "Adam Esger": "NOT FOUND",
             "Richard de Ledebur": "3cb3594f-17d4-4c45-9d70-b5f9f93af605",
-            "Bishop of Hereford (John Trillek)": "60d3ffe2-5bb4-48a4-91de-484a580e94d0"
+            "Bishop of Hereford (John Trillek)": "NOT FOUND"
         }
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2317",
+        "neighbors": {}
     },
     {
         "doc": "HCM 2851",
@@ -3065,6 +5100,18 @@
             "Richard de Vernon": "921d4563-9018-48c7-bf9d-fd9726ba675b",
             "Hugh de Brehousa": "28849aba-e404-4c8f-a852-bb12f8ecc98b"
         }
+    },
+    {
+        "doc": "HCM 2851",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2851",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2851",
+        "neighbors": {}
     },
     {
         "doc": "HCM 2881",
@@ -3079,12 +5126,52 @@
     {
         "doc": "HCM 2881",
         "neighbors": {
-            "Hugh de Brehosa": "28849aba-e404-4c8f-a852-bb12f8ecc98b",
+            "Hugh de Brehosa": "NOT FOUND",
             "Dean and Chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
             "Ralph le Barun": "5bc41dfe-1c0a-47e4-80ae-f8fbb141fb74",
             "John Pryde": "da15bb75-5b12-489c-8c1f-bf64f77d6927",
             "John Thrum": "5c261ff1-eeb7-4ec8-9ba5-f78cbc3461cf"
         }
+    },
+    {
+        "doc": "HCM 2881",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2881",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2881",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2881",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2881",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2881",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2881",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2881",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2881",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2881",
+        "neighbors": {}
     },
     {
         "doc": "HCM 2915",
@@ -3095,12 +5182,244 @@
         }
     },
     {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2915",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 2089-em2",
         "neighbors": {
             "Walter de la Bache": "ad9abc27-65c4-44e6-9540-471a9d592420",
             "Dean and Chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
-            "Richard Hervi": "8004dd89-dcf2-4d6f-97b9-8a3978ae5437",
-            "Philip le Walseche": "a1842f19-9b20-43a1-ad29-82dfa7d28b06"
+            "Richard Hervi": "NOT FOUND",
+            "Philip le Walseche": "NOT FOUND"
         }
     },
     {
@@ -3109,15 +5428,31 @@
             "John de Aka": "082be708-79ef-4e89-8217-2911c7f6a253",
             "John called le Peer de Bellymare": "809e5c52-ce02-41df-827b-189d7b7bc657",
             "Dean and Chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
-            "Richard Hervi": "8004dd89-dcf2-4d6f-97b9-8a3978ae5437",
-            "Philip le Walseche": "a1842f19-9b20-43a1-ad29-82dfa7d28b06"
+            "Richard Hervi": "NOT FOUND",
+            "Philip le Walseche": "NOT FOUND"
         }
+    },
+    {
+        "doc": "HCM 2089-em2",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2089-em2",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2089-em2",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2089-em2",
+        "neighbors": {}
     },
     {
         "doc": "HCM 2100-em",
         "neighbors": {
             "James de Henley": "d45d2c4e-1d0c-4c62-ac31-a9ab7276c248",
-            "Robert of Gloucester": "23d0887b-808d-44b3-a354-68dcdbacc1e3",
+            "Robert of Gloucester": "NOT FOUND",
             "Elias the chaplain": "733c3020-2712-4780-97b7-0de3c29b00e4"
         }
     },
@@ -3125,18 +5460,46 @@
         "doc": "HCM 2100-em",
         "neighbors": {
             "Richard called de Credelee": "fbe99be4-32a8-45fd-9b75-02e48959d33d",
-            "Robert of Gloucester": "23d0887b-808d-44b3-a354-68dcdbacc1e3",
+            "Robert of Gloucester": "NOT FOUND",
             "Elias the chaplain": "733c3020-2712-4780-97b7-0de3c29b00e4"
         }
     },
     {
-        "doc": "HCM 946",
+        "doc": "HCM 2100-em",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2100-em",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2100-em",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2100-em",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2100-em",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 2100-em",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 97",
         "neighbors": {
             "Thomas Thurgym": "df2e42ec-7e33-4340-b58c-41075f075b0e",
             "John de Duddeleye": "cc03066e-198f-4425-b394-c8bf189879d2",
             "Walter Thurgrim": "f435b7cf-5245-4044-8670-1c7e811e92d8",
             "Annabell de Jataerys": "4aab8391-beea-4e4e-adf9-345ed973bb1f"
         }
+    },
+    {
+        "doc": "HCM 97",
+        "neighbors": {}
     },
     {
         "doc": "HCM 63",
@@ -3155,6 +5518,14 @@
         }
     },
     {
+        "doc": "HCM 63",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 63",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 119",
         "neighbors": {
             "Osbert Galant of Hereford": "0c67083e-056e-4bc2-9e79-a98ea51a7124",
@@ -3167,7 +5538,7 @@
         "doc": "HCM 150",
         "neighbors": {
             "Thomas de la Felde": "745dfa52-b595-4122-b4d4-62190245740f",
-            "Parson of St Nicholas": "745dfa52-b595-4122-b4d4-62190245740f",
+            "Parson of St Nicholas": "NOT FOUND",
             "Cecilia de Badesshawe": "eba6d3c3-fafa-423e-b544-8ead76eb234a",
             "Luke de Bergeueni": "a48201c2-412d-45d7-837d-91689769d117"
         }
@@ -3175,11 +5546,19 @@
     {
         "doc": "HCM 150",
         "neighbors": {
-            "Jpohn Ocche de Hereford": "566c4f90-acfe-4d02-a73f-249c3f88b568",
-            "Parson of St Nicholas": "629bd776-e25b-49dd-b8a2-d7d86d55835c",
+            "Jpohn Ocche de Hereford": "NOT FOUND",
+            "Parson of St Nicholas": "NOT FOUND",
             "Cecilia de Badesshawe": "eba6d3c3-fafa-423e-b544-8ead76eb234a",
             "Luke de Bergeueni": "a48201c2-412d-45d7-837d-91689769d117"
         }
+    },
+    {
+        "doc": "HCM 150",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 150",
+        "neighbors": {}
     },
     {
         "doc": "HCM 39",
@@ -3188,13 +5567,17 @@
             "Roger de Breynton": "724d1018-4ff9-463e-a762-59080c540d53",
             "Robert de Marceleye": "cac9a2a3-13e5-4050-af08-b97b86cf3bf6",
             "Walter de Burghulle": "e509e9e7-ac7f-490e-8f42-07f5f427265f",
-            "John Blak'": "09092df4-93e7-4cf7-bb56-eed9ff544dfd"
+            "John Blak'": "NOT FOUND"
         }
+    },
+    {
+        "doc": "HCM 39",
+        "neighbors": {}
     },
     {
         "doc": "HCM 50",
         "neighbors": {
-            "Roger son of Richard Ledebury": "a6a8faea-5d4c-4156-8f7c-6eaa5037471c",
+            "Roger son of Richard Ledebury": "NOT FOUND",
             "Hugh de Brehusa": "28849aba-e404-4c8f-a852-bb12f8ecc98b",
             "Dean and Chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
             "John Thrum": "5c261ff1-eeb7-4ec8-9ba5-f78cbc3461cf",
@@ -3210,8 +5593,8 @@
         "neighbors": {
             "Roger de Luyde": "4c6bf144-1ac4-44b7-9989-2284121bc594",
             "John le Gurdlere": "67a6a682-5263-443a-920d-58f86f7b62be",
-            "Alice his wife": "a1cfc5e5-ecb9-4e3e-bc9a-fc3dc4bbb86d",
-            "Hugh the Wheelwright": "38eb4c52-09c7-4740-a691-18451718a049"
+            "Alice his wife": "64928c37-ad68-44df-b76f-4af08dd5d1a6",
+            "Hugh the Wheelwright": "NOT FOUND"
         }
     },
     {
@@ -3226,7 +5609,7 @@
     {
         "doc": "HCM 186",
         "neighbors": {
-            "Adam de Wyghtfeld'": "7dbac413-5e24-432f-b4e8-ecb8fd988a3e",
+            "Adam de Wyghtfeld'": "NOT FOUND",
             "John le Chapmon": "5d30127d-7975-4059-90db-677523af448c",
             "Nicholas le Barbour": "0a4c9477-f17a-48a9-8fc3-00e83b2f987b",
             "John le Werrour": "fa4bd9d5-7d76-4c81-b1a0-346fe2483547"
@@ -3235,7 +5618,7 @@
     {
         "doc": "HCM 218",
         "neighbors": {
-            "John son of Roger de Bruneshope de Hereford": "00ab2983-ed64-4499-ad1c-ba5228890521",
+            "John son of Roger de Bruneshope de Hereford": "NOT FOUND",
             "John de Punda": "01ad425b-f560-4b05-952e-b91ee25cd430",
             "Robert de Somersete": "6511cf39-725a-43ae-9392-2780870d4191"
         }
@@ -3285,7 +5668,7 @@
     {
         "doc": "HCM 203",
         "neighbors": {
-            "Euerard son of John le Clerk de Bristoll": "67a7f0a1-72d9-471a-b147-03f9b4059e2c",
+            "Euerard son of John le Clerk de Bristoll": "NOT FOUND",
             "John de la Pounde": "01ad425b-f560-4b05-952e-b91ee25cd430",
             "Robert de Somersete": "6511cf39-725a-43ae-9392-2780870d4191",
             "John Lyghtfot": "3a67e78b-ec43-4730-b479-3431c316781b"
@@ -3312,7 +5695,7 @@
     {
         "doc": "HCM 207",
         "neighbors": {
-            "John le Monk' ": "b57c4a52-f82e-4c54-9531-3eeb67657e0b",
+            "John le Monk' ": "NOT FOUND",
             "John de la Barewe": "9f198569-1a34-4d35-835d-0b7dea068a59",
             "Henry de Welbeton": "83da8992-7f84-4c76-9611-50c2384c1b54",
             "Church of All Saints": "4b19b284-248b-4f94-a5a3-94b8cb671ed1"
@@ -3354,7 +5737,7 @@
         "neighbors": {
             "Robert Sauage": "7c20a225-0555-492b-b8d2-fe9032f6bdfd",
             "John le Werour": "fa4bd9d5-7d76-4c81-b1a0-346fe2483547",
-            "Walter the fisherman of Retherwas": "ccf65e9a-6586-4bb1-bdf3-d7c85e9bd84b",
+            "Walter the fisherman of Retherwas": "NOT FOUND",
             "John de la Barwe": "9f198569-1a34-4d35-835d-0b7dea068a59"
         }
     },
@@ -3363,7 +5746,7 @@
         "neighbors": {
             "Phillip le Werour": "d19a2b84-a064-4302-80b0-a1e1d81c1821",
             "John le Werour": "fa4bd9d5-7d76-4c81-b1a0-346fe2483547",
-            "Walter the fisherman of Retherwas": "ccf65e9a-6586-4bb1-bdf3-d7c85e9bd84b",
+            "Walter the fisherman of Retherwas": "NOT FOUND",
             "John de la Barwe": "9f198569-1a34-4d35-835d-0b7dea068a59"
         }
     },
@@ -3372,7 +5755,7 @@
         "neighbors": {
             "John called Batun": "67dba6d6-45d7-44b3-a178-4ea618a5ed8d",
             "Roger the Marshal": "e09e03c2-1f2d-44f3-82e2-c0bdfe892915",
-            "Chaplain of the BVM of Newent": "e75ec1f3-cade-47e2-966b-68ddb5d57360",
+            "Chaplain of the BVM of Newent": "NOT FOUND",
             "Phillip de la Ghildhalle": "67f66ea7-ccb9-49bd-ae2f-3ba8198a9dca",
             "William le Tornour": "347f26cd-9b61-4b80-9505-040c526510cb"
         }
@@ -3382,7 +5765,7 @@
         "neighbors": {
             "Walter son of William Hathewy of Oxenhale": "2c929a90-7c82-4279-b86b-64c17a38b4df",
             "Roger the Marshal": "e09e03c2-1f2d-44f3-82e2-c0bdfe892915",
-            "Chaplain of the BVM of Newent": "e75ec1f3-cade-47e2-966b-68ddb5d57360",
+            "Chaplain of the BVM of Newent": "NOT FOUND",
             "Phillip de la Ghildhalle": "67f66ea7-ccb9-49bd-ae2f-3ba8198a9dca",
             "William le Tornour": "347f26cd-9b61-4b80-9505-040c526510cb"
         }
@@ -3406,6 +5789,14 @@
             "Roger the Marshall": "e09e03c2-1f2d-44f3-82e2-c0bdfe892915",
             "Roger le Webbe of Newent": "6bbe1001-e249-4b29-ae5e-939874e37b46"
         }
+    },
+    {
+        "doc": "HCM 384",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 384",
+        "neighbors": {}
     },
     {
         "doc": "HCM 405",
@@ -3449,7 +5840,7 @@
             "Walter de Weston'": "3e46cc67-75c5-46e5-8da8-d77a655c2285",
             "Gilbertle Coliar'": "decb83ab-e39d-4f1e-9f7b-6da236504c7f",
             "Walter de Cimiten'": "c0e7a0ee-6fb0-444f-b9c3-26804f49aec0",
-            "Hospital of St Katherine": "7f653fe7-34d6-48c8-841f-65055ea5679f"
+            "Hospital of St Katherine": "NOT FOUND"
         }
     },
     {
@@ -3458,8 +5849,16 @@
             "John le leche de Walsned'": "4b17746f-eb72-4fdc-a619-e7b86a79f287",
             "Gilbertle Coliar'": "decb83ab-e39d-4f1e-9f7b-6da236504c7f",
             "Walter de Cimiten'": "c0e7a0ee-6fb0-444f-b9c3-26804f49aec0",
-            "Hospital of St Katherine": "7f653fe7-34d6-48c8-841f-65055ea5679f"
+            "Hospital of St Katherine": "NOT FOUND"
         }
+    },
+    {
+        "doc": "HCM 287",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 287",
+        "neighbors": {}
     },
     {
         "doc": "HCM 378",
@@ -3486,26 +5885,34 @@
         }
     },
     {
+        "doc": "HCM 378",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 559",
         "neighbors": {
-            "Adam called le Turnur de Staunton juxta Cors": "de11c1f6-04b3-456a-94c8-4261ef76853f",
+            "Adam called le Turnur de Staunton juxta Cors": "NOT FOUND",
             "Robert ate Heye": "092f8729-216d-4fa7-b944-369f21483467"
         }
     },
     {
         "doc": "HCM 559",
         "neighbors": {
-            "William Wytte de Staunton juxta Cors": "a853b0ff-7880-49fd-ae7c-dce0111c42ca",
+            "William Wytte de Staunton juxta Cors": "NOT FOUND",
             "Emma his wife": "ca635b65-1744-49e4-805d-ddca4da360be",
             "Robert ate Heye": "092f8729-216d-4fa7-b944-369f21483467"
         }
     },
     {
+        "doc": "HCM 559",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 593",
         "neighbors": {
-            "Philip": "ac7ff64d-7ec7-4f98-a82b-beff15cc0ae0",
+            "Philip": "NOT FOUND",
             "Lucy": "4dee2900-7cd0-4be7-a910-512ea43f8ca7",
-            "Robert de Ho'tone": "446ea867-4067-424b-85d2-b97dc3c23470",
+            "Robert de Ho' tone": "NOT FOUND",
             "Lord of Fowehope": "ad16c6e3-6d57-4b91-85b3-a78485da24ca",
             "John Speed": "bcf6d8b9-7bfa-460a-96dc-635b2f613ecc",
             "William de Baysham": "27b86369-b141-40ee-92a8-00a299d01cf9",
@@ -3517,7 +5924,7 @@
         "neighbors": {
             "Richard": "5e6ee378-caa5-49c3-83d9-8025f79c7093",
             "Lucy": "4dee2900-7cd0-4be7-a910-512ea43f8ca7",
-            "Robert de Ho'tone": "446ea867-4067-424b-85d2-b97dc3c23470",
+            "Robert de Ho' tone": "NOT FOUND",
             "Lord of Fowehope": "ad16c6e3-6d57-4b91-85b3-a78485da24ca",
             "John Speed": "bcf6d8b9-7bfa-460a-96dc-635b2f613ecc",
             "William de Baysham": "27b86369-b141-40ee-92a8-00a299d01cf9",
@@ -3529,14 +5936,22 @@
         "neighbors": {
             "William son of John de la More": "d3af8472-59d9-41e5-b6bb-5ca32c27adb0",
             "Agnes his wife": "1cc7c8bb-f9ec-4739-b101-2ceb1daebf4a",
-            "Richard son of Philip de Brompton": "3f7df8ae-5d41-41b4-a89d-24e287a549da",
+            "Richard son of Philip de Brompton": "NOT FOUND",
             "Ralph le Vreynshe": "e3bc1bfd-0615-414f-8939-ec5f9b1f47a6",
-            "Hugh le Reded": "cf8d5e85-77af-4b82-bda2-7f080034a948",
+            "Hugh le Reded": "NOT FOUND",
             "Ralph de Brompton": "e7fb2cbb-7815-41c8-8b3b-6171ec5259da",
-            "Prebent of Castle of Coblynton": "7199b775-f183-4a2d-87f7-11bbf6ac20e8",
+            "Prebent of Castle of Coblynton": "NOT FOUND",
             "William de Brompton": "3c54d697-6b10-4a51-b1f1-5100b6ae2bde",
             "Nicholas de Brompton": "4e499db8-fa71-45a9-80fd-563b65a3cf00"
         }
+    },
+    {
+        "doc": "HCM 564",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 564",
+        "neighbors": {}
     },
     {
         "doc": "HCM 608",
@@ -3583,13 +5998,21 @@
         }
     },
     {
+        "doc": "HCM 412",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 412",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 670",
         "neighbors": {
-            "Richard de ecclesia de Hamton in manor of Munstreworth": "30514833-3c05-425e-a319-b13fc253b179",
-            "Richard ce Harsecumb": "c65e3fd4-7b72-4f1b-9664-3a63fcde636a",
+            "Richard de ecclesia de Hamton in manor of Munstreworth": "NOT FOUND",
+            "Richard ce Harsecumb": "NOT FOUND",
             "Reginald Yrp": "c0b4ac44-62db-4705-ba35-3cea10ce3689",
             "Richard Gorlek": "6c70fef8-c228-444c-9a99-b36c04965cff",
-            "John de Byse called the Butmynges": "00b7fd1d-ad4f-488e-8189-4bb9dc5ee6ef",
+            "John de Byse called the Butmynges": "NOT FOUND",
             "William le Brok'": "daae35d1-cb76-46d9-be1c-3cebc2a43af4"
         }
     },
@@ -3597,10 +6020,10 @@
         "doc": "HCM 670",
         "neighbors": {
             "William Wyteknyght de Munstreworth": "703c678b-846d-4675-9b95-7dd3500c7f47",
-            "Richard ce Harsecumb": "c65e3fd4-7b72-4f1b-9664-3a63fcde636a",
+            "Richard ce Harsecumb": "NOT FOUND",
             "Reginald Yrp": "c0b4ac44-62db-4705-ba35-3cea10ce3689",
             "Richard Gorlek": "6c70fef8-c228-444c-9a99-b36c04965cff",
-            "John de Byse called the Butmynges": "00b7fd1d-ad4f-488e-8189-4bb9dc5ee6ef",
+            "John de Byse called the Butmynges": "NOT FOUND",
             "William le Brok'": "daae35d1-cb76-46d9-be1c-3cebc2a43af4"
         }
     },
@@ -3624,16 +6047,32 @@
     {
         "doc": "HCM 700",
         "neighbors": {
-            "Richard son of Richarc Monyword": "87c51790-b058-42c3-bfa4-ca6f93a8c979",
+            "Richard son of Richarc Monyword": "NOT FOUND",
             "Dean and Chapter of Hereford": "c5a27237-f2d1-40ec-976a-f21d8fbb4ff2",
             "Walter son of William de la Hay": "624631d0-9f69-4766-989f-3fcb24efc9b6"
         }
     },
     {
+        "doc": "HCM 700",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 700",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 700",
+        "neighbors": {}
+    },
+    {
+        "doc": "HCM 700",
+        "neighbors": {}
+    },
+    {
         "doc": "HCM 746",
         "neighbors": {
             "William Hamelyn": "b58b2749-de50-45c6-891e-956710e65ab3",
-            "Church of St Peter": "2655327b-0ec4-4f87-878c-3bdc22ba11d8"
+            "Church of St Peter": "NOT FOUND"
         }
     }
 ]

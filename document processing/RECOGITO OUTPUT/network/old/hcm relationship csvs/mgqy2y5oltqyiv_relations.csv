@@ -1,0 +1,7 @@
+"source","relation","target","source_id","source_tags","target_id","target_tags"
+"clerk","Job","John de la Barewe","8365b630-b404-4e1e-a2da-21d2e928e43d","job","1fc85450-4ffd-4709-a463-2d044a4b4f02",""
+"archidiaconus Aranensis in ecclesis Connen'","job","William de Tests","cb7d8d0a-6639-4b69-a1c0-de761d226338","Job","08828b0c-a8d8-48f3-a93a-2552a138ef88",""
+"bishop of Hereford","job","Richard","7eff13be-b9f2-4045-bad4-3969cec24c7d","Job","601e8446-74a4-4cc1-b5a7-9e7aa24c0731","Principal"
+"Robert, called le Dorturer de Selebourne","In","Winchester","48a6a632-c633-44af-bc85-14ae2ebb7a01","Scribe","22d11b68-fde5-4b6b-8295-dbabd9448623",""
+"proctor of the chapter of Hereford","Job","John de la Barewe","bccc9d1b-836e-4276-a9bc-8d41bdbaabb5","job","1fc85450-4ffd-4709-a463-2d044a4b4f02",""
+"notary public","job","Robert, called le Dorturer de Selebourne","d413601b-c407-4132-b35f-84266fea1dc4","Job","48a6a632-c633-44af-bc85-14ae2ebb7a01","Scribe"

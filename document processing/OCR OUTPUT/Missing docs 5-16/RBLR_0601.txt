@@ -1,0 +1,9 @@
+Persons:					Mark-Up Tags:
+
+1. Dean & Chapter of Hereford:		Principal|Clerical|Collective
+2. Roger de Breynton, reeve			Principal|Clerical|Scribe|Agent
+
+Relationships:
+
+Roger de Breynton		->(agent of)->		Dean & Chapter of Hereford
+

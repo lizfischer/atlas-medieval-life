@@ -1,0 +1,8 @@
+"source","relation","target","source_id","source_tags","target_id","target_tags"
+"Alice","Married","John Lightfot","341f275b-8c84-4db3-bac2-ad268f86d3d7","","f22ecc82-36fa-4e10-b04c-7eea650c97ee","Dead"
+"Walter","Son","William de la Hay","b926d4f4-1bad-4559-923c-85fd4bde65e7","","6f7c308a-c660-40cf-a3ba-733842715fea",""
+"John de Ledeburi","Job","baker","26f0c8d8-8919-4907-b15c-5ee1436a12dc","Witness","a7b895e2-ec41-492e-afa0-6c7c3447509a","Office"
+"Richard Moniword","Job","bailiff","340460df-6187-47e3-a3e1-27085d3e3043","Witness","8aff2a55-7a36-47a3-9070-f0c34eaeb29f","Office"
+"Thomas Theubaud","Job","bailiff of the bishop of Hereford","5fc3af6c-d665-4073-be36-a01bb9ed1673","Witness","970fba98-b71d-4995-90ff-4cdd90da9a46","Office"
+"Richard de la Hay","Job","bailiff of the dean and chapter of Hereford","1d2c2a32-914e-4eff-ae3a-35ef32476600","Witness","155c3496-305a-4e77-bcf4-7164674f2e01","Office"
+"Hugh Trone","Father","Hugh son of Hugh Trone de Hereford","8098e352-d75e-413d-9437-d10c737f237c","","4d483a3d-7e08-4596-ae13-8a22874f1487","Principal"

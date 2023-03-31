@@ -1,0 +1,659 @@
+source,relation,target,source_id,source_tags,target_id,target_tags
+bishop of Hereford,Job,"Richard [de Swinfield], bishop of Hereford",8bfaf8fb-75b8-4ee4-84c1-bf746f307dbd,Job,28489dab-738a-4a97-8625-5eb00e9b998f,Principal
+"sureties to the said bishop, dean and chapter",Job,John Vanne,2616e460-b02d-46e5-b27a-03f14912659a,Job,4cdad838-f8db-4d9a-b93f-158673b65304,
+"sureties to the said bishop, dean and chapter",Job,William de Donecastr,2616e460-b02d-46e5-b27a-03f14912659a,Job,f4de9b42-9424-409c-b094-01be84ffed32,
+"sureties to the said bishop, dean and chapter",Job,William Seruat,2616e460-b02d-46e5-b27a-03f14912659a,Job,96ca8c58-5cfe-4548-89a8-e95ae6e72aaf,
+"sureties to the said bishop, dean and chapter",Job,William Trente,2616e460-b02d-46e5-b27a-03f14912659a,Job,b97a5279-ac46-4de0-b38c-e5f2e22e3e58,
+"sureties to the said bishop, dean and chapter",Job,William Coumartyn,2616e460-b02d-46e5-b27a-03f14912659a,Job,9feb5df7-057a-4488-a1c0-07f5250aa206,
+"sureties to the said bishop, dean and chapter",Job,John de Bureford,2616e460-b02d-46e5-b27a-03f14912659a,Job,c43ac10a-c0f3-484c-9681-fed532ad4eb2,
+"sureties to the said bishop, dean and chapter",Job,Anthony Pessaigne,2616e460-b02d-46e5-b27a-03f14912659a,Job,ca36bf85-afc5-45ce-8ca8-02b5e8b097a7,
+"sureties to the said bishop, dean and chapter",Job,Robert Baynard,2616e460-b02d-46e5-b27a-03f14912659a,Job,a5cf5ae2-0998-4eb1-bd12-e504c979b84f,
+"sureties to the said bishop, dean and chapter",Job,John de Sandale,2616e460-b02d-46e5-b27a-03f14912659a,Job,063e6ea2-4a2f-4104-93bf-0aed15a46efa,
+king's merchants,Job,John Vanne,37c55fd2-95ed-4f03-b26f-5c9966ff921d,Job,4cdad838-f8db-4d9a-b93f-158673b65304,
+king's merchants,Job,William de Donecastr,37c55fd2-95ed-4f03-b26f-5c9966ff921d,Job,f4de9b42-9424-409c-b094-01be84ffed32,
+king's merchants,Job,William Seruat,37c55fd2-95ed-4f03-b26f-5c9966ff921d,Job,96ca8c58-5cfe-4548-89a8-e95ae6e72aaf,
+king's merchants,Job,William Trente,37c55fd2-95ed-4f03-b26f-5c9966ff921d,Job,b97a5279-ac46-4de0-b38c-e5f2e22e3e58,
+king's merchants,Job,William Coumartyn,37c55fd2-95ed-4f03-b26f-5c9966ff921d,Job,9feb5df7-057a-4488-a1c0-07f5250aa206,
+king's merchants,Job,John de Bureford,37c55fd2-95ed-4f03-b26f-5c9966ff921d,Job,c43ac10a-c0f3-484c-9681-fed532ad4eb2,
+king's merchants,Job,Anthony Pessaigne,37c55fd2-95ed-4f03-b26f-5c9966ff921d,Job,ca36bf85-afc5-45ce-8ca8-02b5e8b097a7,
+king's clerk,Job,John de Sandale,99bb38d8-5934-445a-8758-8b1fb3b387d3,Job,063e6ea2-4a2f-4104-93bf-0aed15a46efa,
+"Adam son
+ of Williem of the same",Son of,Williem of the same,d7bdbb4e-c36c-4698-a286-7b12981a80b8,Principal,2f2217e9-8bec-4d80-a09a-359fee47ffcd,
+rector of the church of Dunre,Job,Stephen,328b6fc1-bdd8-4cbc-8863-0838b473fc6c,Job,6e836549-01b4-4b66-b2ae-0c09d645c662,Principal
+his proctor,Job,John Germeyn,c0b43d8e-fb30-4e1e-8716-a4d4aafbf2ab,Job,29ae756b-2d54-4059-8699-12774dd0746d,
+treasurer,Job,John de Sandale,e33355f4-1eb4-4f7f-8f85-a110025bf4e2,Job,063e6ea2-4a2f-4104-93bf-0aed15a46efa,
+dean of Hereford,Job,Anselm,be5f8d40-a735-4426-b4d2-9c48b8aeebde,Job,9e9f95a6-dfb1-4dac-90dd-ec27ee65fef1,Dead
+"bishop of Hereford,",Job,"R[ichard Swinfield], bishop of Hereford",9dfca08d-af72-4738-83c4-407d28aaf6ee,Job,14850019-7f04-458b-9784-2cdf798c10bc,Principal
+source,relation,target,source_id,source_tags,target_id,target_tags
+his servant,Job,Walter Mantel,fd447d6b-9422-44af-b1da-e21ec6e5030e,Job,85da06d1-1981-4945-b3b3-f46ce2afc385,
+Ellen,Daughter of,Robert le Teyntour,bf50d49d-24ff-48e0-ae16-e7c12b4d88b1,,9101352f-0266-47f4-8d25-d00912b8b939,
+"vicar in spiritualities and temporalities of dominus Robert, archbishop of Canterbury",Job,Henry de Derby,77d9f70f-84a0-4fa5-bef1-774d6e42cacd,Job,4866f87d-927f-4472-af2a-7431c9a9dcd6,Principal
+"commissary general of the prior of the church of Canterbury,",Job,Henry de Derby,53e21f2a-564b-4b08-8322-76fdc5db35a7,Job,4866f87d-927f-4472-af2a-7431c9a9dcd6,Principal
+the sheriff of Gloucestershire,Agent of,the king,fd8881f4-ffa1-4f21-969f-32f841573a1b,Office|Principal,304d8f85-50ad-4015-b2d3-77a6de6653bd,Principal|Office
+citizen of Salisbury (Nova Sarum),Job,Reginald de Todeworth,cd5b9d91-2ecc-4e62-bd72-23398a0377b6,Job,77462e4d-0eb3-4ab5-a450-02b234375734,Principal
+Agnes,Wife of,John de Weston,47963bd8-fdb4-4d03-ae5b-a2ddc09a80a0,,d5119878-a5e7-4b5b-8cbf-8f121fb01986,
+source,relation,target,source_id,source_tags,target_id,target_tags
+Petronilla,Wife,John,01e86e90-6d6a-41fc-bcdb-6e10edf7903d,,f7038ed8-6bac-4844-a0e9-af29c15c4eb1,
+Herbert atte Mulle,Father,John atte Mulle,2297c89f-84e9-4e3f-9044-096cb53823d6,Dead,d7d4ca15-b3b4-4ca0-abdf-380b6920fd59,
+Hugh son of Philip,Neighbor,Stephen,fda23b58-d832-4194-b7f3-9d815c7cdc93,,8416127b-7e27-4b76-afca-e545a4c69ba1,
+Alice,Wife,Roger de la Grene de Bulleye,13d68220-cbd3-4aeb-9129-1af4242586cf,Principal,3f05750d-8d52-4a47-a42d-a397b007d8a2,Principal
+chaplain,Job,John de Acle,7c3d3408-dd76-47a3-9efe-baf83477fb08,job,efbe9731-9696-44ce-b204-cb7df9d2b00f,Principal
+Edith,Mother,John atte Mulle,5f5b8a1d-aabb-48c0-81ac-3669d30ab4d7,,d7d4ca15-b3b4-4ca0-abdf-380b6920fd59,
+Edith,Wife,Herbert,5f5b8a1d-aabb-48c0-81ac-3669d30ab4d7,,dff12d71-503f-48b6-9571-7c7f71f2edf6,
+abbot,Job,John,fe6b7b73-d29a-4dfe-a7e5-3c887a3b7762,job,85e21ed5-889b-42a0-9d5a-e4680e7be1e2,Principal
+abbot,job,John,38fea7cf-19ea-45a6-9b85-e7a1a3d13a0a,Job,9dd33041-f1aa-48f3-ba83-35b0ca1120f1,Principal
+source,relation,target,source_id,source_tags,target_id,target_tags
+John Lythfot,Job,bailiff of the dean and chapter of the church of Hereford,0b9c36ea-adc7-4fca-ba11-d9b3d6a40bd4,,f41ae198-e61c-4178-bcda-9d4ab8094b41,Office
+Walter de Wardlowe,Job,reeves of Preston,d6ed1bf6-6722-4160-b3f7-fb53251a6158,,bc4ba1ce-828a-4110-aac4-f8323d3ae287,Office
+Walter de la Bache,Job,reeves of Preston,7470a726-574a-4d81-97e5-a3390d7cf4d9,,bc4ba1ce-828a-4110-aac4-f8323d3ae287,Office
+source,relation,target,source_id,source_tags,target_id,target_tags
+treasurer of Hereford,Job,John de Kemeseye,48440428-0ab2-41b1-916e-0141256a6e5e,Job,d8a9e9ac-cdc8-4ef4-812a-bd9fb092b170,Principal
+chancellor,Job,"Robert de Gloucestr', chancellor",8c195415-fbd5-4826-a9ba-c17b19e56b06,Job,6635e605-d8f7-41e8-8920-14d69e82399e,Principal
+commissary,Job,"Walter, archbishop of Canterbury",a2c0d6cf-fe4f-4916-b726-a136d8913f0b,Job,54338f7f-969d-48f9-8976-2e914098678f,
+knight,Job,"Harry de Penebrugge, knight",0dc2ff5c-2c13-42f5-98a1-3ee0dbd666ce,Job,86ac531d-3df9-4b82-aa8a-af56f09debaf,Witness
+canon of the cathedral church of Hereford,Job,William de Knapeton,a71f76bf-eb07-4a8d-b924-a61a46c39cef,Job,8884c176-bf2d-4ead-8e57-e8db2843d4d9,Principal
+Matilda daughter of John le fiz John de Clehonger;,daughter of,John le fiz John,773b93ef-8e19-448b-908d-3eb6a148da28,Principal,378043f2-0701-4624-af0a-f9c107dd0112,
+"proctor of Richard, bishop of Herefor",Job,James de Berkeley,9a988da6-d25a-4431-83c9-5ff379eb4fa5,Job,335be301-9c85-48a8-8cd8-e6b764dbe9d5,Principal
+clerks,Job,Adam de Orletone,097e1baa-7f75-487b-a04a-73e67f7b91fa,Job,4ac3bcc2-7ea7-4d6e-99c4-ecb0584d7718,Principal
+clerks,Job,Thomas,097e1baa-7f75-487b-a04a-73e67f7b91fa,Job,4426e6f2-2791-4e02-9284-d0d72ca61635,Principal
+"the executors of the will of dominus Richard de Swynefeud,",Job,John de Kemeseye,1881790e-66fa-4c7c-b81a-5fd35c55a633,Collective|Principal,d8a9e9ac-cdc8-4ef4-812a-bd9fb092b170,Principal
+bailiffs of the town of Hereford,Job,Philip le Werror,e6113acc-42e9-4204-9d03-929a6b73620a,Job,4afd1ad3-0eb4-45bc-a01c-9166af03505a,Witness
+bailiffs of the town of Hereford,Job,Roger Penck,e6113acc-42e9-4204-9d03-929a6b73620a,Job,f9812db7-f80b-4a4c-8ac0-4294e0ad865a,Witness
+bailiffs of the town of Hereford,Job,Henry de Orletone,e6113acc-42e9-4204-9d03-929a6b73620a,Job,3e7fc419-ce86-4129-9a13-c8ff8e8469e0,Witness
+Thomas,Brothers,Adam de Orletone,4426e6f2-2791-4e02-9284-d0d72ca61635,Principal,4ac3bcc2-7ea7-4d6e-99c4-ecb0584d7718,Principal
+Elianora,Wife of,Roger Racy,06db3a78-80a2-4482-803d-ed92af476c42,Principal,cd7d3404-7bbc-4569-94d9-36c3b496a491,
+knight,Job,Torbervile,68f40cfb-f5a0-43bf-893b-861d3cf5f085,Job,c4c64037-4c5c-4d03-b302-a6094c5e7d90,Nominative
+clerks of the diocese of Hereford,Job,Richard Heruy,2d92ebb6-57cb-48eb-a245-73fe86f89489,Job,71bfa4af-d0e8-480a-8761-091a8e47eca9,Scribe|Witness
+clerks of the diocese of Hereford,Job,John de Catfeld,2d92ebb6-57cb-48eb-a245-73fe86f89489,Job,6a33e398-7f0c-42c6-a0fc-0fd1e3fa8ef2,Witness
+clerks of the diocese of Hereford,Job,William de Stretton,2d92ebb6-57cb-48eb-a245-73fe86f89489,Job,568fa0fb-fac1-41f8-a8c0-936a9836b8fb,Witness
+clerks of the diocese of Hereford,Job,Stephen Normal,2d92ebb6-57cb-48eb-a245-73fe86f89489,Job,5340a45a-de0c-40bc-8680-d9ff406be247,Witness
+clerks of the diocese of Hereford,Job,"Gilbert de Raigate, rector of the church of Brugge",2d92ebb6-57cb-48eb-a245-73fe86f89489,Job,0018eec8-ac0c-4fae-8dd8-e733eccca66b,Witness
+canon of Hereford,Job,James de Berkeley,35abdce5-74cf-416a-a53a-53aa671e7c9c,Job,335be301-9c85-48a8-8cd8-e6b764dbe9d5,Principal
+proctor,Job,Clement de Paston,b69eac7d-7f9c-4618-817b-6ea3828f0f01,Job,042d3fdd-9702-4a2c-a29c-649673037bfd,
+"notary public,",Job,Hugh de Thornhagh,16dd67ba-7208-4d9a-ab8b-2dfb7f6de565,Job,837846df-f6a6-4ce4-b586-fd0730f529f8,Scribe
+"Richard called the clerk, chaplain, son and heir of the late Richard le Clerke of Hereford beyond the Wye",Son of,Richard le Clerke,49f6f4b9-845b-49fa-9f28-aca0ebb2d44f,Principal,bf52bc84-3fc0-4500-9f04-5ce4a8236d39,Dead
+bishop of Hereford,Job,Richard de Swynefeud,e647a033-807f-4e73-a182-000d4a663739,Job,5b73a57c-9d5f-4a24-a91e-14222a347090,
+bishop of Hereford,Job,Richard de Swynefeud,1c87173b-da2d-4fa8-a781-e1d50efe0591,Job,e4793bc8-c314-49ed-abac-7d18c2ff2664,Dead
+clerk,Job,Hugh de Thornhagh,1113fe1d-adb3-4da4-89c6-15e7fb0c4779,Job,837846df-f6a6-4ce4-b586-fd0730f529f8,Scribe
+archdeacon of Salop,Job,"John de Ros, archdeacon of Salop",b312d124-0774-4023-8efc-b46221bf435e,Job,0215b08e-aa4a-4945-9557-cce386c64245,Principal
+dean,Job,"John de Aqua Blank', dean",8f9ab2e7-5aff-4304-a33c-70c99d656d15,Job,e9e52df7-a307-42cb-a228-2f58f34a6621,Principal
+archbishop of Canterbury,Job,"Walter, archbishop of Canterbury",4241aa6d-7d31-47b3-b0b4-6303e57ed951,Job,54338f7f-969d-48f9-8976-2e914098678f,
+source,relation,target,source_id,source_tags,target_id,target_tags
+dean,Job,"J[ohn], dean",178817b8-bc7f-4e70-a3f0-5756c2497442,Job,2b4379c4-dd47-4628-8175-0f8c49ca9394,Principal
+chaplain,Job,Henry de Gardino,846af912-1349-4a3c-96a4-1431fe7e2e1b,Job,98ae2845-4468-4a8e-8be7-2d07e5ed236a,
+archdeacon of A[...]n in the church of Cominges ('Archidiacon' Aranen' in ecclesia Couen' '),Job,"William [de] Testa, archdeacon of A[...]n in the church of Cominges ('Archidiacon' Aranen' in ecclesia Couen' ')",1359f525-2cee-47a2-913e-bae45e26de2c,Job,6a761e14-6973-47ea-9ee0-05449246f1c5,Principal
+chancellor of the church of St. Ethelbert of Hereford,Job,Robert de Gloucestr',99b9c354-3451-4a96-8238-aab91bf35698,Job,6059a443-2400-4feb-ac8c-781fa958344d,Principal
+treasurer of Hereford,Job,Nicholas de Reygate,e948c683-90a7-4b83-97a4-6df1f82bcec2,Job,362f7e72-eee3-4557-bc41-9694c7cba016,
+John son of Roger de Brunsope,Son of,Roger de Brunsope,d2e2a67c-5cd4-4ca2-9dc3-deea3bb45343,,323f76b1-7e9c-489d-9a23-404dcb43ed5d,
+bailiff of the dean and chapter of Hereford,Job,Roger Le Taillur,f6b8f083-fc8e-4638-99dd-92ba8bf13bad,Job,4b1b43ae-0326-4d0a-a9f8-976638de2b39,Witness
+clerk,Job,Phillip de London,57bd59e6-1078-42db-8f3b-80e93b066b87,Job,52371e9d-c9e7-4265-8a58-580f55b51e76,
+citizens,Job,Richard Thurgrim,f17d16d2-bee4-41e4-ba58-85ae59836f36,Job,d0afabc3-d8ab-460d-b275-2e72887529b8,
+citizens,Job,John de Barwe,f17d16d2-bee4-41e4-ba58-85ae59836f36,Job,3b599dc0-2e48-45b2-b734-89aafeade04f,
+citizens,Job,Arnald le Clover,f17d16d2-bee4-41e4-ba58-85ae59836f36,Job,7de0b91e-6aef-4b6c-b253-59660bcc52ff,Witness
+citizens,Job,Hugh Trone,f17d16d2-bee4-41e4-ba58-85ae59836f36,Job,ee526392-d6a7-4974-adec-7983884ddccd,Witness
+citizens,Job,John de Maddeley,f17d16d2-bee4-41e4-ba58-85ae59836f36,Job,f6d4bf9c-7a41-4330-9e17-171fd37949a1,Witness
+citizens,Job,John Pryde,f17d16d2-bee4-41e4-ba58-85ae59836f36,Job,0e2b3b46-2de2-4490-a6c9-dfa780a3611c,Witness
+citizens,Job,Thomas de la Barre,f17d16d2-bee4-41e4-ba58-85ae59836f36,Job,c4af60f4-6962-43ab-9961-922d998cc8bb,Witness
+citizens,Job,Gilbert Blod,f17d16d2-bee4-41e4-ba58-85ae59836f36,Job,329cb95f-fa37-4acd-8e5d-65cdf90fc8ab,Witness
+bishop of Annaghdown (Enachdunensis),Job,"Gilbert, bishop of Annaghdown (Enachdunensis)",b85469f6-eed5-483d-8edd-b63c67ebd579,Job,d6ce068c-08dd-40e0-aeee-11a2683968c9,Principal
+subtreasurer,Job,"William Vallet, subtreasurer",bdf7742b-bc7a-40a0-864b-5bc71caa108d,Job,5f40a79b-052c-4f26-a017-19b665cc1856,Principal
+clerk,Job,Thomas de Orlenton,e9a329b6-7f22-4315-8d10-2a346ee6a10f,Job,aa2684fa-7708-4ff8-86d0-54dcf62af020,Principal
+le Clover',Job,Arnald le Clover,e0efea31-3d56-44d7-9948-5c022f41b6d9,Job,7de0b91e-6aef-4b6c-b253-59660bcc52ff,Witness
+le Clerk',Job,John le Clerk,dff44235-78f8-469e-bfdd-85fdfdacdaba,Job,b7185c85-19de-4470-8194-ef25ac2d2c61,
+dean of the church of Hereford,Job,John de Aqua Blanca,f94a4967-9cec-4455-af9c-cedb7f725962,Job,f9cb7d4a-263a-4e20-bd00-c17faef1fcc6,
+"Le Taillur,",Job,Roger Le Taillur,ae4724e1-8dd9-42bf-8f41-9f0ce4474632,Job,4b1b43ae-0326-4d0a-a9f8-976638de2b39,Witness
+"domestic chaplain to William, cardinal-priest of St. Pudentiana's (sancte potenciane)",Job,John de Aqua Blanca,852dd75c-757a-4a0e-ad9b-c3d87d60dcfc,Job,f9cb7d4a-263a-4e20-bd00-c17faef1fcc6,
+canon of [?] Belves ('canonico Beluacen' ',Job,Gerard de Sisiriaco,d81ccd59-7d06-4f2d-bd4c-f3ebe08e5fe1,Job,3c6344da-c056-41bb-9c85-81b140bbff52,
+proctor of the chapter of Hereford,Job,Thomas de Orlenton,ebdd04c5-1979-459e-a29f-327f5748e546,Job,aa2684fa-7708-4ff8-86d0-54dcf62af020,Principal
+notary public,Job,Phillip de London,1694fc91-cff5-4e97-83ed-a2eba9957f42,Job,52371e9d-c9e7-4265-8a58-580f55b51e76,
+Everard son of John le Clerk',Son of,John le Clerk,7961a43b-c3e0-4c9e-98b4-c1de109b95aa,Principal,b7185c85-19de-4470-8194-ef25ac2d2c61,
+executor of the will of dominus Nicholas de Reygate,Job,Roger de Ereyntonia,a4da22ba-9545-4a38-ba44-f8b942877387,Job,a6c7445f-5fad-4ba6-9510-c9384b48025c,
+treasurer of the church of Hereford,Job,Nicholas de Reygate,03aae43d-769a-49b8-a458-001b15783686,Job,2a4f07fd-7fd4-4d1a-8264-f1eb2a0041d7,Dead
+treasurer in the church of St. Ethelbert of Hereford,Job,Nicholas de Reygate,27c80789-ad40-4998-8702-98a5e854b045,Job,41b6b175-3867-4fb1-a8e6-acb9b02c2d42,Dead
+source,relation,target,source_id,source_tags,target_id,target_tags
+W. the Young,Agent of,dean and chapter,3805fcdd-5d27-4c8e-80b4-c54828eafd4c,,e4c2aba9-5483-49fe-a6fb-6061f820f7bf,Collective|Principal
+subcollector of the three years’ tenth,Job,dean of Hereford,1d8930de-0746-4d7c-875c-bc0c9ec56b4a,Job,dcb738ca-8ce2-41e8-804a-f735b27d0f9b,Principal|Office
+W. the Young,Agent of,dean and chapter,eacb3056-3b7d-4a26-af79-1f22c9032fa2,Principal,885be622-18b2-45c2-ad8f-2ff78b976a6b,Collective|Principal
+clerk of the dean and chapter of Hereford,Job,Robert de Cotinton,d39d635b-4ac4-42b4-9709-d3e783979dc7,Job,3450514c-88e2-4415-a9ab-6e936a35199c,Principal
+clerk of the dean and chapter of Hereford,Job,Robert de Cotinton,71072817-14b1-4a64-93eb-ae42933a5b4b,Job,b936a64c-9856-4255-928e-50395bc4b75e,Principal
+clerk,Job,Gilbert de Bruera,fda92731-28b8-48a7-87db-48bdd1edf531,Job,1c655756-3fa8-4b95-8fb8-b0cc17a32f16,Principal
+merchants,Job,Emericus de Friscobald,ebc968db-bc02-4fa6-91c7-4f1206344d20,Job,80e2ee95-abff-4514-8a76-17da99d642a5,
+merchants,Job,the society of Friscobaldi of Florence,ebc968db-bc02-4fa6-91c7-4f1206344d20,Job,01d47a39-8109-4785-a463-cd61aab6ad16,Collective
+John de Barwe,Agent of,Dean and chapter of the church of Hereford,bffd2330-709e-4fab-9ab6-d19a1eac36c7,Principal,e7bb69f3-e537-490d-b1e1-6314bf6b7c53,Collective|Principal
+vicar of the church of Lugwardyn,Job,John Bardulf,beafb803-3a7b-467f-bf2e-bfbcd1a74e7f,Job,a0049677-368a-43aa-8cf9-4d3609cbc4e7,Principal
+notary in the inquiry concerning the miracles of Thomas de Cantilupe,Job,Gilbert de Bruera,053ed899-de38-4686-bc50-8524f8398781,Job,1c655756-3fa8-4b95-8fb8-b0cc17a32f16,Principal
+source,relation,target,source_id,source_tags,target_id,target_tags
+Alice,Married,John Lightfot,341f275b-8c84-4db3-bac2-ad268f86d3d7,,f22ecc82-36fa-4e10-b04c-7eea650c97ee,Dead
+Walter,Son,William de la Hay,b926d4f4-1bad-4559-923c-85fd4bde65e7,,6f7c308a-c660-40cf-a3ba-733842715fea,
+John de Ledeburi,Job,baker,26f0c8d8-8919-4907-b15c-5ee1436a12dc,Witness,a7b895e2-ec41-492e-afa0-6c7c3447509a,Office
+Richard Moniword,Job,bailiff,340460df-6187-47e3-a3e1-27085d3e3043,Witness,8aff2a55-7a36-47a3-9070-f0c34eaeb29f,Office
+Thomas Theubaud,Job,bailiff of the bishop of Hereford,5fc3af6c-d665-4073-be36-a01bb9ed1673,Witness,970fba98-b71d-4995-90ff-4cdd90da9a46,Office
+Richard de la Hay,Job,bailiff of the dean and chapter of Hereford,1d2c2a32-914e-4eff-ae3a-35ef32476600,Witness,155c3496-305a-4e77-bcf4-7164674f2e01,Office
+Hugh Trone,Father,Hugh son of Hugh Trone de Hereford,8098e352-d75e-413d-9437-d10c737f237c,,4d483a3d-7e08-4596-ae13-8a22874f1487,Principal
+source,relation,target,source_id,source_tags,target_id,target_tags
+Richard Berde de Ledebur,Neighbors,William Crodele,0829b0da-48e9-48d8-9005-e9da0e72d811,Principal|Scribe,d13e20d7-9a22-4a64-b88f-b2dc41e030cf,
+Richard Berde de Ledebur,Neighbors,the rector of the church of Estenovere,0829b0da-48e9-48d8-9005-e9da0e72d811,Principal|Scribe,24ce0361-4cee-4da6-9224-2aba528771ad,Office
+Richard Berde de Ledebur,Neighbors,John de Underdoune,0829b0da-48e9-48d8-9005-e9da0e72d811,Principal|Scribe,56bb5906-c545-4fa6-82dd-98161d9ff184,
+Richard Berde de Ledebur,Son of,Ralph Berde,0829b0da-48e9-48d8-9005-e9da0e72d811,Principal|Scribe,5ce285e0-df7c-4f26-bd1b-2d7e25496735,Witness
+William de Cirescestre,Neighbors,Robert Carpentar,555e6c6c-ae8e-4d1e-ba91-9ac1ae61a243,Principal,1e32bf78-759d-40ad-92b5-fe9fa0094fc9,
+William de Cirescestre,Neighbors,John de Sevenok,555e6c6c-ae8e-4d1e-ba91-9ac1ae61a243,Principal,c5afb5de-4e10-4b4f-8292-b8b30bb1ba53,
+William de Cirescestre,Neighbors,William Inthehale,555e6c6c-ae8e-4d1e-ba91-9ac1ae61a243,Principal,c21bb396-8268-43c5-974d-0fe7a72028fe,
+le Werrour,Job,Philip le Werrour,d5ba9056-9355-4162-8123-f9716723d401,Job,18c3de82-6ac4-4be9-a7c9-c528a868207d,Witness
+the true patron of the church,Job,Licent ' de Morgan,0aca45fd-a705-4e22-ba7f-de5c712dd1a5,Job,c7b391bf-374d-4b5b-b234-342495e75698,
+John de Sevenok,Neighbors,William Inthehale,c5afb5de-4e10-4b4f-8292-b8b30bb1ba53,,c21bb396-8268-43c5-974d-0fe7a72028fe,
+clerk,Job,John Nicholas,c2445f45-63f7-4867-924e-63dafa26d1d6,Job,9a4c66f4-c552-4ee9-a40e-086308a6ad90,
+Ievan ap Howel Vachan,Son of,Howel vab,b8031f87-4753-4942-961c-bbf9227dcf24,Principal,eec8090f-ac6f-4ae9-8ff4-4def845970ae,Principal
+fellow-monk,Job,the convent of the same place,15a2abeb-d52d-4292-8311-8d9fd71c47de,Job,f71619cf-e8ee-4d3f-a5b6-1fc93ed7cb27,Collective|Principal
+fellow-monk,Job,John de Sancto Briavello,15a2abeb-d52d-4292-8311-8d9fd71c47de,Job,5bbb6adf-af21-4b96-b930-33bf83acf8a5,Principal
+fellow-monk,Job,"John, prior of the cathedral church of Worcester",15a2abeb-d52d-4292-8311-8d9fd71c47de,Job,1a2d2c99-c6f0-4d2e-86bc-2415600f2411,Principal
+Richard Perot de Ledebur,Neighbors,William Crodele,f4ea3f32-b410-4e6a-980c-12e57b5c6099,Principal,d13e20d7-9a22-4a64-b88f-b2dc41e030cf,
+Richard Perot de Ledebur,Neighbors,the rector of the church of Estenovere,f4ea3f32-b410-4e6a-980c-12e57b5c6099,Principal,24ce0361-4cee-4da6-9224-2aba528771ad,Office
+Richard Perot de Ledebur,Neighbors,John de Underdoune,f4ea3f32-b410-4e6a-980c-12e57b5c6099,Principal,56bb5906-c545-4fa6-82dd-98161d9ff184,
+incumbent de facto,Job,John Toppe,9618bb84-1352-40d4-b1b4-721af09bb89d,Job,099649c9-4d0c-487c-8348-e9dc3d6b4234,
+citizen of Hereford,Job,John de Retherwas,5b78b129-2127-4609-87be-1062bccec7cf,Job,69014c93-6233-4ddf-9430-6fd24a6dbc87,Principal
+goldsmith,Job,William de Cirescestre,9770b0b9-bd14-482e-a8f1-406aea97cb2f,Job,555e6c6c-ae8e-4d1e-ba91-9ac1ae61a243,Principal
+John Toppe,Job,rectory of Avene,099649c9-4d0c-487c-8348-e9dc3d6b4234,,472a6f30-e29d-4b0d-8c9b-94d322128f2e,Job
+clerk,Job,Thomas de Penebrugg,f1473c49-de7f-456e-bd88-6af65559eade,Job,c71fbe90-1ed1-482e-982a-59507d0621fa,Principal
+John de Retherwas,Neighbors,William de Cirescestre,69014c93-6233-4ddf-9430-6fd24a6dbc87,Principal,555e6c6c-ae8e-4d1e-ba91-9ac1ae61a243,Principal
+John de Retherwas,Neighbors,Robert Carpentar,69014c93-6233-4ddf-9430-6fd24a6dbc87,Principal,1e32bf78-759d-40ad-92b5-fe9fa0094fc9,
+John de Retherwas,Neighbors,John de Sevenok,69014c93-6233-4ddf-9430-6fd24a6dbc87,Principal,c5afb5de-4e10-4b4f-8292-b8b30bb1ba53,
+John de Retherwas,Neighbors,William Inthehale,69014c93-6233-4ddf-9430-6fd24a6dbc87,Principal,c21bb396-8268-43c5-974d-0fe7a72028fe,
+Licent ' de Morgan,Patron of,Thomas de Penebrugg,c7b391bf-374d-4b5b-b234-342495e75698,,c71fbe90-1ed1-482e-982a-59507d0621fa,Principal
+rectory of Avene,Job,Thomas de Penebrugg,472a6f30-e29d-4b0d-8c9b-94d322128f2e,Job,c71fbe90-1ed1-482e-982a-59507d0621fa,Principal
+John Nicholas,Job,rectory of Avene,9a4c66f4-c552-4ee9-a40e-086308a6ad90,,472a6f30-e29d-4b0d-8c9b-94d322128f2e,Job
+Carpentar,Job,Robert Carpentar,3b0a966c-edec-41ce-94a5-b8a4a46c582d,Job,1e32bf78-759d-40ad-92b5-fe9fa0094fc9,
+David ap Howel Vachan,Son of,Howel vab,5d326ab4-e32e-4d56-b148-33a2c1b3cb10,Principal,eec8090f-ac6f-4ae9-8ff4-4def845970ae,Principal
+Adam Knoil,Relatives,Peter Knoil,4c03f948-2b73-4efa-b292-9128c5ea5d12,,2873a764-91dc-4f29-9bf8-449a976fc4a2,Witness
+king's bailiffs at Hereford,Job,Roger Penk,b7bb20a5-e797-401d-8e62-85741610ffc2,Job,678ebb67-eed3-4e39-900b-35bced230da5,Witness
+king's bailiffs at Hereford,Job,Philip le Werrour,b7bb20a5-e797-401d-8e62-85741610ffc2,Job,18c3de82-6ac4-4be9-a7c9-c528a868207d,Witness
+king's bailiffs at Hereford,Job,Henry de Orletone,b7bb20a5-e797-401d-8e62-85741610ffc2,Job,668750f2-259a-4cd7-a23f-26511bce017b,Witness
+Robert Knoil,Relatives,Adam Knoil,da87c744-945c-419d-9fce-2ac7b1aa5dba,Witness,4c03f948-2b73-4efa-b292-9128c5ea5d12,
+Robert Knoil,Relatives,Peter Knoil,da87c744-945c-419d-9fce-2ac7b1aa5dba,Witness,2873a764-91dc-4f29-9bf8-449a976fc4a2,Witness
+William ap Howel Vachan,Son of,Howel vab,1a761270-dc94-4655-8add-3f4ad59c1a96,Principal,eec8090f-ac6f-4ae9-8ff4-4def845970ae,Principal
+John de Underdoune,Neighbors,the rector of the church of Estenovere,56bb5906-c545-4fa6-82dd-98161d9ff184,,24ce0361-4cee-4da6-9224-2aba528771ad,Office
+"knight,",Job,Licent ' de Morgan,b627b1c1-64c4-41ae-8571-a87ec68f6422,Job,c7b391bf-374d-4b5b-b234-342495e75698,
+Alyna,Wife of,Richard Berde de Ledebur,79f79f35-3d7d-4a65-a8b3-a857c2388cf4,Principal,0829b0da-48e9-48d8-9005-e9da0e72d811,Principal|Scribe
+"le Sopere,",Job,John le Sopere,f48e5fab-305e-40bf-a0f1-39b6d2e2a350,Job,ae3fe862-0c18-4bda-9f0f-3dbda3bd7938,Witness
+the true patron thereof,Patron of,Thomas de Penebrugg,1c67ffb2-79c1-46ec-9b1b-f15ddc2a5927,Office,c71fbe90-1ed1-482e-982a-59507d0621fa,Principal
+William son of Adam Knoil,Son of,Adam Knoil,c541ab08-78dd-447c-a7cb-0cbd79088d85,Witness,4c03f948-2b73-4efa-b292-9128c5ea5d12,
+source,relation,target,source_id,source_tags,target_id,target_tags
+bishop of Hereford,Job,"Richard Swinfield], bishop of Hereford",3af0f4cb-2919-412d-9a9b-ad770664e8f6,Job,2d36d87a-185f-42fc-aeed-bc3756e4ffb6,Witness
+priest,Job,Walter de Keyrlyon,a45c12a9-2551-4676-9b13-f19c174f4657,Job,dc63fd3c-f9e0-4f02-a0d1-518b5442a7b2,Principal
+treasurer in the aforesaid church of Hereford,Job,Sohn de Kemeseye,6432af9f-6989-46bd-8a2f-010e037a9091,Job,af04638c-7224-49e6-96b5-4edb0e6f35c9,Witness
+clerks,Job,Reginald his brother,e342ffc2-6380-4f21-80fc-12f3b1dc93cd,Job,3a1333ee-e34f-45bf-a0b9-26d018f83ac5,Principal
+clerks,Job,John de Bromfeld,e342ffc2-6380-4f21-80fc-12f3b1dc93cd,Job,b678f5c3-7fea-4a01-bd9b-82fedb348386,Principal
+notary public,Job,John | son of] John de Fontyton,9b7c0520-5554-4a3c-ad9e-61f84cd8d5f7,Job,7d1ebf25-8b3d-4ac5-bb9e-1e14b6325b66,Principal
+bishop of Hereford,Job,"Richard [Swinfield], bishop of Hereford",e0b51fd5-498a-4122-9623-86857d62fddc,Job,985d28c0-ba9e-4bf8-b259-0f503d45536f,Principal
+"a son of Stephen de Buterleye, lord of Buterleye",Son of,Stephen de Buterleye,0f44ded1-ed5a-4939-ab07-76b317ec7463,Office,c74ec458-ec6a-44e8-971d-5da9f12c7471,
+vicarage of the church of St. Gundley in Newport (in novo burgo) in the diocese of Llandaff,Job,Walter de Keyrlyon,192fa085-4ed0-444b-8c42-8f7d8e2b6f93,Job,dc63fd3c-f9e0-4f02-a0d1-518b5442a7b2,Principal
+Reginald his brother,Brothers,John de Bromfeld,3a1333ee-e34f-45bf-a0b9-26d018f83ac5,Principal,b678f5c3-7fea-4a01-bd9b-82fedb348386,Principal
+bishop of Hereford,Job,John le Bretun,e6dc8c2e-d460-422d-9be0-5c1135de1d6c,Job,7a7b4d54-6215-405d-9a6c-67962de690ee,
+precentor,Job,John de Swenesfeld,e98c6b46-2d2d-43b5-b69f-4b12d4b01521,Job,83c492bc-2e0f-40ac-bd83-02d3fcbe7682,Witness
+"clerk of the diocese of Chichester,",Job,John | son of] John de Fontyton,741495a3-cf3b-47e9-ac26-c828285d1d75,Job,7d1ebf25-8b3d-4ac5-bb9e-1e14b6325b66,Principal
+archdeacon of Shropshire in the church of Hereford,Job,John de Ros,eb5aa76c-da08-4223-bc39-29e83b3df632,Job,6da9dcd4-eb7d-46fb-852f-bf4ca01f82b0,Witness
+"bishop of Llandaff,",Job,"J[ohn de Monmouth], bishop of Llandaff",bddc7740-1c81-46df-9f82-c16273cb17d6,Job,3accdcbf-8b2c-4e53-80be-ccf2490f381c,Principal
+William son of Hugh de Bromfeld,Son of,Hugh de Bromfeld,fc126d98-e5f2-41eb-92d9-cffc8715af4a,,c635ba37-430e-4cdb-a817-9efdc89aa4a8,
+source,relation,target,source_id,source_tags,target_id,target_tags
+knight,job,Bartholomew de Batelesmere,bc577aaf-63c9-436f-90c4-b8144af22bb2,job,de56de90-dcb7-4f94-aa5b-1479e4e514fb,
+bishop,job,W.,d16b9927-5e83-461a-abc5-f1d8dd5ed2dc,job,36db6b70-9511-49a8-a598-f514f447f71a,principal|Principal
+canon,job,Ralph de Stokes,ee54b7f8-50ec-4b87-9687-229b8ea61735,job,960667aa-2bcf-444b-8bcd-dabed08cea58,
+professor of civil law,job,Benedict de Paston,3eb772be-8dc1-40db-8084-3d9d8668a097,job,bb96f9ac-8f42-4639-9941-77e4ef9817d3,
+knights,job,Roger Pychard,7e9c7d9b-d175-49ac-854b-def793182b69,job,ac018234-aaf6-45c8-a91d-7999cbdd6152,Witness
+knights,job,Miles Pychard,7e9c7d9b-d175-49ac-854b-def793182b69,job,ed8f48f4-d2e5-4ccb-b53c-f307a3c3bae0,Witness
+clerks,job,William Bouhs,be707083-54d9-47ea-b1e0-eb5888a2f5f6,job,60142fbc-51e6-401c-9b28-c703e47d4429,Witness
+clerks,job,John de Colonia,be707083-54d9-47ea-b1e0-eb5888a2f5f6,job,442d0667-075e-4c0f-8ab7-c96603ba9f1e,Witness
+archbishop,job,Walter,f8a25cac-1a6f-4927-8b01-4027dc6fef06,job,834c6f48-e1c3-43d1-878a-8effeb680750,Principal
+Adam Hanlyn',father,William son of Adam Hanlyn,1a490204-5c16-40a6-8d9e-decff975d3cc,,fba45238-2b15-4a70-a478-fda803ab435e,Principal
+"doctor of canon and civil law,",job,William de Knapeton,7b22d62c-9588-4846-93f0-c339fcac8345,job,4adfca54-6f99-4c9f-be6d-fd07269df2d3,
+bishop,job,Richard,a59e20d4-b630-4a46-9a0c-5f7564cdf1bb,job,5adfe63e-d727-4b91-8dc5-ed4bf43e0c64,Principal
+dean,job,John de Aqua Blanca,dfa50b0c-212b-408a-81c7-f82de2906447,job,f57ab930-11a9-4b89-92f4-497845a90df6,Principal
+bishop,job,W.,b0849658-8e32-42e9-a6cc-88891e02ba5f,job,4b6526f9-cdf2-4d12-9fcc-687cd9274b2c,Principal
+Rikeman,friend,Bartholomew de Batelesmere,ce899fe9-bcf8-48e0-a456-9febb544564c,Principal,de56de90-dcb7-4f94-aa5b-1479e4e514fb,
+vicars,job,Walter de la Bache,04ef34c5-a1c8-4bfa-a802-d560ca474073,job,bcd826b8-2eec-4fa3-97fc-2644c184a956,Witness
+vicars,job,Ranulph de Evesham,04ef34c5-a1c8-4bfa-a802-d560ca474073,job,081ae8a0-946f-44ea-b4d7-19f927aa53e1,Witness
+vicars,job,Robert de Byford,04ef34c5-a1c8-4bfa-a802-d560ca474073,job,1f9aa063-6315-4d2c-9c3f-0006fa25c57b,Witness
+dean,job,John,abc96314-cdff-4bb8-a2a2-45c1692a6fa2,job,2c65be39-7145-41ff-8dd8-7b027030ab21,Principal
+source,relation,target,source_id,source_tags,target_id,target_tags
+canon of the said cathedral church,Job,William de Ros,af6289de-c79d-42e4-b2cd-a1c477a51aad,Job,6e63fbd7-c539-41d2-b749-9981c6aa9b6a,
+Richard II,Grandson of,Edward III,4a50a56d-357f-4ac4-a74f-4a490cd59e18,Principal,d142d166-30b6-4d4a-b86c-e304c954e932,Principal
+vicar in the church of Hereford,Job,John Helle,d24cd755-5c09-4391-995a-dfbbaf880288,Job,68da28e1-b335-4ae5-8846-1c80b1f3dddf,Witness
+chaplain,Job,Peter de Wilton,c19c9887-9546-444f-8029-7d82367c1dd2,Job,15c49b9f-86b0-4ae3-ac29-6771681b189d,Witness
+his servant,Job,Roger Digge,20f21c48-8163-43cb-bb71-b306e4b515de,Job,6deb7a9e-04a4-4183-a16e-c4141c989844,
+"papal chaplain and auditor,",Job,Petrus Guillelmi,b7ce1f85-bad0-486c-b7cc-572548272454,Job,ff53bc80-d683-4ef9-948f-541f0b6955ce,
+"notary public,",Job,Hugh de Thornhagh,a6207be5-72eb-453d-97bc-6ed6dc8cf909,Job,9d957614-98d2-40f0-a04c-e44474d2ecd9,
+"archdeacon of Salop,",Job,William de Ros,6d28db5b-d61d-4df2-9d2d-0e351fcecff9,Job,8862a0e4-2d9a-4832-95dd-7dd1aa95e90a,
+"proctor of the said magister John,",Job,William de Ros,2461094f-5ee6-4a68-b136-31f3ec28ad21,Job,9c245dc2-6d38-4b88-8dce-ff562c4419ac,
+Edward III,Son of,ROYAL CONFIRMATION,d142d166-30b6-4d4a-b86c-e304c954e932,Principal,e6eedeac-723d-4d3a-8f2d-109fb245893d,Office|Principal
+proctor of magister John de Ros,Job,William de Ros,1607db7b-25d0-4faf-a935-94df0a148864,Job,6e63fbd7-c539-41d2-b749-9981c6aa9b6a,
+"clerk of the diocese of York,",Job,Hugh de Thornhagh,80290713-3465-4af3-a094-8431b43f7353,Job,9d957614-98d2-40f0-a04c-e44474d2ecd9,
+clerk,Job,Richard called Heruy,b5f383f9-d39b-4da7-a4c8-dfc63081fdd3,Job,0aea5d72-47d2-4cfa-9949-ac2deb6367c4,Principal
+"canon of Vaison,",Job,Petrus Guillelmi,ac475a2e-75e8-4579-9906-ba60b701b483,Job,ff53bc80-d683-4ef9-948f-541f0b6955ce,
+treasurer,Job,Thomas de Penbrugge,3b354203-02b3-48ab-90ee-25ad0563f2d1,Job,28d8241e-8497-401f-be03-23bb21344578,Was at
+proctor of the dean and chapter of the cathedral church of Hereford,Job,Thomas de Boleye,705e6f2d-e982-484f-853b-afbff899ec67,Job,2b786a3f-6893-4c85-8239-b9366681a850,
+proctor of the said magister John,Job,William de Ros,d4991384-cf02-430f-b702-a2cde85d787a,Job,57c6982d-054e-4c87-82e3-6c75db708d52,
+subexecutor of the said magister Petrus Guillelmi.,Job,Stephen Norman,17bf4481-1e6c-4af9-a403-07d3165042fd,Job,5cd0622a-b82f-4b67-8d20-e10a06d5e729,Collective|Office
+proctor of the dean and chapter of Hereford in the Roman court in the cause against magister John de Ros,Job,Richard called Heruy,421d95bf-0a24-49da-af7d-8e8fdc574ca5,Job,0aea5d72-47d2-4cfa-9949-ac2deb6367c4,Principal
+clerk,Job,John de Ros,b2d3db4c-2a6a-4393-aef1-1a9078028336,Job,be069559-adb6-49f8-a774-bebaf28e9d07,Principal
+source,relation,target,source_id,source_tags,target_id,target_tags
+William,Son,William Le Coruiser,89e4e4d4-844a-4370-82e0-d1f4996cbb8f,Present,221b3195-2496-42d5-aafb-9423ab849551,
+Roger le Tayllor,Job,bailiff,adca1745-c393-48af-8ec2-d97797f9759b,,3e378266-4e9b-467b-b010-8b633f70cc50,Job
+Walter,Son,Walter Cole de Waddeleye,7cab7162-0d0b-4ca9-aba0-258a8ed5de32,Principal,b6c1882d-a2eb-45d1-b57c-ff53d9a9a972,Principal
+John de Straddel,Son,Richard de Wycombe,025982c0-7e6c-4f14-9ac4-3624b919af3e,Principal,4763c9cf-8e40-48e2-843a-da55eebee740,
+Hugh,Son,Ralph de Byryton,11977864-c683-435a-8b5e-2e8cf2af5344,Principal,5ed3fb5d-c69d-4529-a487-418d02378f8b,
+Henry de Orleton,Job,bailiffs,e18080e2-1ebe-46f0-8f6a-592557f4d6e6,Witness,24fe6c58-b461-4146-8fd0-9fc09dce85e3,Job
+Phillip le Werror,Job,bailiffs,6e172999-48d7-4ceb-81f7-fc2a890609d1,Witness,24fe6c58-b461-4146-8fd0-9fc09dce85e3,Job
+Roger de Breynton,Job,vicar,b11e1177-1246-4a44-a514-f62a1270def7,Principal,ebe7a3d2-1f3d-4a03-9358-aa60bf006815,Job
+John le Werrur,Job,chaplain,a82fe856-299e-4fc4-b0c5-5d26e3c7bf17,Present|Principal,089685cf-8dcd-45eb-9927-03feac1f2c7f,Job
+Roger de Brayntone,Job,clerk,50b2665c-6376-4a10-857a-1e9cb2948e4b,Principal,49a127dc-990f-4104-b4b4-98d54c8b1574,Job
+Roger le Taillur,Job,bailiff of the dean and chapter of Hereford,33ab32f7-96b8-46fb-88e9-8456bccd53ac,Witness,8bd1c8f2-dce1-4d6b-aeac-1e484404b160,Job
+John de la Barewe,Job,tailor,d288b135-60e6-404f-b554-9e31aa159fad,,c2189c5f-8cac-4eec-b3aa-63772472ca1a,Job
+Euerard,Son,John le Clerk' de Bristoll,f9fe8d5b-f1b1-41ac-a54a-7bc459e7cd23,Present|Principal,9b390ba2-2782-4112-b174-620a3b7c4ed5,
+chaplain,Job,John le Monk,8dec5401-ba07-42aa-abd9-1109cbf8381e,Job,2493e729-9dcd-4b94-b7b3-a9114d9d47e7,Principal
+Roger Penek,Job,bailiffs,e471862a-359c-45aa-99ae-74acc6ab0647,Witness,24fe6c58-b461-4146-8fd0-9fc09dce85e3,Job
+Richard de Cruce,Job,bailiffs,67111815-f20d-4348-9f7f-84cf3f489f1b,Witness,769de711-c532-4aa0-a110-79fd6f0b3b9e,Job
+Richard de Cruce,Job,Thomas Tope,67111815-f20d-4348-9f7f-84cf3f489f1b,Witness,cfef431b-258e-4455-9076-d3e68ca5cdc6,Witness
+Richard de Cruce,Job,John de la Sale,67111815-f20d-4348-9f7f-84cf3f489f1b,Witness,cf8d8268-6473-48ce-afa1-6dc310e6c7d3,Witness
+John,Son,Roger de Bruneshope de Hereford,69bd9c4d-7709-4e3a-98be-0f7651892b87,Principal,b3780cf2-e097-4325-9e77-7a250e3d03a1,
+source,relation,target,source_id,source_tags,target_id,target_tags
+Thomas le Breoton,Job,canon of Hereford,3dbdd05f-81cf-48d5-96c3-4ef5816a3cbf,,39af0b99-acbc-4ff2-aded-35c8ca91cccb,Job
+Phillip le Werrour,Job,bailiffs,0787a40f-6b23-4720-bca6-5e4bce17db2c,Witness,8c64f2df-a829-4608-9caa-aa6af9dfb5ef,Job
+Sibil,Wife of,William Reed,3b8e8e62-e51e-49f0-b8b8-6e9db2e9764d,Principal,0a490904-aaac-4767-9a02-5e2f5717cffc,Dead
+Richard,Son,Ralph called le Blake de la Oldehull,239fc928-800b-480b-ae31-f23377dcc50d,,6e560258-91bd-4579-8780-407a3b8971f7,
+Richard,Son,Richard Monyword,9f2f509e-d477-4b21-8e5d-2f0000dab871,Principal,1c456883-d818-4b7a-916a-2fb26acd461d,
+John,Son,Gilbert Whyty,25d9067d-29f1-4258-a230-4988f337116a,,3f1d857b-2123-4dce-a47f-351aa15d93e6,
+Walter,Son,William de la Hay,c443f95f-cad6-4814-83c8-8a125d38906a,,43a64fa5-e6e5-487e-99ab-d3e791bcb931,
+Walter de Maddeleye,Job,notary public,96daac07-826d-4576-9b64-96558ac3efe7,Scribe|Witness,b33bfd2a-b46c-4f5c-81d6-f3d48be5c102,Job
+Roger Penk,Job,bailiffs,b3a11e56-e2a6-4dc5-947f-7eae53b66912,Witness,8c64f2df-a829-4608-9caa-aa6af9dfb5ef,Job
+source,relation,target,source_id,source_tags,target_id,target_tags
+Nicholas de Yanewrth,Proxy,Dean and chapter of Hereford,15769589-562a-4846-b206-506581b1ee09,Scribe|Proxy,b36d8dfa-fe6d-411f-aa66-1f5227bf49db,Principal|Collective
+John de Wytteney,Proxy,Dean and chapter of Hereford,245760e2-d1a2-47db-a440-ae3e41f3d17f,Scribe|Proxy,58ace96d-ea70-4e1f-97f2-081d3ae83a89,Principal|Collective
+William the Young,Proxy,Dean and chapter of Hereford,47934b11-5d1a-4ce8-a0e2-5b11ba911ff7,Scribe|Proxy,aac5d283-92a7-4d05-8534-a2abd863ca1f,Principal|Collective
+John de Wytteneye,Proxy,Dean and chapter of Hereford,ff30e430-2309-4d56-96da-042372a4cf40,Scribe,6a92da1a-f028-4b3c-ac62-472e4d9b631c,Principal|Collective
+source,relation,target,source_id,source_tags,target_id,target_tags
+William Wycher,Neighbors,Arnald le Lymbernare,200867d1-f3f8-46d4-99db-9b57a15b1f46,,9f1baa63-5396-498f-b170-51421ee518eb,
+rent-collector of the said dean and chapter in Hereford,Job,John Whyteneye,e923746c-4e81-4bb9-a2ad-b1fde0587a90,Job,fcaae5dc-313b-40d4-a40a-2075d1b3df27,Witness
+Roger de Mortemer,Patron of,John le fiuz Hugh Hakelute,0773b573-bb91-407f-98a2-c55159cfdeed,,4311aa35-a1cd-4b2f-a50c-42a35fcd6b8a,
+John Bibel,Neighbors,William Wycher,7f6ce3ac-549e-4848-bff4-8c53cf7d7309,,200867d1-f3f8-46d4-99db-9b57a15b1f46,
+John Bibel,Neighbors,Arnald le Lymbernare,7f6ce3ac-549e-4848-bff4-8c53cf7d7309,,9f1baa63-5396-498f-b170-51421ee518eb,
+Geoffrey de la Wode,Neighbors,the rector of the upper hall (superioris aule) of Ledbur,4e8bf154-c21c-4c8c-85c3-82677dd93458,,fec38c35-4405-4c60-94a6-f6f4ba64d862,Office
+he church of Byford’,Job,Hugh Hakelute,e13e882c-419b-49aa-96f4-2f80a2dd0e17,Job,b1346163-9578-4cda-a529-7061e2ca1456,
+citizen of Hereford,Job,John Monyword,5cc857b7-03c2-4322-ad61-11dfa8fb69d3,Job,38d00dea-d7a4-42d3-a0e1-1a385a476520,Principal
+merchants,Job,Menent Francisk',8b915483-785d-4fa8-96f9-09ac789e6e58,Job,8ab4170f-9fea-4ccb-8614-ed290746e6bf,
+merchants,Job,Menent Francisk' and his fellow-merchants of the society of Bardi [of Florence],8b915483-785d-4fa8-96f9-09ac789e6e58,Job,8f4e6567-3502-4dda-8cd8-fa34fbe779b6,Collective
+sub-collectors of the annual tenth granted to the King by the Pope,Job,the dean and chapter of the dean and chapter of Hereford,253d4fe6-6ef2-4a86-b92b-fb569f21acef,Job,aad4fc34-22da-49f3-a75d-1abf9c68b112,Principal|Collective|Office
+Margery,Wife of,John Monyword,73709f40-735b-4bf7-a678-942c09f68793,,38d00dea-d7a4-42d3-a0e1-1a385a476520,Principal
+Williom de la Pole of Ledbury,Neighbors,Ralph Berde,cdc9280d-19ca-41a3-b68f-4dfc58232922,Principal,86d2a574-e26b-40fc-a21f-c95d6b68b241,
+Williom de la Pole of Ledbury,Neighbors,Geoffrey de la Wode,cdc9280d-19ca-41a3-b68f-4dfc58232922,Principal,4e8bf154-c21c-4c8c-85c3-82677dd93458,
+Williom de la Pole of Ledbury,Neighbors,the rector of the upper hall (superioris aule) of Ledbur,cdc9280d-19ca-41a3-b68f-4dfc58232922,Principal,fec38c35-4405-4c60-94a6-f6f4ba64d862,Office
+William Woderoue of Estenouere,Neighbors,Ralph Berde,69bb02ac-8e60-46fb-bf35-c832feb4596a,Principal,86d2a574-e26b-40fc-a21f-c95d6b68b241,
+William Woderoue of Estenouere,Neighbors,Geoffrey de la Wode,69bb02ac-8e60-46fb-bf35-c832feb4596a,Principal,4e8bf154-c21c-4c8c-85c3-82677dd93458,
+William Woderoue of Estenouere,Neighbors,the rector of the upper hall (superioris aule) of Ledbur,69bb02ac-8e60-46fb-bf35-c832feb4596a,Principal,fec38c35-4405-4c60-94a6-f6f4ba64d862,Office
+Ralph Berde,Neighbors,Geoffrey de la Wode,86d2a574-e26b-40fc-a21f-c95d6b68b241,,4e8bf154-c21c-4c8c-85c3-82677dd93458,
+Ralph Berde,Neighbors,the rector of the upper hall (superioris aule) of Ledbur,86d2a574-e26b-40fc-a21f-c95d6b68b241,,fec38c35-4405-4c60-94a6-f6f4ba64d862,Office
+source,relation,target,source_id,source_tags,target_id,target_tags
+John de Barwe,proxy,Dean and chapter of Hereford,08d508ca-5b69-4e96-8173-031b6a030b72,Principal,d1b9550b-67ea-4278-81d0-aa0ef25b9eb7,Principal|Collective
+John de Whyteneie,Proctor,Dean and chapter of Hereford,91661644-eb8f-4a93-9148-6e0b7e0a42b5,,e36e9a94-9f02-4c34-b131-a6e03505a5e1,Principal|Collective
+source,relation,target,source_id,source_tags,target_id,target_tags
+William the Young,Proxy,Dean and chapter of Hereford,b04447d9-e91d-4276-8ce8-1fb8c41b96ce,Principal,edd3a1d7-8530-4b10-9cea-410ee3d5a1fb,Collective|Principal
+William the Young,Proxy,Dean and chapter of Hereford,2a932694-0de7-4828-8f3a-e9841a056776,Principal,2401755a-0852-4364-8fa9-3ac796f6b965,Collective|Principal
+William the Young,Proxy,Dean and chapter of Hereford,3315b091-31c3-4023-9283-36ceda7ab8fb,Principal,7ac8ac86-7a88-4e08-9832-91b529abb6a8,Principal|Collective
+source,relation,target,source_id,source_tags,target_id,target_tags
+Richard de Hamenays,Proctor,John de Aqua Blanca,58c4698c-2930-43d6-8ada-d3c825440d9e,Principal,1dd9f8e5-6858-44fe-86ba-579c390b2476,
+subtreasurer of the church of Hereford,job,William [Valet],ba4a8e5d-84a1-45ec-9dd1-ca39c18cb075,Job,49d2b5cc-67fd-4445-b07f-ea7be057aea9,Principal
+W[illiam] the Young,Proxy,Dean and chapter of the aforesaid church,fd8c49ef-2007-45f1-932f-e0f046e57cd4,Principal,24a10a5f-cb94-4a9b-aa7f-842cddb94238,Collective|Principal
+dean of Hereford,Job,John de Aqua Blanca,9861dcbe-9cf2-4329-8eeb-4cae1d033a9a,job,1dd9f8e5-6858-44fe-86ba-579c390b2476,
+"chaplain, receiver of the chapter of Hereford.",Job,Dominus Willam the Young,39e99a98-f2df-410c-bd22-b143ab388bb7,Job,5cb96541-9d6e-4121-86c6-cbbcbaa07480,Principal
+sub-dean of Hereford,Job,Richard de Hamenays,d66c85c9-ae21-47c5-988b-fe772a48fbd0,job,58c4698c-2930-43d6-8ada-d3c825440d9e,Principal
+source,relation,target,source_id,source_tags,target_id,target_tags
+"commissary of dominus R., bishop of London",Job,William de Halstede,7820e095-f1de-47c0-bd5a-927d65c785d5,Job,d9d515a7-9ab2-474e-a505-9db386ba88f8,
+vicar in the greater church of Hereford,Job,Nicholas de Yaneworth,ae352777-03c4-40ee-aeb4-945e3dc11d70,Job,53993c93-c865-48e2-90ce-e1cfa7e6c5f7,Principal
+receiver of the annual tenth,Job,Nicholas de Yanewrth,d1e3b1c5-6aac-4c19-80c5-0cf284499f82,Job,186ab146-d365-4c1c-b937-484ddf567943,
+Adam Carbonel,Agent of,dean end chapter of Hereford,88a52373-87b1-460a-a869-ec8622ef3690,,da09551c-cc5a-4de5-b166-f23b3a3d99cf,Collective
+collectors of the said tithe for Pope Clement [V],Job,bishops of London,2a0cfcb5-1563-4d6d-9d06-96ef6667188d,Job,1843a632-0a10-4fe8-90bc-059ee1f750bd,Office
+collectors of the said tithe for Pope Clement [V],Job,Lincoln,2a0cfcb5-1563-4d6d-9d06-96ef6667188d,Job,3aa73539-4166-433a-8f86-6a46a0e12939,Office
+proctors,Job,Barewe,1f93ca60-82c7-4fce-be86-47665f94da24,Job,2560c986-522a-4026-a3d9-4ab8fb42bea9,Nominative
+proctors,Job,John Gorewy,1f93ca60-82c7-4fce-be86-47665f94da24,Job,333746f9-aa98-40d8-a405-1bcbb6417ecd,
+canons of the cathedral church of Hereford,Job,James de Henle,b1f610f4-e921-4bca-a800-c04a1922e8ce,Job,6b2bf0ab-f302-4a06-9a85-f38359ef927c,
+canons of the cathedral church of Hereford,Job,Adam Carbonel,b1f610f4-e921-4bca-a800-c04a1922e8ce,Job,88a52373-87b1-460a-a869-ec8622ef3690,
+canons of the cathedral church of Hereford,Job,Stephen de Thanet’,b1f610f4-e921-4bca-a800-c04a1922e8ce,Job,1ef92443-6b95-4ed7-bc36-eb27d70f2ab8,
+Nicholas de Yanewrth,Agent of,dean and chapter of Hereford,186ab146-d365-4c1c-b937-484ddf567943,,f2462521-bd60-4599-befa-870e20475ea1,Collective
+dean and chapter of Hereford,Agent of,bishops of London,afe3629b-0e99-44de-befd-4c8ec7ef6d5a,Collective,1843a632-0a10-4fe8-90bc-059ee1f750bd,Office
+dean and chapter of Hereford,Agent of,Lincoln,afe3629b-0e99-44de-befd-4c8ec7ef6d5a,Collective,3aa73539-4166-433a-8f86-6a46a0e12939,Office
+vicar in the said church,Job,Nicholas de Yaneworth,da4dffc8-0b24-44e4-9cf0-2ee68f70cacd,Job,3c45d528-790a-4a46-9dfa-1718a51dfeae,Principal
+subcollectors of the tenth,Job,the dean and chapter of Hereford,013d7ada-6c65-4c0f-8812-fcad529c9e17,Job,c5497861-a410-4abf-be56-dca824cb1584,Collective|Principal
+Nicholas de Yaneworth,Agent of,dean and chapter,53993c93-c865-48e2-90ce-e1cfa7e6c5f7,Principal,32c6ff5d-e768-4c8c-a1a3-949a3494489a,
+collector of the said tenth,Job,"R., bishop of London",5c569852-c594-4ed9-9123-fe8c001efdbf,Job,dc7eb7fe-3f0e-4c5f-9b94-15f013851f2d,
+collector of the said tenth,Job,bishop of Lincoln,5c569852-c594-4ed9-9123-fe8c001efdbf,Job,ce918d05-2732-46bb-9985-021033734b09,
+notary public,Job,William de Maldon’,1c910d7b-a14d-4e07-a75d-46af4947e404,Job,66d7b921-5af0-4a7f-a4b0-77305d1e1a59,Scribe
+subcollectors of the said tenth,Job,dean and chapter of Hereford,64a9b119-0b3a-4a8a-85f9-55e2293f47ce,Job,f2462521-bd60-4599-befa-870e20475ea1,Collective
+chaplain,Job,Nicholas de Yanewrth,aa69697c-e88e-4a86-a527-b2c734b855af,Job,186ab146-d365-4c1c-b937-484ddf567943,
+John de M'ndene,Agent of,dean and chapter,802c25d5-f87a-49e3-8a88-46a345f9daa0,,1bff4a44-9753-42b5-82a3-9c2a7525a2eb,Collective
+clerks,Job,John de Barewe,91cdfd1a-d117-47ad-94eb-2784448bff73,Job,4f264c23-1406-4870-9c56-e84a889b45c5,
+clerks,Job,John Gorewy,91cdfd1a-d117-47ad-94eb-2784448bff73,Job,333746f9-aa98-40d8-a405-1bcbb6417ecd,
+Stephen de Thanet’,Agent of,dean end chapter of Hereford,1ef92443-6b95-4ed7-bc36-eb27d70f2ab8,,da09551c-cc5a-4de5-b166-f23b3a3d99cf,Collective
+parishioners,Job,Henry le Forester de Corston',b03c8a45-9f31-49ca-a3b7-a4c7c00f6eda,Job,50811aaa-de7e-4c91-aa92-4096d3e9caa2,
+parishioners,Job,Thomas le Childe',b03c8a45-9f31-49ca-a3b7-a4c7c00f6eda,Job,ab07f141-de09-43ba-a8ed-40a3d0d70f32,
+parishioners,Job,Richard le Child',b03c8a45-9f31-49ca-a3b7-a4c7c00f6eda,Job,5e8c126d-625d-4b39-afd7-4c99b218e156,
+James de Henle,Agent of,dean end chapter of Hereford,6b2bf0ab-f302-4a06-9a85-f38359ef927c,,da09551c-cc5a-4de5-b166-f23b3a3d99cf,Collective
+dean and chapter,Agent of,Edward II,733abea5-a4b1-4f4f-97e2-5df40f080f85,Collective,6f0bf1d7-c93b-42fa-b948-770d8956abe5,
+the said bishop,Agent of,Edward II,f4e4cfae-31c6-4cec-848e-1a9b733abd61,,6f0bf1d7-c93b-42fa-b948-770d8956abe5,
+source,relation,target,source_id,source_tags,target_id,target_tags
+Richard de Swynefeud,Job,bishop of Hereford,5970dd71-b969-4018-a395-4098835a272a,Dead,03173be6-28a8-4210-9d82-d3f6aad2b4bd,Office
+Richard de Swynefeud,Job,bishop of Hereford,2ec3774f-0ddd-4e68-9173-57d9fdc8b2a6,Dead,19ace0be-eeb2-44c2-9491-f3b994873bc0,Office
+Richard de Hamenasch,Job,canon of Hereford,30f82127-1e5c-42ac-a4af-cb0997b75c85,,bf1874eb-6e3f-4a30-b8a8-20afa45a84e1,Office
+Richard de Swynefeud,Job,Hereford,4a86e67b-98cf-40ba-955a-4719f081406b,Dead,bb8dc318-968d-45eb-b7e9-99de7a96b953,
+Richard,Job,bishop of Hereford,e95a2eba-6319-4414-a886-45cf1308fa0e,,ad201310-a70c-43c5-ae6f-3ce008a716bf,Office
+John de Kemeseye,Job,treasurer of Hereford,c7b9ea07-68ce-466a-9721-a16e8cf2ce7a,Executor,d62ec323-5716-4bfa-8f34-e3821471e924,Office
+Richard de Swynefeud,Job,bishop of Hereford,724bb518-d2c6-4a2d-841c-b14e83636193,Dead,0a24f226-45cd-48f1-a4ff-20d274ec0d6c,Office
+William de Suanton,Job,rector of the church of Cherring',5cbfd43e-b4cc-4808-9055-abe1441dd690,,4a07668f-487b-4777-bdfa-09aa84a42a95,Office
+source,relation,target,source_id,source_tags,target_id,target_tags
+John de Kemeseye,Job,late treasurer and prebendary of Berton’,0cafc5a6-182d-4b6f-b0c2-ba4ffade616e,,410210c9-0cb0-45b6-8d99-77ed518ca869,Office
+John de Kemes,Job,treasurer of Hereford,d202fd0b-920e-4d1b-b139-095905bcba2b,,b17e74d8-608b-4962-9dba-881857becf17,Office
+magister,Job,Roger de Sevenak,9da66961-ce09-4c13-9a2a-1e519aad80a8,Office,dbc05069-f5d2-49f6-bd5d-8ba49799c92a,
+Willion Vallet,Job,vicar in the church of Hereford,85de980d-dc33-43bf-8ef5-7c5c7b1d4173,,3060ae62-da6a-4df8-bf4d-276b4fc5b25a,Office
+Roger de Sevenak,Brother,Roger de Sevenak,dbc05069-f5d2-49f6-bd5d-8ba49799c92a,,b1193680-61de-44f9-a955-4bee148d3e2f,
+John de Kemeseye,Job,treasurer in the church of St. Ethelbert of Hereford,b13c6bc6-64bb-48d1-a8b0-20bd479e76af,,beee84f3-d1fa-476e-b50c-20eef306a91c,Office
+Hugh de Browse,Job,penitentiary of the church of Hereford,edaa4de3-bbd9-4b1c-9f6c-e09b77413517,,b9dd4470-0d2d-46db-b36a-9a46716878ea,Office
+source,relation,target,source_id,source_tags,target_id,target_tags
+Robert de Gloucestria,Proxy,The said dean and chapter,69aae179-2c90-47af-bf17-4d551dffa3fc,Principal,7282deb4-c6e0-440f-8326-508c7713bf48,Collective|Principal
+Ralph de Lacu,Proctor,the dean and chapter of the church of Hereford,0ece9d70-bc9a-4bda-8e93-3a0610f279b2,Principal,15574ad6-63e9-4fb7-8fff-34a9ca9b6967,Collective
+John de Swynefeld,confrere,Willism de Bliburg,e3be7197-465a-4942-b5a3-5b793c4a0ab4,Principal,2fef3e52-498f-44b2-bab5-48c3e083686e,Principal
+William de Caple,Proxy,The said dean and chapter,4fa4f9b2-441b-4436-b98e-b4ed223e6886,Principal,7282deb4-c6e0-440f-8326-508c7713bf48,Collective|Principal
+John Barwe,Proctor,Dean and chapter of Hereford,2cc1dc77-97e5-4d95-8336-d5bd9d8b5ce2,Principal,c48f52f4-0ed7-44a7-a886-53b6d57741ba,Principal|Collective
+source,relation,target,source_id,source_tags,target_id,target_tags
+Thomas de Aylineston,Job,tailor,57813c69-6e3c-4c9b-bf42-219f87c2427d,Principal,ba77ca20-6b57-4e84-b9be-925b505d04b7,Job
+dean of the church of St. Bthelbert of Hereford,Job,John de Aqua Blanea,9250092c-90af-469e-b20a-90c9559fe33d,Job,b2036595-4035-411a-bc27-64845f618521,Principal
+Agnes,Wife,William son of John de la More,eeb6d0d4-cacc-41c6-8e22-07d484d9a394,Principal,4d92c451-2523-4ca3-b184-ebd2b2542bb7,Principal
+source,relation,target,source_id,source_tags,target_id,target_tags
+Geoffrey de la Hulle,Brothers?,John de la Hulle,b2eb699b-5f19-4576-b5b2-81caeb5886fb,,bedf9f95-13ab-40bb-a903-2d2634732373,
+bailiff of the bishop of Herefor,Job,John de la Felde,84183a45-692a-425b-ac45-1603eb0d2828,Job,01467eae-0f9e-4984-aa4c-b5cbd7a7d71f,Witness
+William his brother,Brothers,"Walter de Thornbury,",d522eb5b-51e0-4d26-8d00-57aa7f062c58,Principal,e071b6fc-1297-4f4c-bd4c-c0fc640d57de,Principal
+clerk,Job,Nicholas de Reygate,2659f055-466a-49a5-abb5-97b9aa4d4148,Job,111bb982-b7db-41e1-9088-7e879cce6ecd,Principal
+clerk,Job,"Nicholas de Reygate, clerk",19e29f23-264f-49c3-a2a1-f8fd0547db32,Job,09215349-392c-442f-b081-4a6491811f71,Principal
+John son of Roger de Brunsope,Son of,Roger de Brunsope,e9b64aec-5b59-40f1-ad2e-268be52e670e,Principal,87cae4e5-47fb-4a92-82de-ef2901ccd1e3,Dead
+clerk of the king for receiving bonds of debt,Job,John Lightfot,7bf50cd2-be40-424a-b918-9e6a281dfad8,Job,86b37006-692a-431f-a38f-f995e2e43825,
+Robert de Ho'tone,Neighbors,Lucy (Lutia) grantor's mother,6422fdd7-22e9-4480-9156-3904dcf5b4ef,,1b533e00-a38e-43e9-8e0c-b15f8d81cac6,
+Nicholas le Webbe,Son of,William le Webbe de Ros,94d07557-ad0a-4252-8857-e76678b1bfa1,Witness,67a8961f-ed9a-474f-9991-042cf359bcb8,Witness
+Phillip son of Robert le Park,Son of,Robert le Park,e395b66d-2b93-47c2-b718-434456b69207,Principal,1ec5411b-2d04-48a3-b4fc-2a2962c63858,Dead
+Phillip son of Robert le Park,Brothers,Richard his brother,e395b66d-2b93-47c2-b718-434456b69207,Principal,dc1a567f-0ce3-4672-a32c-b3958de979ad,Principal
+Phillip son of Robert le Park,Neighbors,Lucy (Lutia) grantor's mother,e395b66d-2b93-47c2-b718-434456b69207,Principal,1b533e00-a38e-43e9-8e0c-b15f8d81cac6,
+Phillip son of Robert le Park,Neighbors,Robert de Ho'tone,e395b66d-2b93-47c2-b718-434456b69207,Principal,6422fdd7-22e9-4480-9156-3904dcf5b4ef,
+Phillip son of Robert le Park,Neighbors,John Speed,e395b66d-2b93-47c2-b718-434456b69207,Principal,06ebf13b-19e5-4c7b-97bb-f1df72b96b3b,
+Phillip son of Robert le Park,Neighbors,William de Baysham,e395b66d-2b93-47c2-b718-434456b69207,Principal,a451740d-eab7-487b-bd9c-9cceef0bd56d,
+Phillip son of Robert le Park,Neighbors,Margery le Helmscmit,e395b66d-2b93-47c2-b718-434456b69207,Principal,711ddb5b-5c78-4052-a179-30fd87ca47bb,
+Alice,Wife of,Richard,db8bf530-1678-4302-9ac1-67f63cb47150,,a7ad02e5-343f-45d1-807e-57eaa2a620f8,Dead
+dean,Job,"John, dean",776c9637-1d9b-4d03-be92-eb9ebb9eb359,Job,763325b4-61b8-4664-92ad-df1411799310,Principal
+Alice,Wife of,Richard de Braumford,ff54b5b6-3b60-4643-a40d-8ed0ed91a6de,,2ebb49ac-57ef-475b-a7a9-566dda7e493b,Dead
+Thomas le Webbe,Son of,William le Webbe de Ros,76ab1e7b-f929-46cd-a9c6-3947c23a7988,Witness,67a8961f-ed9a-474f-9991-042cf359bcb8,Witness
+"Hugh son of William le Stedemon de Ros, clerk",Son of,William le Stedemon de Ros,d90a6b8d-2475-4b6d-99cb-9f4e1c130995,Principal,4ef86622-3ea2-4081-96ea-57a4529378bb,
+clerk,Job,"Hugh son of William le Stedemon de Ros, clerk",fa270742-a7dd-4464-a222-5892b8faefde,Job,d90a6b8d-2475-4b6d-99cb-9f4e1c130995,Principal
+John de Treyntone,Neighbors,John de Kemesynge,87bea4a8-fb80-4349-b046-6a2b68840732,,6d77f728-01ce-4c78-85e8-0205eed63e82,
+William de Baysham,Neighbors,Margery le Helmscmit,a451740d-eab7-487b-bd9c-9cceef0bd56d,,711ddb5b-5c78-4052-a179-30fd87ca47bb,
+Richard his brother,Son of,Robert le Park,dc1a567f-0ce3-4672-a32c-b3958de979ad,Principal,1ec5411b-2d04-48a3-b4fc-2a2962c63858,Dead
+John son of Roger de Bruneshope de Hereford,Son of,Roger de Bruneshope,4711db31-7b0a-4263-b541-575e702d5a1f,Principal,858034d0-fac1-41c0-a29f-72d9c2b9016b,
+John son of Roger de Bruneshope de Hereford,Neighbors,John de la Berne,4711db31-7b0a-4263-b541-575e702d5a1f,Principal,b7c97fb4-bb32-4d31-96c7-0aa89789fdc9,
+John son of Roger de Bruneshope de Hereford,N,John de Kemesynge,4711db31-7b0a-4263-b541-575e702d5a1f,Principal,6f86008d-2d2b-4d42-83fb-0927019a74d8,
+John son of Roger de Bruneshope de Hereford,Neighbors,Hugh Troue,4711db31-7b0a-4263-b541-575e702d5a1f,Principal,607d1bcd-07ba-4509-ba80-d4c034b8e401,
+John son of Roger de Bruneshope de Hereford,Neighbors,Alice,4711db31-7b0a-4263-b541-575e702d5a1f,Principal,db8bf530-1678-4302-9ac1-67f63cb47150,
+John son of Roger de Bruneshope de Hereford,Neighbors,John de Teyntone,4711db31-7b0a-4263-b541-575e702d5a1f,Principal,364a0b64-5043-4a3f-8df4-8206a931712c,
+John son of Roger de Bruneshope de Hereford,Neighbors,Ralph de Byritone,4711db31-7b0a-4263-b541-575e702d5a1f,Principal,5a010843-7a74-4b3b-913b-8390fd4c9db9,
+John son of Roger de Bruneshope de Hereford,Neighbors,Ralph de Byrytone,4711db31-7b0a-4263-b541-575e702d5a1f,Principal,3ab8b94a-2975-4195-8d4d-416766668df3,
+John son of Roger de Bruneshope de Hereford,Neighbors,the lord treasurer of Hereford,4711db31-7b0a-4263-b541-575e702d5a1f,Principal,fff2b182-8e6f-4f56-8179-cfa9865aef89,Office
+John son of Roger de Bruneshope de Hereford,Neighbors,Geoffrey de la Hulle,4711db31-7b0a-4263-b541-575e702d5a1f,Principal,b2eb699b-5f19-4576-b5b2-81caeb5886fb,
+John son of Roger de Bruneshope de Hereford,Neighbors,John de la Hulle,4711db31-7b0a-4263-b541-575e702d5a1f,Principal,bedf9f95-13ab-40bb-a903-2d2634732373,
+John de Kemesynge,Neighbors,John de la Berne,6f86008d-2d2b-4d42-83fb-0927019a74d8,,b7c97fb4-bb32-4d31-96c7-0aa89789fdc9,
+Hugh,Brothers,Phillip son of Robert le Park,dab45811-46f9-4493-b526-480cfe72c5a6,,e395b66d-2b93-47c2-b718-434456b69207,Principal
+Isabel wife of the said William,Wife of,William his brother,59e337c4-8f9f-42ad-abce-01deef68fda0,Principal,d522eb5b-51e0-4d26-8d00-57aa7f062c58,Principal
+source,relation,target,source_id,source_tags,target_id,target_tags
+clerk,Job,John de la Barewe,8365b630-b404-4e1e-a2da-21d2e928e43d,job,1fc85450-4ffd-4709-a463-2d044a4b4f02,
+archidiaconus Aranensis in ecclesis Connen',job,William de Tests,cb7d8d0a-6639-4b69-a1c0-de761d226338,Job,08828b0c-a8d8-48f3-a93a-2552a138ef88,
+bishop of Hereford,job,Richard,7eff13be-b9f2-4045-bad4-3969cec24c7d,Job,601e8446-74a4-4cc1-b5a7-9e7aa24c0731,Principal
+"Robert, called le Dorturer de Selebourne",In,Winchester,48a6a632-c633-44af-bc85-14ae2ebb7a01,Scribe,22d11b68-fde5-4b6b-8295-dbabd9448623,
+proctor of the chapter of Hereford,Job,John de la Barewe,bccc9d1b-836e-4276-a9bc-8d41bdbaabb5,job,1fc85450-4ffd-4709-a463-2d044a4b4f02,
+notary public,job,"Robert, called le Dorturer de Selebourne",d413601b-c407-4132-b35f-84266fea1dc4,Job,48a6a632-c633-44af-bc85-14ae2ebb7a01,Scribe
+source,relation,target,source_id,source_tags,target_id,target_tags
+lord of the honour of Brember and Gower,Job,William de Brewosia,3d1501fc-3e0b-4c52-ba4d-31df03737b63,Job,af89b1cf-4d5b-4d68-8026-e3327c8b52a5,Principal
+penitentiary of the church of Hereford,Job,Hugh de Breusa,e69adca7-5a17-4f2e-b3b7-616380fb8845,Office,b8c87725-248c-4c9b-8c2e-86c498ccd08e,Witness
+collectors of the tenth for the archdeaconry of Salop,Job,the abbot and convent of Wigmore,b7fdb3b3-eccc-4519-877a-d32b7c133ffc,Job,cb3d5e75-6752-4b3b-8aa1-39de72d1132c,Collective|Office
+collectors of the tenth for the archdeaconry of Salop,Job,the dean and chapter,b7fdb3b3-eccc-4519-877a-d32b7c133ffc,Job,10d685b8-8100-4c97-8b35-ada815eaf37c,Office|Collective
+"collectors in the city, deanery, and archdeaconry of Hereford of the tenth for six years lately imposed by Pope Clement V",Job,dean and chapter of Hereford,b24452df-6bdb-40dc-97f4-1d2833085753,Job,e0d840b4-8592-45b6-bc50-1366b6b7d535,Office|Collective|Principal
+John,Job,archbishop of Canterbury,bf1d71ba-b209-4a32-9f59-a2a6368b9a50,Principal,7cfb5148-e2a7-45fd-b3bb-022f080c541f,Office
+chaplains,Job,Richard de Wykkewane,2826de1b-b491-4ce6-9317-a2b0121eaa8a,Office,b89495a3-f026-4d3e-8085-2b2f46a66f88,Witness
+chaplains,Job,William Vallet,2826de1b-b491-4ce6-9317-a2b0121eaa8a,Office,deace25d-0f38-4de3-90c9-eeabfabee1d9,Witness
+chaplains,Job,John Helle,2826de1b-b491-4ce6-9317-a2b0121eaa8a,Office,2f0c55d7-725c-4552-9476-9c951a24d7a9,Witness
+Henry de Schorne,Job,archdeacon of Hereford,43bb6fdd-c4c4-48f9-9f61-59956184f475,Witness,e6b24a3d-39e0-4ad2-bf38-68463c126eb0,Office
+John de Almalia,Job,clerk of the diocese of Hereford and notary public,8a2f7c3f-960d-43b8-9065-e91d28fc687c,Scribe,da7c8572-9eec-474a-b3e8-de8307683c73,Office
+Adam,Job,bishop of Hereford,278cd15e-4b26-4c70-8f80-9d75bb3302a6,Principal,b4e47a56-e9d1-4b37-ba44-cfd74d974b74,Office
+Peter Knoyl,Relatives,William Knoyl,ee0d120c-5cab-47e2-bde2-e72d9d77770c,Witness,394fc76e-02a6-43ab-944a-f8648810b42b,Witness
+laymen,Job,Walter de Norton,083647dd-ada5-48dc-84a6-e4e920fae8f4,Job,78a44aaf-9ed9-4e5b-86f1-9ff84318a80d,Witness
+laymen,Job,John le Blak,083647dd-ada5-48dc-84a6-e4e920fae8f4,Job,aa51a009-219b-44a9-ae94-454c4d891fd6,Witness
+canon of Hereford,Job,William de Kyngescote,d903a8a2-2e4a-4039-9a48-c518de7a9dad,Office,75d860eb-33f3-4e19-b931-0b5a149daa5e,Witness
+"collectors in the city, deanery, and archdeaconry of Hereford of the tenth for six years lately imposed by Pope Clement V",Job,dean and chapter of Hereford,9fd15546-0c14-45b0-803f-0b84fea23769,Job,513411bf-cc34-4537-9dc2-08b9e29d87a7,Office|Collective|Principal
+Adam,Job,bishop of Hereford,b8cc2d4f-1ed9-4810-b029-369025fc24e3,Principal,476191d8-37ed-4d18-adad-4adc2f9f17f5,Office
+source,relation,target,source_id,source_tags,target_id,target_tags
+abbot,job,John,ddeb011c-c827-4988-a993-cc8b57bd50ab,Job,937521a2-dc34-463e-b2a6-111a6d5b1e17,Principal
+Alice,Wife,Thomas Le Brut,9b917993-c56d-46cb-91f0-0491f743e42a,Executor|Principal,7735949c-7136-47ed-8f28-825abba4b42c,Dead
+Edith,Wife,Herbert,5e99b593-cebd-4d89-88a5-965cd458efba,,ec066d22-3132-4d2f-9eef-f400741a31bc,
+abbot,Job,John,6a8854f2-c9ac-4a3b-b94c-745d2d854b46,Job,51ce8f74-6871-4f3f-8d91-a0fd46fb4937,
+abbot,Job,John,ccc5104f-74b5-47a9-9c9c-926b7ace1d4d,job,6b49a1c7-5659-4b80-acd8-3190906b75c5,Principal
+abbot,Job,John,596381b2-ae8b-4ee2-9b64-017f2512b83c,Job,665ac809-15bf-4caf-9118-968d921a2727,Principal
+Herbert atte Mulle,Father,John atte Mulle,422c9281-ba39-458c-972e-978ade55072d,,655fe31e-f87f-4a9b-8466-a6238869d132,Principal
+source,relation,target,source_id,source_tags,target_id,target_tags
+William de Caple,Job,canon,3a998812-acc2-4f26-891d-5a7f2aba7290,,5e11b759-ee8a-418e-8506-3b77c382316c,Office
+"archdeacon of Aran in the church of Comminges, papal chaplain and envoy in England",Job,William,101abfcf-06f9-4b5b-a4f5-456d26a6db67,Office,3fbe9f43-6f1c-4b7e-86b1-d580df198b29,Principal
+Thomas de Cantilupo,Job,bishop of Hereford,0c4d01fc-e209-42c7-84a0-72985477ad53,Dead,edeb3e2a-3372-46b1-b7c2-0f310f5cbec5,Office
+Hugh de Breosa,Job,penitentiary of the same church,1c7044e8-6760-4b4a-b215-533179395f92,,bf2e3544-185b-43b5-bcc6-2ce9de3506a6,Office
+John,Job,episcopus Portuen,747a650a-9f93-4ac5-9a5f-022972cce40e,,55f51208-2dca-40a1-bcf3-6b2e1437d730,Office
+William,Job,deacon of St. Nicholas in the Tulliam prison,7071ba25-1eed-43ae-95dc-401201557a26,,b117d78c-8411-44b9-9072-c00d28a61203,Office
+William,Job,cardinals,7071ba25-1eed-43ae-95dc-401201557a26,,9314dde3-f8a1-456d-801e-d9bcc9f05ec2,Office
+Robert de Glouc,Job,chancellor of the church of Hereford,cc7b89b0-a14c-4be6-ae4b-5a2b290697d2,Principal,d154a563-a3e1-4928-8f84-f123a9a95ea2,Office
+Guillelmus Testa,Job,archdeacon of Aran in the church of Comminges,512aef1f-e8aa-4d23-95bf-48dbf9a5fb01,Principal,05eb01b9-3755-4ab1-8005-e99b6b7e4328,Office
+Guillelmus Testa,Job,chaplain and envoy of the pope,512aef1f-e8aa-4d23-95bf-48dbf9a5fb01,Principal,d6698aa5-2749-4b3b-b050-0ed9fe3ea955,Office
+bishop of Hereford,Job,Thomas de Cantilupo,2560a9cc-b718-436f-80be-d85df35bfd8e,Office,1666f889-955c-4e4e-95fd-fb81833e503d,Dead
+Philipp Talebot,Job,canon in the church of Hereford,c3e054c6-a03b-4702-9037-723eea85ae13,Dead,2ed89724-049c-4608-9a97-14126abfe415,Office
+commissioners for the dean end chapter of Hereford,Job,Portuens',e93b637d-c7e0-4be0-bb26-f1c27a5e6a9c,Job,9797ef80-b20e-47b0-acde-dc892d7ccee5,
+commissioners for the dean end chapter of Hereford,Job,Guillelmus de Bergamo,e93b637d-c7e0-4be0-bb26-f1c27a5e6a9c,Job,7dd1c8c0-ec61-4835-8b20-3247463b5cce,
+his proctor,Job,Adam de Orl'ton',7df38f09-ca11-497b-bddf-06cb5798c252,Job,ebd65200-a6ec-45cf-8192-bc878d3a2cff,
+William,Job,"archdeacon of Aran in the church of Comminges, papal chaplain",c1911a2e-32b4-4529-b6b3-785f10e177da,Principal,9334ec67-79f2-4e8b-a58a-807962654e3e,Office
+executors of the will of magister Philipp Talebot,Job,Alfredus,155f892d-3966-4387-89b2-7433c744ddc0,Job,d307a223-fd8e-4a98-9562-313f079c8da7,Executor|Principal
+executors of the will of magister Philipp Talebot,Job,John Talebot,155f892d-3966-4387-89b2-7433c744ddc0,Job,fd5a88f7-2146-4943-868a-a6701b184ddc,Executor|Principal
+dean,Job,"J., dean",34c17acc-7f0e-4f56-8d88-f77ef38d9463,Job,b5a72f9a-028f-40b0-8b7c-5add89738a36,Principal
+clerk,Job,Thomas de Gynes,a3463eb1-b3e4-4772-84c3-d310fa1e6597,Job,1f051c49-672f-40fc-a571-224754c2e510,
+"cardinals,",Job,Guillelmus de Bergamo,de26ff18-7b58-4183-a916-daf955d75ade,Job,7dd1c8c0-ec61-4835-8b20-3247463b5cce,
+"cardinals,",Job,Portuens',de26ff18-7b58-4183-a916-daf955d75ade,Job,9797ef80-b20e-47b0-acde-dc892d7ccee5,
+Thomas de Centilupo,Job,bishop of Hereford,20d7eb4b-a598-4e46-905e-6e7b9afeeb06,Dead,cb015c64-2e6e-4945-9a74-a059da3cb6c3,Office
+Thomas,Job,priest of St. Sabine,fdc98e3f-91bf-4838-96be-d2db375150ec,,828926f1-1f6d-406a-8fcb-d772c060bf55,Office
+Thomas,Job,cardinals,fdc98e3f-91bf-4838-96be-d2db375150ec,,9314dde3-f8a1-456d-801e-d9bcc9f05ec2,Office
+Thomas de Cantilupo,Job,bishop of Hereford,33985e0a-b0d6-427d-9611-245d9afdcd04,Dead,4ddbca8e-e127-4193-a7e5-539cde1947c3,Given at
+Alfredus,Job,chaplain,d307a223-fd8e-4a98-9562-313f079c8da7,Executor|Principal,d30d634b-923f-484e-b270-7775d9d13357,Office
+archdeacon of Hereford,Job,H. de Shorn,a70ef14b-3d37-4efd-b6dd-08a5173c5700,Job,49f81339-7a2a-4fc3-aae7-da50b01440d3,Principal
+bishop of Hereford,Job,Thome de Cantulupo,7734148b-f7d3-407d-be83-951cf6196cf7,Job,3bdeb895-35a4-4c0c-8913-489f7babc00d,Dead
+source,relation,target,source_id,source_tags,target_id,target_tags
+"dean of the church of St, Ethelbert of Hereford",Job,John de Aqua Blanca,96811cb5-a483-47e2-a254-28474bdee5cb,Job,0ea984bd-892b-4c09-be5b-7f0198062f53,Principal
+source,relation,target,source_id,source_tags,target_id,target_tags
+"Ranulf de Evesham, their clerk",Proxy,Dean and chapter of Hereford,bcbd42aa-ae73-453b-823f-b6b26911e594,Scribe,f8f9509d-21fe-4ba7-8af0-7ac4a60928e7,Collective|Principal
+William the Young,Proxy,Dean and chapter of Hereford,7ea7ebae-daab-4b73-a5f8-7e0792d33227,Scribe,89fb7f4c-5666-432c-a0b4-c56f54910e90,Collective|Principal
+William the Young,Proxy,Dean and chapter of Hereford,7d930cb2-d1f5-4b32-8f8a-08bf24d88703,Scribe,c2151fea-78dd-45d9-9139-76343822a327,Collective|Principal
+source,relation,target,source_id,source_tags,target_id,target_tags
+Walter,Son,William Hathewy,bb71dc00-41a4-446f-80da-ad375829fc3e,Principal,d5ef167a-91a9-49e9-98cd-ea7ef8e1b847,
+Robert de Dyk,From,Bromesberuwe,326095f3-9348-46dd-ba36-c94891496e9e,,7dac4c17-1838-4aa1-bae1-18f3ccdf99ed,
+Dominus John de Kemeseya,Brother,Richard,ec291b38-099a-4fb0-a6f9-9ff8d2f6b7a1,Principal,e86133aa-1ae9-410c-8381-4d12497c2aa5,Principal
+William,Son,William Eseger de Ledebury,3119967e-7bb4-4f38-9873-f85924ce3def,Principal,80760119-187a-4be8-b2cf-00cfb8f95cb1,
+William Hathewy,From,Oxenhale,d5ef167a-91a9-49e9-98cd-ea7ef8e1b847,,3d8fb9b3-69a1-4cd0-ae38-97d566b8e59f,
+Henry de Heyton,Job,clerk,97a56794-62c8-4677-805c-d71e9e1e5c71,Principal,d04aca7d-da28-44f5-8c7b-c9b4a98037eb,Job
+Beatrice,Wife,William,26f2cd2f-7306-47e0-9700-635e35aeaba0,Principal,3119967e-7bb4-4f38-9873-f85924ce3def,Principal
+Godfrey de la Leye,Job,clerk,28cc9507-f86f-45aa-9839-dedf1d490d85,Witness|Scribe,17a0e5f7-778a-4fc9-b08e-85740075bc2d,Job
+Grimbald Pauncefot,Job,knight,0d92670f-3393-49aa-a9ed-ebe17e22b79b,,c0722c2a-594b-4186-862b-886e61ef3939,Job
+Richard,Brother,Dominus John de Kemeseya,e86133aa-1ae9-410c-8381-4d12497c2aa5,Principal,ec291b38-099a-4fb0-a6f9-9ff8d2f6b7a1,Principal
+Sibil,Former spouse,Grimbald Pauncefot,b5cbf147-bba6-4236-ab9f-8e0f9bd0efa1,Principal,0d92670f-3393-49aa-a9ed-ebe17e22b79b,
+Robert,Son,Robert de Dyk,ccbdf6d8-8bf5-402c-9f0c-b54cacb2e3f3,Principal,326095f3-9348-46dd-ba36-c94891496e9e,
+source,relation,target,source_id,source_tags,target_id,target_tags
+Cecilia,Daughter,Robert de Garewy,065ecfb8-584e-4dcb-bf19-fb69c98cc111,Principal,1d37441a-ea86-4651-90a2-bd5bd534e579,Principal
+Alice,Spouse,John le Gurdlere,48685ce8-47e9-4ba7-a183-e0eee50b22eb,Principal,fa7bde4b-a7b2-407a-9793-8b59a6b0509c,Principal
+source,relation,target,source_id,source_tags,target_id,target_tags
+corporal possession of the church of Saint Ismahe,Job,Maurice,f374daee-9bfa-4f38-8545-8c6ea6ef6f99,Job,239ad2f5-4a42-4723-84d1-840d20e40988,
+vicar of the church of Landesteffan,Job,"Gregory, perpetual vicar of the church of Landesteffan",a7a06591-f3a1-46b1-8931-ca40b97fd412,Job,07e611cd-683a-4253-9ab4-5a7d15254574,Principal
+bailiffs of the king at Hereford,Job,Roger Ochelmon,505c6dfe-ffc7-48b9-8621-caab60ce2a23,Job,00ada241-068d-4320-a07b-927f06d8a716,Witness
+bailiffs of the king at Hereford,Job,Roger Penk,505c6dfe-ffc7-48b9-8621-caab60ce2a23,Job,806759bf-eecb-49ed-96f8-30214802dbb6,Witness
+bailiffs of the king at Hereford,Job,Hugh Troue,505c6dfe-ffc7-48b9-8621-caab60ce2a23,Job,2f970317-e21f-4873-a860-9d850ade2177,Witness
+Hugh Bade,Neighbors,Thomas de Aylineston,c95baa6d-96a3-4549-b560-c2acda4c5b70,Principal,31cd4efc-c7fa-4fd4-8783-9708b34baae5,Principal
+Hugh Bade,Neighbors,Richard le tailour de Lugwardin,c95baa6d-96a3-4549-b560-c2acda4c5b70,Principal,ed01f5a6-62a6-4009-ada9-3ff9328026d1,
+commissary general of the official of the Court of Canterbury,Job,the dean of the church of the blessed Mary of the Arches at London,d0e83def-5888-42a4-8802-84acb1b0b6c2,Job,4c2b1d73-629b-48a5-8993-e78bad3f2c02,Office|Principal
+John Lightfoot,Agent of,Dean and chapter of the church of Saint Ethelbert at Hereford,5f511fd7-6ad5-4942-acad-a64cc8e47a0a,Principal,8579d7ee-2248-4cd1-901a-210c4c42a16a,Collective|Principal
+rector of the church of Penbray,Job,"John, rector of the church of Penbray,",102542c7-1602-480f-9e98-0f6f95b22ecb,Job,901a4e4f-63d6-40c9-94ad-7760a3cbf4e6,Principal
+rector of the said church,Job,Maurice,0bf02575-b013-4054-94f5-91fbfa5b9529,Job,c9d87375-5656-464f-98c4-3e57de1d7464,
+rector of the said church,Job,la Boxe,0bf02575-b013-4054-94f5-91fbfa5b9529,Job,ef2d3764-8f25-4708-8e03-aeb20f900a7c,Nominative
+rector of the church of Penbray,Job,"John, rector of the church of Penbray",5e585f33-602b-4cc0-8da4-81d1ca0c8e97,Job,fb08c2df-2e39-4e39-9a85-180cc80c1fa2,Principal
+corporal possession of that church,Job,Maurice,5e2d44f9-2e36-41ef-b54a-e24e7d2cb618,Job,f8bd56ce-73d2-43ee-9f1f-a9570cb9e638,
+perpetual vicar of Landesteffan,Job,"Gregory, perpetual vicar of Landesteffan",94c1b34c-de47-4c2c-aa03-709a20b3e0d9,Job,0382e489-471c-4f99-b985-19b71ba22ab6,
+citizen of Hereford,Job,John Lightfoot,17d82d3f-6a72-4ceb-b2e5-661cb7634a54,Job,5f511fd7-6ad5-4942-acad-a64cc8e47a0a,Principal
+Thomas de Aylineston,Neighbors,Richard le tailour de Lugwardin,31cd4efc-c7fa-4fd4-8783-9708b34baae5,Principal,ed01f5a6-62a6-4009-ada9-3ff9328026d1,
+source,relation,target,source_id,source_tags,target_id,target_tags
+sub-treasurer in the church of Hereford,Job,Williem Valet,4a6c43c6-068d-4ceb-883d-eddf8a2983a3,Job,6ce7b48a-aef1-432b-a40b-c5c26c94f3a5,Principal
+William the Young,Proxy,Dean and chapter of the aforesaid church,72684eee-acab-46b2-8a40-d6a0a917ecf0,Principal,5ac373de-afeb-479d-947d-b7b5ae32e006,Collective|Principal
+John de Barwe,Proxy,Dean and chapter of the church of St. Ethelbert of Hereford,96190e1c-6ff3-4b3f-8772-4093d855cc7d,,758729ba-582c-4171-ac34-a0723c5a9833,Principal|Collective
+bailiff of the dean and chapter of Hereford,Job,John de la Barew,7f96737e-9432-45b9-8e99-c5c44b6fa49a,job,06ac5d86-292b-4e0d-8790-a163f19843b4,Principal
+John de Barewe,Seneschal,Prior of Lanthony Prima in Wales,7fc1ab40-3e4b-44e6-98f9-9c7a7e160295,Principal,f8497339-624a-48a1-a755-41db150021a4,Office|Principal
+Willian the Young,Receiver,Dean and chapter of Hereford,8a1660ed-ce47-4489-acf1-fb25af8cc77b,Principal,3d4cb681-cc3d-4b25-a91b-924d078231e2,Collective|Principal
+Henry de Henor,Executor,William de Henor,243f1a50-ef1d-4c93-9abe-1c854547b8cd,Principal,80da086a-6f88-4e55-981b-d49437792893,Dead
+source,relation,target,source_id,source_tags,target_id,target_tags
+bailiff,Job,John de la Barewe,c39fde79-5071-4c52-8abf-fce42b438e65,Job,d22e1950-79e0-4813-b6ad-2910bd2fb205,
+source,relation,target,source_id,source_tags,target_id,target_tags
+clerk of the dean and chapter of Hereford,Job,Robert de Cotinton,69ca346e-f3dd-4180-9f20-e89cd38f4858,Job,341300ea-a58f-4130-b00c-80019b3b1482,Principal
+receiver,Job,W. the Young,3c460a8e-8836-4443-b36b-44958cb7514f,Job,2b7d6b15-a752-49d5-838c-039b0ff5d5a1,Principal
+clerk of the dean and chapter of Hereford,Job,Adam de Barewe,bf7333ad-2824-46bd-868f-7ec697997117,Job,fc423dc1-e744-4ee6-a552-b0a55480382d,Principal
+William de Foston',Agent of,the dean and chapter of Hereford,45ab5f69-b8ec-453e-910e-bfc473622697,Principal,1145192c-c85e-49ef-857f-96dbf2016a36,Collective
+bailiff of the dean and chapter of Hereford;,Job,John de la Barewe,473b4d0f-fab5-46b7-aef3-c4958e2ebf44,Job,dd65b3fd-d2d0-4c36-9a73-04bee3edcd01,Principal
+chaplain,Job,William de Foston',9056524c-630f-4a44-aa3b-bd3e07c3ea99,Job,45ab5f69-b8ec-453e-910e-bfc473622697,Principal
+John de Barwe,Agent of,Dean and chapter of the church of St. Ethelbert of Hereford,8ff6e339-1b00-4c1c-a004-13c6d872bd42,Principal,f653c73b-65e4-4bfc-864a-9701f3e17248,Collective|Principal
+W. the Young,Agent of,dean and chapte,2b7d6b15-a752-49d5-838c-039b0ff5d5a1,Principal,fb425a37-2119-4b0a-8c35-9077a5fc993f,Collective|Principal
+William the Young,Agent of,Dean and chapter of the church of Hereford,2f557822-0cc7-4d78-96cc-25e5a745ba20,Principal,95ed5325-f9d7-4c87-ad9b-41407a702611,Collective|Principal
+receiver of the said dean and chapter.,Job,William de Foston',9fa2cfa0-104f-4ed7-89c9-a50a0fa1ed24,Job,45ab5f69-b8ec-453e-910e-bfc473622697,Principal
+source,relation,target,source_id,source_tags,target_id,target_tags
+John,Son,Roger de Bruneshop,0fe6be2c-4810-419e-8fb5-28f4198f915b,Principal,41525678-a70c-43e6-8397-c00ba55e0119,Principal
+Roger,Job,marshal,b833a58f-759d-4b87-b008-86867e9e978d,Witness,56704c78-5cb7-4555-a68c-e5bf13dc5f03,Job
+Roger le Tailour,Job,bailiff of the fee,297684bb-1501-4598-8139-d201a05dc64d,Witness,df468300-e304-4387-a9df-cef2f170ab48,Job
+John,Son,Roger de Bruneshop,745a4956-e471-436f-8433-66e93b445bdf,Principal,6309c3fb-811f-41dd-bde4-5b71084fc705,Principal
+Roger le Tailour,Job,baliff of the fee,b02d27fe-ea25-41bf-920f-4f3bdeee8bdf,,7940af80-33c2-4bd0-9c60-9926a6cb57ea,Job
+Roger,Job,marshal,ab8ff5c5-e42e-4f2c-9a2e-e4df42433758,,97ccbbca-1e7c-42a0-a996-154ba8d5988b,Job
+Roger,Job,marshall,84db6da7-356a-4a9b-904a-a1e6c32f9d1a,Witness,d5705f09-62c4-4bd5-bc27-1b8acb5b86bf,Job
+Ellen,Former spouse,John Batun,871010c4-99b4-462b-b060-8234cd12354b,,f53f178b-0b56-4255-b647-f6b1020795ee,
+source,relation,target,source_id,source_tags,target_id,target_tags
+William son of Adam Knoyl,son,Adam Knoyl,d61d633a-20e7-4d60-9ea0-6ec47639fbd5,,f5c9bcf1-3353-4974-9d0c-3dd2ee93fc1c,
+"bishop of Hereford,",Job,Richard [Swinfield],f4bd204c-2734-4ce6-923a-b89e766d2668,job,b09c8144-9bde-42e2-9cdc-a6fc2e0bbba9,Principal
+Bishop,Job,Peter d'Aigueblanche,71dcd7c0-604e-4cbf-b89b-ba2757a9e4d4,Job,56981f56-8ebe-44e4-bd6b-0a53de034625,
+chaplain,Job,Thomas Legert,1f6e449d-80ab-47fa-b026-2f3031791d2b,Job,d8829dda-e2cf-49b1-bca8-c70d66f71702,
+Thomas Legert,Proctor,Maurice,d8829dda-e2cf-49b1-bca8-c70d66f71702,,b7f9a820-8c34-4f54-88ed-f28d1fd81f5a,
+rector,Job,Phillip Bernard,91d85ce1-f664-4cb6-9716-b69d9d4e8714,Job,cd282225-ad02-4579-be22-0c7eba3bf395,
+abbot,job,Frater John,cbc540b1-6bb8-4425-90fe-1eb220846206,Job,01b7e474-56af-43de-afe5-d0eb29573e12,Principal
+knight,job,Robert de Penres,b313df3f-471d-4e8d-a1ce-83466cad8ffd,Job,aa88a260-2406-4d12-9fc8-07f4d5d0a76a,Witness
+source,relation,target,source_id,source_tags,target_id,target_tags
+dean and chapter,Neighbors,Matilda de Ledebur,861f4ecf-3517-45cc-9bb0-30ff5fe3b36e,Collective|Office,7c273f90-4cca-4fe7-92f0-58cc27982d04,
+John Throm,Neighbors,Giles le Deyare,6eacb37b-f10f-4e67-bf32-fa1df1e1ff8b,,2b5d967c-5d87-4fdb-8a33-a337a94de80e,
+chancellor of the church of St. Ethelbert of Hereford,Job,Robert de Gloucestria,6760b247-ada9-4ead-be86-335a9c3fa6b2,Job,ba3cea15-b539-406f-ae4f-c53a19dfdf2f,Principal
+dean,Job,John,0758e4cc-c50d-4fc1-8bcd-9af7e129fdb7,Job,28f3c4a1-56f5-4825-9c83-a97ff9a51eef,Principal
+his parents,Parents of,Hugh de Brehousa,bcca66d9-754c-44f9-a274-fddcefbb43a4,Collective,b7d410d0-0c08-4466-8197-b809f45c40f4,
+"substitute proctor of Bartholomew the scribe of Hereford,",Job,Hugh de Breynton,7b260825-4927-40f0-a8a0-d360f021d99d,Job,fac7fb54-6ff8-4d0e-b172-e9eb5f964d9b,Principal
+perpetual vicars of the chapel of St. Katherine the Virgin and martyr in the city of Hereford,Job,John son of John the baker,aeca1671-7e0c-4c0f-8e63-571fc277b17d,Job,c5abf226-9faf-4a22-85d8-efc4ef6c2364,Principal
+perpetual vicars of the chapel of St. Katherine the Virgin and martyr in the city of Hereford,Job,Phillip de Stottesdon,aeca1671-7e0c-4c0f-8e63-571fc277b17d,Job,5451def1-9f23-4038-8774-41f3b5186c8c,Principal
+perpetual vicars of the chapel of St. Katherine the Virgin and martyr in the city of Hereford,Job,Ralph de Buesham,aeca1671-7e0c-4c0f-8e63-571fc277b17d,Job,68e38578-29a5-4ec5-8e99-da0cb6f56fa1,Principal
+clerk,Job,Hugh de Breynton,4e970e31-9e22-406a-976e-927b0cf2cfe4,Job,fac7fb54-6ff8-4d0e-b172-e9eb5f964d9b,Principal
+baillif of the dean and chapter in the city of Hereford,Job,Richard de La haye,2547502b-3714-4d04-965a-7cc492663bfc,Job,469abb40-84fc-44a5-9bdc-ffa87d06c72e,Witness
+bailiff of the bishop of Hereford,Job,Walter Thorgrym,be1d724a-ae3b-4e50-9872-34f6e242eb69,Job,0f3a7e5a-6974-4229-98e8-5cec473eabdc,Witness
+Hugh de Monyton,Neighbors,John de Ros,41691dbe-8eb5-41e6-a76e-319a50012860,,f4386e27-78d7-475b-ab17-fcdcaa84eafc,
+his proctor,Job,John de Cherlton,942cdc09-9e9f-440b-81e8-04a30f3e763d,Job,180e2beb-d5c8-4491-8778-99dbaafb4e07,
+John Spark,Neighbors,John Lyhtfot,e4db6c49-666b-4f78-9fde-112262c2fa3d,,047399c6-c4a4-4843-a892-d6e9ff2d7435,
+the dean and chapter of Hereford,Neighbors,Thomas Theobaud,ca19b02b-1636-4b88-a205-4d204fb22290,Collective|Office,b46cb3bd-f328-41e2-a301-7e21799764b8,
+the prebend of Gorewalle,Neighbors,the bishop of Hereford,74e67ae2-0104-4503-a1a5-f3ac0102d061,Office,a9743013-bbf2-488a-a534-c9106cb61a84,Office
+bailiffs of the king of England,Job,Hugh de Monyton,d41437d2-f86e-4c6f-97d6-170522c56fcc,Job,6a8f7d42-b3b3-4804-ae0b-e738bec294f8,Witness
+bailiffs of the king of England,Job,Thomas Tope,d41437d2-f86e-4c6f-97d6-170522c56fcc,Job,6968e8b5-2273-4a98-a5af-b7d73096799f,Witness
+bailiffs of the king of England,Job,William de Orleton,d41437d2-f86e-4c6f-97d6-170522c56fcc,Job,4bad5619-6fbe-408b-ba05-532ce191ec47,Witness
+their fellow canon and proctor,Job,John de Ledecote,57cdb6b8-5458-4751-ba35-91b4c08abb98,Job,3e87520d-fe40-4a06-bb2b-341da1bb38a3,
+canons of the cathedral church of Hereford,Job,Richard de Nonnynton,36a3049b-fd18-4872-99a6-78fd1ba0431f,Job,cf8a4326-0f0f-4770-8a59-9e1cb00462cf,Principal
+canons of the cathedral church of Hereford,Job,Hamon de Sandwyco,36a3049b-fd18-4872-99a6-78fd1ba0431f,Job,9bd0889d-bbd5-440e-ba6f-86a14754207a,Principal
+dean of Hereford,Job,Stephen de Thansto,f69fca1f-d8a5-49b8-96cf-ddc085ec7bbc,Job,997f1e1a-6556-4026-8bd1-7e3d626cecb6,Dead
+William Ploume,Neighbors,Reginald Syward,38f46223-566b-4eaa-87b3-5a63d69ad08b,,35285ec6-52b1-4089-a316-cff5538ef5d8,
+Matilda de la Haye,Neighbors,Matild de Ledebur,70e130b5-84ea-4391-bd1d-f30b5d3a8af6,,efa06e4b-0fad-422b-b180-83b436445984,
+John son of John the baker,Son of,John the baker,c5abf226-9faf-4a22-85d8-efc4ef6c2364,Principal,55db640a-cf3e-46d6-ae6c-303a6e07c5d6,
+bishop of Hereford,Job,"Adam [Orleton], bishop of Hereford",905d7d63-76f2-43c5-be8a-27ee33e7ecbd,Job,0d485c10-2ba1-4865-8723-9a5396bec389,
+the bake,Job,John the baker,7fd5ecc6-958c-4117-9268-c96f74f432db,Job,55db640a-cf3e-46d6-ae6c-303a6e07c5d6,
+the house of the lepers of Yeygne,Neighbors,John de Maddeleye,9ec96ba2-82c5-42f7-9710-7bdb6d575224,Building,6a268b56-48bb-40d8-82f3-4c294931d990,
+William Ploume,Neighbors,John Lylye,42f87324-48f1-4570-82e0-6fcfcf0b6724,,dd952faa-6100-4613-b794-1db23a959944,
+le Deyare,Job,Giles le Deyare,069e1496-e851-49e7-adfb-a1a52c4c04ba,Job,2f2b7bf9-8aba-4b66-9153-5446ee753ac0,Witness
+Laurence brother of the said John,Brothers,John son of Stephen,7c2824cf-3cdf-4e11-9b36-9e8dcfa25d33,Witness,76b31765-e65f-4f8b-a9de-3809904df634,Witness
+clerk,Job,Richard Heruy,36ea3c32-0b09-45c3-a565-e9d863960b22,Job,f0c7307a-b7c0-4c77-a100-e481c05189e8,Witness|Scribe
+John de la Pounde,Neighbors,John Spark,5a5494ff-b38e-4cbe-b856-b7df5e178d6f,,e4db6c49-666b-4f78-9fde-112262c2fa3d,
+John de la Pounde,Neighbors,John Lyhtfot,5a5494ff-b38e-4cbe-b856-b7df5e178d6f,,047399c6-c4a4-4843-a892-d6e9ff2d7435,
+perpetual chaplain,Job,Richard de Wykewane,352ebc1e-7933-4d0c-ad91-35eb245048f4,Job,e337ec31-ba1c-407c-9d35-0cd2012de4da,Principal
+penitentiary in the church of St. Ethelbert of Hereford,Job,Hugh de Brehousa,79a2d28f-d5ed-4da7-96c3-f41e229ed70d,Job,b7d410d0-0c08-4466-8197-b809f45c40f4,
+rector of the parish church of Hompton' near Hereford,Job,Thomas de Dan,bee33a61-9920-4388-a949-1084a5b515d7,Job,b08c7465-e4d0-48cf-83e4-16978b59f673,
+"commissary of the official of Adam [Orleton], bishop of Hereford",Job,Richard de Sydenhale,f16a34ca-ccff-4c7d-ab5e-9699a5579d9d,Job,8c36dc0f-d3cf-41f2-a2c8-0d4eec7e6d5d,Principal
+John son of Stephen,Son of,Stephen,76b31765-e65f-4f8b-a9de-3809904df634,Witness,6fc52e64-d3b0-42ef-bb9b-55599a07afb8,
+Thomas Theobaud,Neighbors,Giles le Deyare,783f8e8d-7205-4650-b831-4aa2d1eead94,,2b5d967c-5d87-4fdb-8a33-a337a94de80e,
+Thomas Theobaud,Neighbors,John Throm,783f8e8d-7205-4650-b831-4aa2d1eead94,,6eacb37b-f10f-4e67-bf32-fa1df1e1ff8b,
+John Pryde,Neighbors,William Vynt,3722ed15-9bd0-442e-a412-fbfd5c519fcd,,69cbd349-94e5-4efa-965c-f1adf821b073,
+John Pryde,Neighbors,the house of the lepers of Yeygne,3722ed15-9bd0-442e-a412-fbfd5c519fcd,,9ec96ba2-82c5-42f7-9710-7bdb6d575224,Building
+William Vynt,Neighbors,the house of the lepers of Yeygne,69cbd349-94e5-4efa-965c-f1adf821b073,,9ec96ba2-82c5-42f7-9710-7bdb6d575224,Building
+"executors of the will of dominus Stephen de Thansto, formerly dean of Hereford",Job,Robert de la Doune,af58d856-e070-49e4-b9bb-77c09e2d3382,Job,e7210b03-da7d-408a-87e5-1d53ec3c05c2,Principal
+"executors of the will of dominus Stephen de Thansto, formerly dean of Hereford",Job,Richard de Nonnynton,af58d856-e070-49e4-b9bb-77c09e2d3382,Job,cf8a4326-0f0f-4770-8a59-9e1cb00462cf,Principal
+"executors of the will of dominus Stephen de Thansto, formerly dean of Hereford",Job,Hamon de Sandwyco,af58d856-e070-49e4-b9bb-77c09e2d3382,Job,9bd0889d-bbd5-440e-ba6f-86a14754207a,Principal
+rector of the church of Wrocwardin,Job,John de Cherlton,b15d29a6-429a-487e-a81f-19092c1e5276,Job,180e2beb-d5c8-4491-8778-99dbaafb4e07,
+John de Cherlton,Agent of,Thomas de Dan,180e2beb-d5c8-4491-8778-99dbaafb4e07,,b08c7465-e4d0-48cf-83e4-16978b59f673,
+Thomas Theobaud,Neighbors,John Throm,74e1a249-00fb-4b77-ad17-fe298601f53e,,4219fe1d-3a1c-4f4a-b40c-180737e3a5d4,
+chaplains,Job,Ralph de Buesham,1372e7e2-22d3-43c1-9598-3e608f6d9c7b,Job,68e38578-29a5-4ec5-8e99-da0cb6f56fa1,Principal
+chaplains,Job,Phillip de Stottesdon,1372e7e2-22d3-43c1-9598-3e608f6d9c7b,Job,5451def1-9f23-4038-8774-41f3b5186c8c,Principal
+chaplains,Job,John son of John the baker,1372e7e2-22d3-43c1-9598-3e608f6d9c7b,Job,c5abf226-9faf-4a22-85d8-efc4ef6c2364,Principal
+original proctor of the said vicars,Job,Bartholomew the scribe of Hereford,fc4ec85a-d300-49a2-bdee-3932a0f232e6,Job,615be518-5ba1-4cd0-a66a-22823473b0be,
+dean,Job,John de Aqua blanca,a9f931bc-1ed1-4309-bbdc-ff76879a18bb,Job,ff816994-9a27-4b6e-9004-9416d183946f,Principal
+the scribe,Job,Bartholomew the scribe of Hereford,bcdcff9c-cff5-4d7b-943b-619a2b9bc9c9,Job,615be518-5ba1-4cd0-a66a-22823473b0be,
+bishop of Hereford,Job,"Richard, bishop of Hereford",076db33d-6b27-42e4-ac52-7f78691f47b8,Job,66d094c2-a968-4622-9b17-a3690d8d639e,
+deacon,Job,Thomas de Dan,4c0acc08-cac8-48bc-9487-335a0b78ca39,Job,b08c7465-e4d0-48cf-83e4-16978b59f673,
+Adam de Wythfeld,Neighbors,Hugh de Monyton,19c94daf-4266-4d30-af3c-d37c7bd4d1d1,,41691dbe-8eb5-41e6-a76e-319a50012860,
+Adam de Wythfeld,Neighbors,John de Ros,19c94daf-4266-4d30-af3c-d37c7bd4d1d1,,f4386e27-78d7-475b-ab17-fcdcaa84eafc,
+Hugh de Brehousa,Neighbors,John de la Pounde,b7d410d0-0c08-4466-8197-b809f45c40f4,,5a5494ff-b38e-4cbe-b856-b7df5e178d6f,
+Hugh de Brehousa,Neighbors,John Lyhtfot,b7d410d0-0c08-4466-8197-b809f45c40f4,,047399c6-c4a4-4843-a892-d6e9ff2d7435,
+Hugh de Brehousa,Neighbors,John Spark,b7d410d0-0c08-4466-8197-b809f45c40f4,,e4db6c49-666b-4f78-9fde-112262c2fa3d,
+Hugh de Brehousa,Neighbors,William Ploume,b7d410d0-0c08-4466-8197-b809f45c40f4,,42f87324-48f1-4570-82e0-6fcfcf0b6724,
+Hugh de Brehousa,Neighbors,John Lylye,b7d410d0-0c08-4466-8197-b809f45c40f4,,dd952faa-6100-4613-b794-1db23a959944,
+Hugh de Brehousa,Neighbors,the prebend of Gorewalle,b7d410d0-0c08-4466-8197-b809f45c40f4,,74e67ae2-0104-4503-a1a5-f3ac0102d061,Office
+Hugh de Brehousa,Neighbors,the bishop of Hereford,b7d410d0-0c08-4466-8197-b809f45c40f4,,a9743013-bbf2-488a-a534-c9106cb61a84,Office
+Hugh de Brehousa,Neighbors,John Throm,b7d410d0-0c08-4466-8197-b809f45c40f4,,4219fe1d-3a1c-4f4a-b40c-180737e3a5d4,
+Hugh de Brehousa,Neighbors,Thomas Theobaud,b7d410d0-0c08-4466-8197-b809f45c40f4,,74e1a249-00fb-4b77-ad17-fe298601f53e,
+Hugh de Brehousa,Neighbors,the house of the lepers of Yeygne,b7d410d0-0c08-4466-8197-b809f45c40f4,,9ec96ba2-82c5-42f7-9710-7bdb6d575224,Building
+Hugh de Brehousa,Neighbors,John de Maddeleye,b7d410d0-0c08-4466-8197-b809f45c40f4,,6a268b56-48bb-40d8-82f3-4c294931d990,
+Hugh de Brehousa,Neighbors,John Pryde,b7d410d0-0c08-4466-8197-b809f45c40f4,,3722ed15-9bd0-442e-a412-fbfd5c519fcd,
+Hugh de Brehousa,Neighbors,William Vynt,b7d410d0-0c08-4466-8197-b809f45c40f4,,69cbd349-94e5-4efa-965c-f1adf821b073,
+Hugh de Brehousa,Neighbors,the dean and chapter of Hereford,b7d410d0-0c08-4466-8197-b809f45c40f4,,ca19b02b-1636-4b88-a205-4d204fb22290,Collective|Office
+Hugh de Brehousa,Neighbors,Giles le Deyare,b7d410d0-0c08-4466-8197-b809f45c40f4,,2b5d967c-5d87-4fdb-8a33-a337a94de80e,
+Hugh de Brehousa,Neighbors,William Ploume,b7d410d0-0c08-4466-8197-b809f45c40f4,,38f46223-566b-4eaa-87b3-5a63d69ad08b,
+Hugh de Brehousa,Neighbors,Reginald Syward,b7d410d0-0c08-4466-8197-b809f45c40f4,,35285ec6-52b1-4089-a316-cff5538ef5d8,
+Hugh de Brehousa,Neighbors,Matilda de Ledebur,b7d410d0-0c08-4466-8197-b809f45c40f4,,7c273f90-4cca-4fe7-92f0-58cc27982d04,
+Hugh de Brehousa,Neighbors,Matilda de la Haye,b7d410d0-0c08-4466-8197-b809f45c40f4,,70e130b5-84ea-4391-bd1d-f30b5d3a8af6,
+source,relation,target,source_id,source_tags,target_id,target_tags
+Henry,Son of,Henry le Yonge,6d4afc38-ba26-4d19-9a22-5ccf50aa9219,Principal,7cfe3e8c-a230-412d-998f-bf743e86ed6e,Deceased
+William,Son of,Adam Knoyl,6c281219-ed5b-4b2c-b65c-6e8cea1099f1,Witness,747de073-e699-430e-8eb9-2af934c7db1e,Not present
+Thomas son of John de Homptone,Son of,John de Homptone,74440c10-fb71-4116-80fe-da7c95a2d915,Principal,1f91876c-91a7-414c-b651-4d497cc78fd3,Deceased
+Thomas son of John de Homptone,Son of,John de Homptone,74440c10-fb71-4116-80fe-da7c95a2d915,Principal,2df6e906-e53d-46ba-b64f-371e9059a043,Witness
+Eleanor,Widow of,Henry le Yonge,9c8ebddd-4e01-4aad-9c22-e8ffdd2c42a4,Principal,995f229b-c4c6-4a2a-82b5-9ea85780209d,Deceased
+Eleanor,Widow of,Henry le Yonge,9c8ebddd-4e01-4aad-9c22-e8ffdd2c42a4,Principal,3a36dd78-d034-4984-8e63-0290a6e235ca,Deceased
+Henry,Son of,Henry le Yonge,015fbe37-04c6-4894-999c-880a94cfc93c,Principal,a21ed4a8-6d1f-49d6-99f4-ba288b99e5b8,Deceased
+William le Blake,Neighbors,Walter Cole,43c7fa78-bee5-465a-8d3f-36ce7a5b31f5,,b3128edc-5d48-4106-a90a-9c39ffa76a7c,
+Walter Arnald,Neighbors,Walter Cole,ca839549-0580-4aa2-9170-a8fe29267d72,,b3128edc-5d48-4106-a90a-9c39ffa76a7c,
+Walter Arnald,Neighbors,William le Blake,ca839549-0580-4aa2-9170-a8fe29267d72,,43c7fa78-bee5-465a-8d3f-36ce7a5b31f5,
+Roger,Son of,Nicholes de la Felde,cc970a2d-6ba3-4fcb-8b2b-901d328034f8,Witness|Scribe,b8d9c328-b315-44ed-b92f-6c2912524bd3,Witness
+Alice,Married to,Roger de le Halle,de815775-5a0f-4ddd-8408-4273bbd72fa1,Principal,a254e72a-a880-4190-8a6a-a47c85d23fa0,Principal
+Peter Knoyl,Related to,Robert Knoyl,3d0ab16b-9238-433c-8f5e-71ef724b4df9,Witness,fd47ca0f-5e0f-49f2-b0b8-5e14ccd41721,Witness
+source,relation,target,source_id,source_tags,target_id,target_tags
+bishop,Job,Monmouth,53a6e6cc-3ebd-4a6a-8111-9adcb21e8149,Job,dcfa997b-e2d1-4ff0-9447-94c46888abde,Nominative
+Commissioner,job,Walter de Nasse,a6c9b57e-42bd-488e-a92b-425f7ba7c1b8,Job,881694a5-6215-446a-a38e-7b5b91284523,
+Commissioner,Job,Alexander de Bykenor,a6c9b57e-42bd-488e-a92b-425f7ba7c1b8,Job,500b441d-2176-4f22-9230-098656511276,
+Commissioner,Job,Roger de Blitheslowe,a6c9b57e-42bd-488e-a92b-425f7ba7c1b8,Job,656c7d28-9752-4495-858f-406f4d3aa0f1,
+Commissioner,Job,Nicholas Long,a6c9b57e-42bd-488e-a92b-425f7ba7c1b8,Job,f749d46c-6284-4b6d-9ea6-b86728b408e8,
+Commissioner,Job,Richard Malemort,a6c9b57e-42bd-488e-a92b-425f7ba7c1b8,Job,fa330cb2-a63b-4771-b0b7-cc9a1db8e0a9,
+Commissioner,Job,Osbert Malemort,a6c9b57e-42bd-488e-a92b-425f7ba7c1b8,Job,8f0a7257-97f0-47bc-b9e1-154a8f4ab2bb,
+Commissioner,Job,William le Wodeward,a6c9b57e-42bd-488e-a92b-425f7ba7c1b8,Job,e2da13b0-d5fa-4fcb-a04b-4b9f7462b2a2,
+Commissioner,Job,Richard le Wodeward,a6c9b57e-42bd-488e-a92b-425f7ba7c1b8,Job,c26ae653-b457-45fe-bf61-8d0d37c2e62d,
+Commissioner,Job,Albriton,a6c9b57e-42bd-488e-a92b-425f7ba7c1b8,Job,b4b6b962-39f2-44af-b617-eea1cc36320e,Nominative
+Commissioner,Job,Roger Spore,a6c9b57e-42bd-488e-a92b-425f7ba7c1b8,Job,9635dbf9-bdac-4df6-b07f-779e04af4b3e,
+Commissioner,Job,William Ely,a6c9b57e-42bd-488e-a92b-425f7ba7c1b8,Job,fac69407-910f-4692-a0bb-94472f2e809a,
+Commissioner,Job,Walter Kedeford,a6c9b57e-42bd-488e-a92b-425f7ba7c1b8,Job,531533db-9db9-46d6-b648-a6d4e50395b0,

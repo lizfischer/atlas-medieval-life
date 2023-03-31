@@ -1,0 +1,382 @@
+source	source_id	relation	target	target_id
+bishop of Hereford	8bfaf8fb-75b8-4ee4-84c1-bf746f307dbd	Job	Richard de Swinfield	28489dab-738a-4a97-8625-5eb00e9b998f
+sureties to the said bishop, dean and chapter	2616e460-b02d-46e5-b27a-03f14912659a	Job	John Vanne	4cdad838-f8db-4d9a-b93f-158673b65304
+sureties to the said bishop, dean and chapter	2616e460-b02d-46e5-b27a-03f14912659a	Job	William de Donecastr	f4de9b42-9424-409c-b094-01be84ffed32
+sureties to the said bishop, dean and chapter	2616e460-b02d-46e5-b27a-03f14912659a	Job	William Seruat	96ca8c58-5cfe-4548-89a8-e95ae6e72aaf
+sureties to the said bishop, dean and chapter	2616e460-b02d-46e5-b27a-03f14912659a	Job	William Trente	b97a5279-ac46-4de0-b38c-e5f2e22e3e58
+sureties to the said bishop, dean and chapter	2616e460-b02d-46e5-b27a-03f14912659a	Job	William Coumartyn	9feb5df7-057a-4488-a1c0-07f5250aa206
+sureties to the said bishop, dean and chapter	2616e460-b02d-46e5-b27a-03f14912659a	Job	John de Bureford	c43ac10a-c0f3-484c-9681-fed532ad4eb2
+sureties to the said bishop, dean and chapter	2616e460-b02d-46e5-b27a-03f14912659a	Job	Anthony Pessaigne	ca36bf85-afc5-45ce-8ca8-02b5e8b097a7
+sureties to the said bishop, dean and chapter	2616e460-b02d-46e5-b27a-03f14912659a	Job	Robert Baynard	a5cf5ae2-0998-4eb1-bd12-e504c979b84f
+sureties to the said bishop, dean and chapter	2616e460-b02d-46e5-b27a-03f14912659a	Job	John de Sandale	063e6ea2-4a2f-4104-93bf-0aed15a46efa
+king's merchants	37c55fd2-95ed-4f03-b26f-5c9966ff921d	Job	John Vanne	4cdad838-f8db-4d9a-b93f-158673b65304
+king's merchants	37c55fd2-95ed-4f03-b26f-5c9966ff921d	Job	William de Donecastr	f4de9b42-9424-409c-b094-01be84ffed32
+king's merchants	37c55fd2-95ed-4f03-b26f-5c9966ff921d	Job	William Seruat	96ca8c58-5cfe-4548-89a8-e95ae6e72aaf
+king's merchants	37c55fd2-95ed-4f03-b26f-5c9966ff921d	Job	William Trente	b97a5279-ac46-4de0-b38c-e5f2e22e3e58
+king's merchants	37c55fd2-95ed-4f03-b26f-5c9966ff921d	Job	William Coumartyn	9feb5df7-057a-4488-a1c0-07f5250aa206
+king's merchants	37c55fd2-95ed-4f03-b26f-5c9966ff921d	Job	John de Bureford	c43ac10a-c0f3-484c-9681-fed532ad4eb2
+king's merchants	37c55fd2-95ed-4f03-b26f-5c9966ff921d	Job	Anthony Pessaigne	ca36bf85-afc5-45ce-8ca8-02b5e8b097a7
+king's clerk	99bb38d8-5934-445a-8758-8b1fb3b387d3	Job	John de Sandale	063e6ea2-4a2f-4104-93bf-0aed15a46efa
+rector of the church of Dunre	328b6fc1-bdd8-4cbc-8863-0838b473fc6c	Job	Stephen	6e836549-01b4-4b66-b2ae-0c09d645c662
+his proctor	c0b43d8e-fb30-4e1e-8716-a4d4aafbf2ab	Job	John Germeyn	29ae756b-2d54-4059-8699-12774dd0746d
+treasurer	e33355f4-1eb4-4f7f-8f85-a110025bf4e2	Job	John de Sandale	063e6ea2-4a2f-4104-93bf-0aed15a46efa
+dean of Hereford	be5f8d40-a735-4426-b4d2-9c48b8aeebde	Job	Anselm	9e9f95a6-dfb1-4dac-90dd-ec27ee65fef1
+bishop of Hereford,	9dfca08d-af72-4738-83c4-407d28aaf6ee	Job	Richard Swinfield	14850019-7f04-458b-9784-2cdf798c10bc
+his servant	fd447d6b-9422-44af-b1da-e21ec6e5030e	Job	Walter Mantel	85da06d1-1981-4945-b3b3-f46ce2afc385
+vicar in spiritualities and temporalities of dominus Robert, archbishop of Canterbury	77d9f70f-84a0-4fa5-bef1-774d6e42cacd	Job	Henry de Derby	4866f87d-927f-4472-af2a-7431c9a9dcd6
+commissary general of the prior of the church of Canterbury,	53e21f2a-564b-4b08-8322-76fdc5db35a7	Job	Henry de Derby	4866f87d-927f-4472-af2a-7431c9a9dcd6
+citizen of Salisbury (Nova Sarum)	cd5b9d91-2ecc-4e62-bd72-23398a0377b6	Job	Reginald de Todeworth	77462e4d-0eb3-4ab5-a450-02b234375734
+chaplain	7c3d3408-dd76-47a3-9efe-baf83477fb08	Job	John de Acle	efbe9731-9696-44ce-b204-cb7df9d2b00f
+abbot	fe6b7b73-d29a-4dfe-a7e5-3c887a3b7762	Job	John	85e21ed5-889b-42a0-9d5a-e4680e7be1e2
+abbot	38fea7cf-19ea-45a6-9b85-e7a1a3d13a0a	Job	John	9dd33041-f1aa-48f3-ba83-35b0ca1120f1
+bailiff of the dean and chapter of the church of Hereford	0b9c36ea-adc7-4fca-ba11-d9b3d6a40bd4	Job	John Lythfot 	f41ae198-e61c-4178-bcda-9d4ab8094b41
+reeves of Preston	bc4ba1ce-828a-4110-aac4-f8323d3ae287	Job	Walter de Wardlowe	d6ed1bf6-6722-4160-b3f7-fb53251a6158
+reeves of Preston	bc4ba1ce-828a-4110-aac4-f8323d3ae287	Job	Walter de la Bache	7470a726-574a-4d81-97e5-a3390d7cf4d9
+treasurer of Hereford	48440428-0ab2-41b1-916e-0141256a6e5e	Job	John de Kemeseye	d8a9e9ac-cdc8-4ef4-812a-bd9fb092b170
+chancellor	8c195415-fbd5-4826-a9ba-c17b19e56b06	Job	Robert de Gloucestr', chancellor	6635e605-d8f7-41e8-8920-14d69e82399e
+commissary	a2c0d6cf-fe4f-4916-b726-a136d8913f0b	Job	Walter, archbishop of Canterbury	54338f7f-969d-48f9-8976-2e914098678f
+knight	0dc2ff5c-2c13-42f5-98a1-3ee0dbd666ce	Job	Harry de Penebrugge, knight	86ac531d-3df9-4b82-aa8a-af56f09debaf
+canon of the cathedral church of Hereford	a71f76bf-eb07-4a8d-b924-a61a46c39cef	Job	William de Knapeton	8884c176-bf2d-4ead-8e57-e8db2843d4d9
+proctor of Richard, bishop of Herefor	9a988da6-d25a-4431-83c9-5ff379eb4fa5	Job	James de Berkeley	335be301-9c85-48a8-8cd8-e6b764dbe9d5
+clerks	097e1baa-7f75-487b-a04a-73e67f7b91fa	Job	Adam de Orletone	4ac3bcc2-7ea7-4d6e-99c4-ecb0584d7718
+clerks	097e1baa-7f75-487b-a04a-73e67f7b91fa	Job	Thomas	4426e6f2-2791-4e02-9284-d0d72ca61635
+the executors of the will of dominus Richard de Swynefeud,	1881790e-66fa-4c7c-b81a-5fd35c55a633	Job	John de Kemeseye	d8a9e9ac-cdc8-4ef4-812a-bd9fb092b170
+bailiffs of the town of Hereford	e6113acc-42e9-4204-9d03-929a6b73620a	Job	Philip le Werror	4afd1ad3-0eb4-45bc-a01c-9166af03505a
+bailiffs of the town of Hereford	e6113acc-42e9-4204-9d03-929a6b73620a	Job	Roger Penck	f9812db7-f80b-4a4c-8ac0-4294e0ad865a
+bailiffs of the town of Hereford	e6113acc-42e9-4204-9d03-929a6b73620a	Job	Henry de Orletone	3e7fc419-ce86-4129-9a13-c8ff8e8469e0
+knight	68f40cfb-f5a0-43bf-893b-861d3cf5f085	Job	Torbervile	c4c64037-4c5c-4d03-b302-a6094c5e7d90
+clerks of the diocese of Hereford	2d92ebb6-57cb-48eb-a245-73fe86f89489	Job	Richard Heruy	71bfa4af-d0e8-480a-8761-091a8e47eca9
+clerks of the diocese of Hereford	2d92ebb6-57cb-48eb-a245-73fe86f89489	Job	John de Catfeld	6a33e398-7f0c-42c6-a0fc-0fd1e3fa8ef2
+clerks of the diocese of Hereford	2d92ebb6-57cb-48eb-a245-73fe86f89489	Job	William de Stretton	568fa0fb-fac1-41f8-a8c0-936a9836b8fb
+clerks of the diocese of Hereford	2d92ebb6-57cb-48eb-a245-73fe86f89489	Job	Stephen Normal	5340a45a-de0c-40bc-8680-d9ff406be247
+clerks of the diocese of Hereford	2d92ebb6-57cb-48eb-a245-73fe86f89489	Job	Gilbert de Raigate, rector of the church of Brugge	0018eec8-ac0c-4fae-8dd8-e733eccca66b
+canon of Hereford	35abdce5-74cf-416a-a53a-53aa671e7c9c	Job	James de Berkeley	335be301-9c85-48a8-8cd8-e6b764dbe9d5
+proctor	b69eac7d-7f9c-4618-817b-6ea3828f0f01	Job	Clement de Paston	042d3fdd-9702-4a2c-a29c-649673037bfd
+notary public,	16dd67ba-7208-4d9a-ab8b-2dfb7f6de565	Job	Hugh de Thornhagh	837846df-f6a6-4ce4-b586-fd0730f529f8
+bishop of Hereford	e647a033-807f-4e73-a182-000d4a663739	Job	Richard de Swynefeud	5b73a57c-9d5f-4a24-a91e-14222a347090
+bishop of Hereford	1c87173b-da2d-4fa8-a781-e1d50efe0591	Job	Richard de Swynefeud	e4793bc8-c314-49ed-abac-7d18c2ff2664
+clerk	1113fe1d-adb3-4da4-89c6-15e7fb0c4779	Job	Hugh de Thornhagh	837846df-f6a6-4ce4-b586-fd0730f529f8
+archdeacon of Salop	b312d124-0774-4023-8efc-b46221bf435e	Job	John de Ros, archdeacon of Salop	0215b08e-aa4a-4945-9557-cce386c64245
+dean	8f9ab2e7-5aff-4304-a33c-70c99d656d15	Job	John de Aqua Blank', dean	e9e52df7-a307-42cb-a228-2f58f34a6621
+archbishop of Canterbury	4241aa6d-7d31-47b3-b0b4-6303e57ed951	Job	Walter, archbishop of Canterbury	54338f7f-969d-48f9-8976-2e914098678f
+dean	178817b8-bc7f-4e70-a3f0-5756c2497442	Job	J[ohn], dean	2b4379c4-dd47-4628-8175-0f8c49ca9394
+chaplain	846af912-1349-4a3c-96a4-1431fe7e2e1b	Job	Henry de Gardino	98ae2845-4468-4a8e-8be7-2d07e5ed236a
+archdeacon of A[...]n in the church of Cominges ('Archidiacon' Aranen' in ecclesia Couen' ')	1359f525-2cee-47a2-913e-bae45e26de2c	Job	William [de] Testa, archdeacon of A[...]n in the church of Cominges ('Archidiacon' Aranen' in ecclesia Couen' ')	6a761e14-6973-47ea-9ee0-05449246f1c5
+chancellor of the church of St. Ethelbert of Hereford	99b9c354-3451-4a96-8238-aab91bf35698	Job	Robert de Gloucestr'	6059a443-2400-4feb-ac8c-781fa958344d
+treasurer of Hereford	e948c683-90a7-4b83-97a4-6df1f82bcec2	Job	Nicholas de Reygate	362f7e72-eee3-4557-bc41-9694c7cba016
+bailiff of the dean and chapter of Hereford	f6b8f083-fc8e-4638-99dd-92ba8bf13bad	Job	Roger Le Taillur	4b1b43ae-0326-4d0a-a9f8-976638de2b39
+clerk	57bd59e6-1078-42db-8f3b-80e93b066b87	Job	Phillip de London	52371e9d-c9e7-4265-8a58-580f55b51e76
+citizens	f17d16d2-bee4-41e4-ba58-85ae59836f36	Job	Richard Thurgrim	d0afabc3-d8ab-460d-b275-2e72887529b8
+citizens	f17d16d2-bee4-41e4-ba58-85ae59836f36	Job	John de Barwe	3b599dc0-2e48-45b2-b734-89aafeade04f
+citizens	f17d16d2-bee4-41e4-ba58-85ae59836f36	Job	Arnald le Clover	7de0b91e-6aef-4b6c-b253-59660bcc52ff
+citizens	f17d16d2-bee4-41e4-ba58-85ae59836f36	Job	Hugh Trone	ee526392-d6a7-4974-adec-7983884ddccd
+citizens	f17d16d2-bee4-41e4-ba58-85ae59836f36	Job	John de Maddeley	f6d4bf9c-7a41-4330-9e17-171fd37949a1
+citizens	f17d16d2-bee4-41e4-ba58-85ae59836f36	Job	John Pryde	0e2b3b46-2de2-4490-a6c9-dfa780a3611c
+citizens	f17d16d2-bee4-41e4-ba58-85ae59836f36	Job	Thomas de la Barre	c4af60f4-6962-43ab-9961-922d998cc8bb
+citizens	f17d16d2-bee4-41e4-ba58-85ae59836f36	Job	Gilbert Blod	329cb95f-fa37-4acd-8e5d-65cdf90fc8ab
+bishop of Annaghdown (Enachdunensis)	b85469f6-eed5-483d-8edd-b63c67ebd579	Job	Gilbert, bishop of Annaghdown (Enachdunensis)	d6ce068c-08dd-40e0-aeee-11a2683968c9
+subtreasurer	bdf7742b-bc7a-40a0-864b-5bc71caa108d	Job	William Vallet, subtreasurer	5f40a79b-052c-4f26-a017-19b665cc1856
+clerk	e9a329b6-7f22-4315-8d10-2a346ee6a10f	Job	Thomas de Orlenton	aa2684fa-7708-4ff8-86d0-54dcf62af020
+le Clover'	e0efea31-3d56-44d7-9948-5c022f41b6d9	Job	Arnald le Clover	7de0b91e-6aef-4b6c-b253-59660bcc52ff
+le Clerk'	dff44235-78f8-469e-bfdd-85fdfdacdaba	Job	John le Clerk	b7185c85-19de-4470-8194-ef25ac2d2c61
+dean of the church of Hereford	f94a4967-9cec-4455-af9c-cedb7f725962	Job	John de Aqua Blanca	f9cb7d4a-263a-4e20-bd00-c17faef1fcc6
+Le Taillur,	ae4724e1-8dd9-42bf-8f41-9f0ce4474632	Job	Roger Le Taillur	4b1b43ae-0326-4d0a-a9f8-976638de2b39
+domestic chaplain to William, cardinal-priest of St. Pudentiana's (sancte potenciane)	852dd75c-757a-4a0e-ad9b-c3d87d60dcfc	Job	John de Aqua Blanca	f9cb7d4a-263a-4e20-bd00-c17faef1fcc6
+canon of [?] Belves ('canonico Beluacen' '	d81ccd59-7d06-4f2d-bd4c-f3ebe08e5fe1	Job	Gerard de Sisiriaco	3c6344da-c056-41bb-9c85-81b140bbff52
+proctor of the chapter of Hereford	ebdd04c5-1979-459e-a29f-327f5748e546	Job	Thomas de Orlenton	aa2684fa-7708-4ff8-86d0-54dcf62af020
+notary public	1694fc91-cff5-4e97-83ed-a2eba9957f42	Job	Phillip de London	52371e9d-c9e7-4265-8a58-580f55b51e76
+executor of the will of dominus Nicholas de Reygate	a4da22ba-9545-4a38-ba44-f8b942877387	Job	Roger de Ereyntonia	a6c7445f-5fad-4ba6-9510-c9384b48025c
+treasurer of the church of Hereford	03aae43d-769a-49b8-a458-001b15783686	Job	Nicholas de Reygate	2a4f07fd-7fd4-4d1a-8264-f1eb2a0041d7
+treasurer in the church of St. Ethelbert of Hereford	27c80789-ad40-4998-8702-98a5e854b045	Job	Nicholas de Reygate	41b6b175-3867-4fb1-a8e6-acb9b02c2d42
+dean of Hereford	dcb738ca-8ce2-41e8-804a-f735b27d0f9b	Job	subcollector of the three years’ tenth	1d8930de-0746-4d7c-875c-bc0c9ec56b4a
+clerk of the dean and chapter of Hereford	d39d635b-4ac4-42b4-9709-d3e783979dc7	Job	Robert de Cotinton	3450514c-88e2-4415-a9ab-6e936a35199c
+clerk of the dean and chapter of Hereford	71072817-14b1-4a64-93eb-ae42933a5b4b	Job	Robert de Cotinton	b936a64c-9856-4255-928e-50395bc4b75e
+clerk	fda92731-28b8-48a7-87db-48bdd1edf531	Job	Gilbert de Bruera	1c655756-3fa8-4b95-8fb8-b0cc17a32f16
+merchants	ebc968db-bc02-4fa6-91c7-4f1206344d20	Job	Emericus de Friscobald	80e2ee95-abff-4514-8a76-17da99d642a5
+merchants	ebc968db-bc02-4fa6-91c7-4f1206344d20	Job	the society of Friscobaldi of Florence	01d47a39-8109-4785-a463-cd61aab6ad16
+vicar of the church of Lugwardyn	beafb803-3a7b-467f-bf2e-bfbcd1a74e7f	Job	John Bardulf	a0049677-368a-43aa-8cf9-4d3609cbc4e7
+notary in the inquiry concerning the miracles of Thomas de Cantilupe	053ed899-de38-4686-bc50-8524f8398781	Job	Gilbert de Bruera	1c655756-3fa8-4b95-8fb8-b0cc17a32f16
+baker	a7b895e2-ec41-492e-afa0-6c7c3447509a	Job	John de Ledeburi	26f0c8d8-8919-4907-b15c-5ee1436a12dc
+bailiff	8aff2a55-7a36-47a3-9070-f0c34eaeb29f	Job	Richard Moniword	340460df-6187-47e3-a3e1-27085d3e3043
+bailiff of the bishop of Hereford	970fba98-b71d-4995-90ff-4cdd90da9a46	Job	Thomas Theubaud	5fc3af6c-d665-4073-be36-a01bb9ed1673
+bailiff of the dean and chapter of Hereford	155c3496-305a-4e77-bcf4-7164674f2e01	Job	Richard de la Hay	1d2c2a32-914e-4eff-ae3a-35ef32476600
+le Werrour	d5ba9056-9355-4162-8123-f9716723d401	Job	Philip le Werrour	18c3de82-6ac4-4be9-a7c9-c528a868207d
+the true patron of the church	0aca45fd-a705-4e22-ba7f-de5c712dd1a5	Job	Licent ' de Morgan	c7b391bf-374d-4b5b-b234-342495e75698
+clerk	c2445f45-63f7-4867-924e-63dafa26d1d6	Job	John Nicholas	9a4c66f4-c552-4ee9-a40e-086308a6ad90
+the convent of the same place	f71619cf-e8ee-4d3f-a5b6-1fc93ed7cb27	Job	fellow-monk	15a2abeb-d52d-4292-8311-8d9fd71c47de
+fellow-monk	15a2abeb-d52d-4292-8311-8d9fd71c47de	Job	John de Sancto Briavello	5bbb6adf-af21-4b96-b930-33bf83acf8a5
+fellow-monk	15a2abeb-d52d-4292-8311-8d9fd71c47de	Job	John, prior of the cathedral church of Worcester	1a2d2c99-c6f0-4d2e-86bc-2415600f2411
+incumbent de facto	9618bb84-1352-40d4-b1b4-721af09bb89d	Job	John Toppe	099649c9-4d0c-487c-8348-e9dc3d6b4234
+citizen of Hereford	5b78b129-2127-4609-87be-1062bccec7cf	Job	John de Retherwas	69014c93-6233-4ddf-9430-6fd24a6dbc87
+goldsmith	9770b0b9-bd14-482e-a8f1-406aea97cb2f	Job	William de Cirescestre	555e6c6c-ae8e-4d1e-ba91-9ac1ae61a243
+rectory of Avene	472a6f30-e29d-4b0d-8c9b-94d322128f2e	Job	John Toppe	099649c9-4d0c-487c-8348-e9dc3d6b4234
+clerk	f1473c49-de7f-456e-bd88-6af65559eade	Job	Thomas de Penebrugg	c71fbe90-1ed1-482e-982a-59507d0621fa
+rectory of Avene	472a6f30-e29d-4b0d-8c9b-94d322128f2e	Job	Thomas de Penebrugg	c71fbe90-1ed1-482e-982a-59507d0621fa
+rectory of Avene	472a6f30-e29d-4b0d-8c9b-94d322128f2e	Job	John Nicholas	9a4c66f4-c552-4ee9-a40e-086308a6ad90
+Carpentar	3b0a966c-edec-41ce-94a5-b8a4a46c582d	Job	Robert Carpentar	1e32bf78-759d-40ad-92b5-fe9fa0094fc9
+king's bailiffs at Hereford	b7bb20a5-e797-401d-8e62-85741610ffc2	Job	Roger Penk	678ebb67-eed3-4e39-900b-35bced230da5
+king's bailiffs at Hereford	b7bb20a5-e797-401d-8e62-85741610ffc2	Job	Philip le Werrour	18c3de82-6ac4-4be9-a7c9-c528a868207d
+king's bailiffs at Hereford	b7bb20a5-e797-401d-8e62-85741610ffc2	Job	Henry de Orletone	668750f2-259a-4cd7-a23f-26511bce017b
+knight,	b627b1c1-64c4-41ae-8571-a87ec68f6422	Job	Licent ' de Morgan	c7b391bf-374d-4b5b-b234-342495e75698
+le Sopere,	f48e5fab-305e-40bf-a0f1-39b6d2e2a350	Job	John le Sopere	ae3fe862-0c18-4bda-9f0f-3dbda3bd7938
+bishop of Hereford	3af0f4cb-2919-412d-9a9b-ad770664e8f6	Job	Richard Swinfield], bishop of Hereford	2d36d87a-185f-42fc-aeed-bc3756e4ffb6
+priest	a45c12a9-2551-4676-9b13-f19c174f4657	Job	Walter de Keyrlyon	dc63fd3c-f9e0-4f02-a0d1-518b5442a7b2
+treasurer in the aforesaid church of Hereford	6432af9f-6989-46bd-8a2f-010e037a9091	Job	Sohn de Kemeseye	af04638c-7224-49e6-96b5-4edb0e6f35c9
+clerks	e342ffc2-6380-4f21-80fc-12f3b1dc93cd	Job	Reginald his brother	3a1333ee-e34f-45bf-a0b9-26d018f83ac5
+clerks	e342ffc2-6380-4f21-80fc-12f3b1dc93cd	Job	John de Bromfeld	b678f5c3-7fea-4a01-bd9b-82fedb348386
+notary public	9b7c0520-5554-4a3c-ad9e-61f84cd8d5f7	Job	John | son of] John de Fontyton	7d1ebf25-8b3d-4ac5-bb9e-1e14b6325b66
+bishop of Hereford	e0b51fd5-498a-4122-9623-86857d62fddc	Job	Richard [Swinfield], bishop of Hereford	985d28c0-ba9e-4bf8-b259-0f503d45536f
+vicarage of the church of St. Gundley in Newport (in novo burgo) in the diocese of Llandaff	192fa085-4ed0-444b-8c42-8f7d8e2b6f93	Job	Walter de Keyrlyon	dc63fd3c-f9e0-4f02-a0d1-518b5442a7b2
+bishop of Hereford	e6dc8c2e-d460-422d-9be0-5c1135de1d6c	Job	John le Bretun	7a7b4d54-6215-405d-9a6c-67962de690ee
+precentor	e98c6b46-2d2d-43b5-b69f-4b12d4b01521	Job	John de Swenesfeld	83c492bc-2e0f-40ac-bd83-02d3fcbe7682
+clerk of the diocese of Chichester,	741495a3-cf3b-47e9-ac26-c828285d1d75	Job	John | son of] John de Fontyton	7d1ebf25-8b3d-4ac5-bb9e-1e14b6325b66
+archdeacon of Shropshire in the church of Hereford	eb5aa76c-da08-4223-bc39-29e83b3df632	Job	John de Ros	6da9dcd4-eb7d-46fb-852f-bf4ca01f82b0
+bishop of Llandaff,	bddc7740-1c81-46df-9f82-c16273cb17d6	Job	J[ohn de Monmouth], bishop of Llandaff	3accdcbf-8b2c-4e53-80be-ccf2490f381c
+knight	bc577aaf-63c9-436f-90c4-b8144af22bb2	Job	Bartholomew de Batelesmere	de56de90-dcb7-4f94-aa5b-1479e4e514fb
+bishop	d16b9927-5e83-461a-abc5-f1d8dd5ed2dc	Job	W.	36db6b70-9511-49a8-a598-f514f447f71a
+canon	ee54b7f8-50ec-4b87-9687-229b8ea61735	Job	Ralph de Stokes	960667aa-2bcf-444b-8bcd-dabed08cea58
+professor of civil law	3eb772be-8dc1-40db-8084-3d9d8668a097	Job	Benedict de Paston	bb96f9ac-8f42-4639-9941-77e4ef9817d3
+knights	7e9c7d9b-d175-49ac-854b-def793182b69	Job	Roger Pychard	ac018234-aaf6-45c8-a91d-7999cbdd6152
+knights	7e9c7d9b-d175-49ac-854b-def793182b69	Job	Miles Pychard	ed8f48f4-d2e5-4ccb-b53c-f307a3c3bae0
+clerks	be707083-54d9-47ea-b1e0-eb5888a2f5f6	Job	William Bouhs	60142fbc-51e6-401c-9b28-c703e47d4429
+clerks	be707083-54d9-47ea-b1e0-eb5888a2f5f6	Job	John de Colonia	442d0667-075e-4c0f-8ab7-c96603ba9f1e
+archbishop	f8a25cac-1a6f-4927-8b01-4027dc6fef06	Job	Walter	834c6f48-e1c3-43d1-878a-8effeb680750
+doctor of canon and civil law,	7b22d62c-9588-4846-93f0-c339fcac8345	Job	William de Knapeton	4adfca54-6f99-4c9f-be6d-fd07269df2d3
+bishop	a59e20d4-b630-4a46-9a0c-5f7564cdf1bb	Job	Richard	5adfe63e-d727-4b91-8dc5-ed4bf43e0c64
+dean	dfa50b0c-212b-408a-81c7-f82de2906447	Job	John de Aqua Blanca	f57ab930-11a9-4b89-92f4-497845a90df6
+bishop	b0849658-8e32-42e9-a6cc-88891e02ba5f	Job	W.	4b6526f9-cdf2-4d12-9fcc-687cd9274b2c
+vicars	04ef34c5-a1c8-4bfa-a802-d560ca474073	Job	Walter de la Bache	bcd826b8-2eec-4fa3-97fc-2644c184a956
+vicars	04ef34c5-a1c8-4bfa-a802-d560ca474073	Job	Ranulph de Evesham	081ae8a0-946f-44ea-b4d7-19f927aa53e1
+vicars	04ef34c5-a1c8-4bfa-a802-d560ca474073	Job	Robert de Byford	1f9aa063-6315-4d2c-9c3f-0006fa25c57b
+dean	abc96314-cdff-4bb8-a2a2-45c1692a6fa2	Job	John	2c65be39-7145-41ff-8dd8-7b027030ab21
+canon of the said cathedral church	af6289de-c79d-42e4-b2cd-a1c477a51aad	Job	William de Ros	6e63fbd7-c539-41d2-b749-9981c6aa9b6a
+vicar in the church of Hereford	d24cd755-5c09-4391-995a-dfbbaf880288	Job	John Helle	68da28e1-b335-4ae5-8846-1c80b1f3dddf
+chaplain	c19c9887-9546-444f-8029-7d82367c1dd2	Job	Peter de Wilton	15c49b9f-86b0-4ae3-ac29-6771681b189d
+his servant	20f21c48-8163-43cb-bb71-b306e4b515de	Job	Roger Digge	6deb7a9e-04a4-4183-a16e-c4141c989844
+papal chaplain and auditor,	b7ce1f85-bad0-486c-b7cc-572548272454	Job	Petrus Guillelmi	ff53bc80-d683-4ef9-948f-541f0b6955ce
+notary public,	a6207be5-72eb-453d-97bc-6ed6dc8cf909	Job	Hugh de Thornhagh	9d957614-98d2-40f0-a04c-e44474d2ecd9
+archdeacon of Salop,	6d28db5b-d61d-4df2-9d2d-0e351fcecff9	Job	William de Ros	8862a0e4-2d9a-4832-95dd-7dd1aa95e90a
+proctor of the said magister John,	2461094f-5ee6-4a68-b136-31f3ec28ad21	Job	William de Ros	9c245dc2-6d38-4b88-8dce-ff562c4419ac
+proctor of magister John de Ros	1607db7b-25d0-4faf-a935-94df0a148864	Job	William de Ros	6e63fbd7-c539-41d2-b749-9981c6aa9b6a
+clerk of the diocese of York,	80290713-3465-4af3-a094-8431b43f7353	Job	Hugh de Thornhagh	9d957614-98d2-40f0-a04c-e44474d2ecd9
+clerk	b5f383f9-d39b-4da7-a4c8-dfc63081fdd3	Job	Richard called Heruy	0aea5d72-47d2-4cfa-9949-ac2deb6367c4
+canon of Vaison,	ac475a2e-75e8-4579-9906-ba60b701b483	Job	Petrus Guillelmi	ff53bc80-d683-4ef9-948f-541f0b6955ce
+treasurer	3b354203-02b3-48ab-90ee-25ad0563f2d1	Job	Thomas de Penbrugge	28d8241e-8497-401f-be03-23bb21344578
+proctor of the dean and chapter of the cathedral church of Hereford	705e6f2d-e982-484f-853b-afbff899ec67	Job	Thomas de Boleye	2b786a3f-6893-4c85-8239-b9366681a850
+proctor of the said magister John	d4991384-cf02-430f-b702-a2cde85d787a	Job	William de Ros	57c6982d-054e-4c87-82e3-6c75db708d52
+subexecutor of the said magister Petrus Guillelmi.	17bf4481-1e6c-4af9-a403-07d3165042fd	Job	Stephen Norman	5cd0622a-b82f-4b67-8d20-e10a06d5e729
+proctor of the dean and chapter of Hereford in the Roman court in the cause against magister John de Ros	421d95bf-0a24-49da-af7d-8e8fdc574ca5	Job	Richard called Heruy	0aea5d72-47d2-4cfa-9949-ac2deb6367c4
+clerk	b2d3db4c-2a6a-4393-aef1-1a9078028336	Job	John de Ros	be069559-adb6-49f8-a774-bebaf28e9d07
+bailiff	3e378266-4e9b-467b-b010-8b633f70cc50	Job	Roger le Tayllor	adca1745-c393-48af-8ec2-d97797f9759b
+bailiffs	24fe6c58-b461-4146-8fd0-9fc09dce85e3	Job	Henry de Orleton	e18080e2-1ebe-46f0-8f6a-592557f4d6e6
+bailiffs	24fe6c58-b461-4146-8fd0-9fc09dce85e3	Job	Phillip le Werror	6e172999-48d7-4ceb-81f7-fc2a890609d1
+vicar	ebe7a3d2-1f3d-4a03-9358-aa60bf006815	Job	Roger de Breynton	b11e1177-1246-4a44-a514-f62a1270def7
+chaplain	089685cf-8dcd-45eb-9927-03feac1f2c7f	Job	John le Werrur	a82fe856-299e-4fc4-b0c5-5d26e3c7bf17
+clerk	49a127dc-990f-4104-b4b4-98d54c8b1574	Job	Roger de Brayntone	50b2665c-6376-4a10-857a-1e9cb2948e4b
+bailiff of the dean and chapter of Hereford	8bd1c8f2-dce1-4d6b-aeac-1e484404b160	Job	Roger le Taillur	33ab32f7-96b8-46fb-88e9-8456bccd53ac
+tailor	c2189c5f-8cac-4eec-b3aa-63772472ca1a	Job	John de la Barewe	d288b135-60e6-404f-b554-9e31aa159fad
+chaplain	8dec5401-ba07-42aa-abd9-1109cbf8381e	Job	John le Monk	2493e729-9dcd-4b94-b7b3-a9114d9d47e7
+bailiffs	24fe6c58-b461-4146-8fd0-9fc09dce85e3	Job	Roger Penek	e471862a-359c-45aa-99ae-74acc6ab0647
+bailiffs	769de711-c532-4aa0-a110-79fd6f0b3b9e	Job	Richard de Cruce	67111815-f20d-4348-9f7f-84cf3f489f1b
+Richard de Cruce	67111815-f20d-4348-9f7f-84cf3f489f1b	Job	Thomas Tope	cfef431b-258e-4455-9076-d3e68ca5cdc6
+Richard de Cruce	67111815-f20d-4348-9f7f-84cf3f489f1b	Job	John de la Sale	cf8d8268-6473-48ce-afa1-6dc310e6c7d3
+canon of Hereford	39af0b99-acbc-4ff2-aded-35c8ca91cccb	Job	Thomas le Breoton	3dbdd05f-81cf-48d5-96c3-4ef5816a3cbf
+bailiffs	8c64f2df-a829-4608-9caa-aa6af9dfb5ef	Job	Phillip le Werrour	0787a40f-6b23-4720-bca6-5e4bce17db2c
+notary public	b33bfd2a-b46c-4f5c-81d6-f3d48be5c102	Job	Walter de Maddeleye	96daac07-826d-4576-9b64-96558ac3efe7
+bailiffs	8c64f2df-a829-4608-9caa-aa6af9dfb5ef	Job	Roger Penk	b3a11e56-e2a6-4dc5-947f-7eae53b66912
+rent-collector of the said dean and chapter in Hereford	e923746c-4e81-4bb9-a2ad-b1fde0587a90	Job	John Whyteneye	fcaae5dc-313b-40d4-a40a-2075d1b3df27
+he church of Byford’	e13e882c-419b-49aa-96f4-2f80a2dd0e17	Job	Hugh Hakelute	b1346163-9578-4cda-a529-7061e2ca1456
+citizen of Hereford	5cc857b7-03c2-4322-ad61-11dfa8fb69d3	Job	John Monyword	38d00dea-d7a4-42d3-a0e1-1a385a476520
+merchants	8b915483-785d-4fa8-96f9-09ac789e6e58	Job	Menent Francisk'	8ab4170f-9fea-4ccb-8614-ed290746e6bf
+merchants	8b915483-785d-4fa8-96f9-09ac789e6e58	Job	Menent Francisk' and his fellow-merchants of the society of Bardi [of Florence]	8f4e6567-3502-4dda-8cd8-fa34fbe779b6
+sub-collectors of the annual tenth granted to the King by the Pope	253d4fe6-6ef2-4a86-b92b-fb569f21acef	Job	the dean and chapter of the dean and chapter of Hereford	aad4fc34-22da-49f3-a75d-1abf9c68b112
+subtreasurer of the church of Hereford	ba4a8e5d-84a1-45ec-9dd1-ca39c18cb075	Job	William [Valet]	49d2b5cc-67fd-4445-b07f-ea7be057aea9
+dean of Hereford	9861dcbe-9cf2-4329-8eeb-4cae1d033a9a	Job	John de Aqua Blanca	1dd9f8e5-6858-44fe-86ba-579c390b2476
+chaplain, receiver of the chapter of Hereford.	39e99a98-f2df-410c-bd22-b143ab388bb7	Job	Dominus Willam the Young	5cb96541-9d6e-4121-86c6-cbbcbaa07480
+sub-dean of Hereford	d66c85c9-ae21-47c5-988b-fe772a48fbd0	Job	Richard de Hamenays	58c4698c-2930-43d6-8ada-d3c825440d9e
+commissary of dominus R., bishop of London	7820e095-f1de-47c0-bd5a-927d65c785d5	Job	William de Halstede	d9d515a7-9ab2-474e-a505-9db386ba88f8
+vicar in the greater church of Hereford	ae352777-03c4-40ee-aeb4-945e3dc11d70	Job	Nicholas de Yaneworth	53993c93-c865-48e2-90ce-e1cfa7e6c5f7
+receiver of the annual tenth	d1e3b1c5-6aac-4c19-80c5-0cf284499f82	Job	Nicholas de Yanewrth	186ab146-d365-4c1c-b937-484ddf567943
+collectors of the said tithe for Pope Clement [V]	2a0cfcb5-1563-4d6d-9d06-96ef6667188d	Job	bishops of London	1843a632-0a10-4fe8-90bc-059ee1f750bd
+Lincoln	3aa73539-4166-433a-8f86-6a46a0e12939	Job	collectors of the said tithe for Pope Clement [V]	2a0cfcb5-1563-4d6d-9d06-96ef6667188d
+proctors	1f93ca60-82c7-4fce-be86-47665f94da24	Job	Barewe	2560c986-522a-4026-a3d9-4ab8fb42bea9
+proctors	1f93ca60-82c7-4fce-be86-47665f94da24	Job	John Gorewy	333746f9-aa98-40d8-a405-1bcbb6417ecd
+canons of the cathedral church of Hereford	b1f610f4-e921-4bca-a800-c04a1922e8ce	Job	James de Henle	6b2bf0ab-f302-4a06-9a85-f38359ef927c
+canons of the cathedral church of Hereford	b1f610f4-e921-4bca-a800-c04a1922e8ce	Job	Adam Carbonel	88a52373-87b1-460a-a869-ec8622ef3690
+canons of the cathedral church of Hereford	b1f610f4-e921-4bca-a800-c04a1922e8ce	Job	Stephen de Thanet’	1ef92443-6b95-4ed7-bc36-eb27d70f2ab8
+vicar in the said church	da4dffc8-0b24-44e4-9cf0-2ee68f70cacd	Job	Nicholas de Yaneworth	3c45d528-790a-4a46-9dfa-1718a51dfeae
+subcollectors of the tenth	013d7ada-6c65-4c0f-8812-fcad529c9e17	Job	the dean and chapter of Hereford	c5497861-a410-4abf-be56-dca824cb1584
+collector of the said tenth	5c569852-c594-4ed9-9123-fe8c001efdbf	Job	R., bishop of London	dc7eb7fe-3f0e-4c5f-9b94-15f013851f2d
+collector of the said tenth	5c569852-c594-4ed9-9123-fe8c001efdbf	Job	bishop of Lincoln	ce918d05-2732-46bb-9985-021033734b09
+notary public	1c910d7b-a14d-4e07-a75d-46af4947e404	Job	William de Maldon’	66d7b921-5af0-4a7f-a4b0-77305d1e1a59
+dean and chapter of Hereford	f2462521-bd60-4599-befa-870e20475ea1	Job	subcollectors of the said tenth	64a9b119-0b3a-4a8a-85f9-55e2293f47ce
+chaplain	aa69697c-e88e-4a86-a527-b2c734b855af	Job	Nicholas de Yanewrth	186ab146-d365-4c1c-b937-484ddf567943
+clerks	91cdfd1a-d117-47ad-94eb-2784448bff73	Job	John de Barewe	4f264c23-1406-4870-9c56-e84a889b45c5
+clerks	91cdfd1a-d117-47ad-94eb-2784448bff73	Job	John Gorewy	333746f9-aa98-40d8-a405-1bcbb6417ecd
+parishioners	b03c8a45-9f31-49ca-a3b7-a4c7c00f6eda	Job	Henry le Forester de Corston'	50811aaa-de7e-4c91-aa92-4096d3e9caa2
+parishioners	b03c8a45-9f31-49ca-a3b7-a4c7c00f6eda	Job	Thomas le Childe'	ab07f141-de09-43ba-a8ed-40a3d0d70f32
+parishioners	b03c8a45-9f31-49ca-a3b7-a4c7c00f6eda	Job	Richard le Child'	5e8c126d-625d-4b39-afd7-4c99b218e156
+bishop of Hereford	03173be6-28a8-4210-9d82-d3f6aad2b4bd	Job	Richard de Swynefeud	5970dd71-b969-4018-a395-4098835a272a
+bishop of Hereford	19ace0be-eeb2-44c2-9491-f3b994873bc0	Job	Richard de Swynefeud	2ec3774f-0ddd-4e68-9173-57d9fdc8b2a6
+canon of Hereford	bf1874eb-6e3f-4a30-b8a8-20afa45a84e1	Job	Richard de Hamenasch	30f82127-1e5c-42ac-a4af-cb0997b75c85
+Richard de Swynefeud	4a86e67b-98cf-40ba-955a-4719f081406b	Job	Hereford	bb8dc318-968d-45eb-b7e9-99de7a96b953
+bishop of Hereford	ad201310-a70c-43c5-ae6f-3ce008a716bf	Job	Richard	e95a2eba-6319-4414-a886-45cf1308fa0e
+treasurer of Hereford	d62ec323-5716-4bfa-8f34-e3821471e924	Job	John de Kemeseye	c7b9ea07-68ce-466a-9721-a16e8cf2ce7a
+bishop of Hereford	0a24f226-45cd-48f1-a4ff-20d274ec0d6c	Job	Richard de Swynefeud	724bb518-d2c6-4a2d-841c-b14e83636193
+rector of the church of Cherring'	4a07668f-487b-4777-bdfa-09aa84a42a95	Job	William de Suanton	5cbfd43e-b4cc-4808-9055-abe1441dd690
+late treasurer and prebendary of Berton’	410210c9-0cb0-45b6-8d99-77ed518ca869	Job	John de Kemeseye	0cafc5a6-182d-4b6f-b0c2-ba4ffade616e
+treasurer of Hereford	b17e74d8-608b-4962-9dba-881857becf17	Job	John de Kemes	d202fd0b-920e-4d1b-b139-095905bcba2b
+magister	9da66961-ce09-4c13-9a2a-1e519aad80a8	Job	Roger de Sevenak	dbc05069-f5d2-49f6-bd5d-8ba49799c92a
+vicar in the church of Hereford	3060ae62-da6a-4df8-bf4d-276b4fc5b25a	Job	Willion Vallet	85de980d-dc33-43bf-8ef5-7c5c7b1d4173
+treasurer in the church of St. Ethelbert of Hereford	beee84f3-d1fa-476e-b50c-20eef306a91c	Job	John de Kemeseye	b13c6bc6-64bb-48d1-a8b0-20bd479e76af
+penitentiary of the church of Hereford	b9dd4470-0d2d-46db-b36a-9a46716878ea	Job	Hugh de Browse	edaa4de3-bbd9-4b1c-9f6c-e09b77413517
+tailor	ba77ca20-6b57-4e84-b9be-925b505d04b7	Job	Thomas de Aylineston	57813c69-6e3c-4c9b-bf42-219f87c2427d
+dean of the church of St. Bthelbert of Hereford	9250092c-90af-469e-b20a-90c9559fe33d	Job	John de Aqua Blanea	b2036595-4035-411a-bc27-64845f618521
+bailiff of the bishop of Herefor	84183a45-692a-425b-ac45-1603eb0d2828	Job	John de la Felde	01467eae-0f9e-4984-aa4c-b5cbd7a7d71f
+clerk	2659f055-466a-49a5-abb5-97b9aa4d4148	Job	Nicholas de Reygate	111bb982-b7db-41e1-9088-7e879cce6ecd
+clerk	19e29f23-264f-49c3-a2a1-f8fd0547db32	Job	Nicholas de Reygate, clerk	09215349-392c-442f-b081-4a6491811f71
+clerk of the king for receiving bonds of debt	7bf50cd2-be40-424a-b918-9e6a281dfad8	Job	John Lightfot	86b37006-692a-431f-a38f-f995e2e43825
+dean	776c9637-1d9b-4d03-be92-eb9ebb9eb359	Job	John, dean	763325b4-61b8-4664-92ad-df1411799310
+clerk	fa270742-a7dd-4464-a222-5892b8faefde	Job	Hugh son of William le Stedemon de Ros, clerk	d90a6b8d-2475-4b6d-99cb-9f4e1c130995
+clerk	8365b630-b404-4e1e-a2da-21d2e928e43d	Job	John de la Barewe	1fc85450-4ffd-4709-a463-2d044a4b4f02
+archidiaconus Aranensis in ecclesis Connen'	cb7d8d0a-6639-4b69-a1c0-de761d226338	Job	William de Tests	08828b0c-a8d8-48f3-a93a-2552a138ef88
+bishop of Hereford	7eff13be-b9f2-4045-bad4-3969cec24c7d	Job	Richard	601e8446-74a4-4cc1-b5a7-9e7aa24c0731
+proctor of the chapter of Hereford	bccc9d1b-836e-4276-a9bc-8d41bdbaabb5	Job	John de la Barewe	1fc85450-4ffd-4709-a463-2d044a4b4f02
+notary public	d413601b-c407-4132-b35f-84266fea1dc4	Job	Robert, called le Dorturer de Selebourne	48a6a632-c633-44af-bc85-14ae2ebb7a01
+lord of the honour of Brember and Gower	3d1501fc-3e0b-4c52-ba4d-31df03737b63	Job	William de Brewosia	af89b1cf-4d5b-4d68-8026-e3327c8b52a5
+penitentiary of the church of Hereford	e69adca7-5a17-4f2e-b3b7-616380fb8845	Job	Hugh de Breusa	b8c87725-248c-4c9b-8c2e-86c498ccd08e
+the abbot and convent of Wigmore	cb3d5e75-6752-4b3b-8aa1-39de72d1132c	Job	collectors of the tenth for the archdeaconry of Salop	b7fdb3b3-eccc-4519-877a-d32b7c133ffc
+collectors of the tenth for the archdeaconry of Salop	b7fdb3b3-eccc-4519-877a-d32b7c133ffc	Job	the dean and chapter	10d685b8-8100-4c97-8b35-ada815eaf37c
+dean and chapter of Hereford	e0d840b4-8592-45b6-bc50-1366b6b7d535	Job	collectors in the city, deanery, and archdeaconry of Hereford of the tenth for six years lately imposed by Pope Clement V	b24452df-6bdb-40dc-97f4-1d2833085753
+archbishop of Canterbury	7cfb5148-e2a7-45fd-b3bb-022f080c541f	Job	John	bf1d71ba-b209-4a32-9f59-a2a6368b9a50
+chaplains	2826de1b-b491-4ce6-9317-a2b0121eaa8a	Job	Richard de Wykkewane	b89495a3-f026-4d3e-8085-2b2f46a66f88
+chaplains	2826de1b-b491-4ce6-9317-a2b0121eaa8a	Job	William Vallet	deace25d-0f38-4de3-90c9-eeabfabee1d9
+chaplains	2826de1b-b491-4ce6-9317-a2b0121eaa8a	Job	John Helle	2f0c55d7-725c-4552-9476-9c951a24d7a9
+archdeacon of Hereford	e6b24a3d-39e0-4ad2-bf38-68463c126eb0	Job	Henry de Schorne	43bb6fdd-c4c4-48f9-9f61-59956184f475
+clerk of the diocese of Hereford and notary public	da7c8572-9eec-474a-b3e8-de8307683c73	Job	John de Almalia	8a2f7c3f-960d-43b8-9065-e91d28fc687c
+bishop of Hereford	b4e47a56-e9d1-4b37-ba44-cfd74d974b74	Job	Adam	278cd15e-4b26-4c70-8f80-9d75bb3302a6
+laymen	083647dd-ada5-48dc-84a6-e4e920fae8f4	Job	Walter de Norton	78a44aaf-9ed9-4e5b-86f1-9ff84318a80d
+laymen	083647dd-ada5-48dc-84a6-e4e920fae8f4	Job	John le Blak	aa51a009-219b-44a9-ae94-454c4d891fd6
+canon of Hereford	d903a8a2-2e4a-4039-9a48-c518de7a9dad	Job	William de Kyngescote	75d860eb-33f3-4e19-b931-0b5a149daa5e
+dean and chapter of Hereford	513411bf-cc34-4537-9dc2-08b9e29d87a7	Job	collectors in the city, deanery, and archdeaconry of Hereford of the tenth for six years lately imposed by Pope Clement V	9fd15546-0c14-45b0-803f-0b84fea23769
+bishop of Hereford	476191d8-37ed-4d18-adad-4adc2f9f17f5	Job	Adam	b8cc2d4f-1ed9-4810-b029-369025fc24e3
+abbot	ddeb011c-c827-4988-a993-cc8b57bd50ab	Job	John	937521a2-dc34-463e-b2a6-111a6d5b1e17
+abbot	6a8854f2-c9ac-4a3b-b94c-745d2d854b46	Job	John	51ce8f74-6871-4f3f-8d91-a0fd46fb4937
+abbot	ccc5104f-74b5-47a9-9c9c-926b7ace1d4d	Job	John	6b49a1c7-5659-4b80-acd8-3190906b75c5
+abbot	596381b2-ae8b-4ee2-9b64-017f2512b83c	Job	John	665ac809-15bf-4caf-9118-968d921a2727
+canon	5e11b759-ee8a-418e-8506-3b77c382316c	Job	William de Caple	3a998812-acc2-4f26-891d-5a7f2aba7290
+archdeacon of Aran in the church of Comminges, papal chaplain and envoy in England	101abfcf-06f9-4b5b-a4f5-456d26a6db67	Job	William	3fbe9f43-6f1c-4b7e-86b1-d580df198b29
+bishop of Hereford	edeb3e2a-3372-46b1-b7c2-0f310f5cbec5	Job	Thomas de Cantilupo	0c4d01fc-e209-42c7-84a0-72985477ad53
+penitentiary of the same church	bf2e3544-185b-43b5-bcc6-2ce9de3506a6	Job	Hugh de Breosa	1c7044e8-6760-4b4a-b215-533179395f92
+episcopus Portuen	55f51208-2dca-40a1-bcf3-6b2e1437d730	Job	John	747a650a-9f93-4ac5-9a5f-022972cce40e
+deacon of St. Nicholas in the Tulliam prison	b117d78c-8411-44b9-9072-c00d28a61203	Job	William	7071ba25-1eed-43ae-95dc-401201557a26
+cardinals	9314dde3-f8a1-456d-801e-d9bcc9f05ec2	Job	William	7071ba25-1eed-43ae-95dc-401201557a26
+chancellor of the church of Hereford	d154a563-a3e1-4928-8f84-f123a9a95ea2	Job	Robert de Glouc	cc7b89b0-a14c-4be6-ae4b-5a2b290697d2
+archdeacon of Aran in the church of Comminges	05eb01b9-3755-4ab1-8005-e99b6b7e4328	Job	Guillelmus Testa	512aef1f-e8aa-4d23-95bf-48dbf9a5fb01
+chaplain and envoy of the pope	d6698aa5-2749-4b3b-b050-0ed9fe3ea955	Job	Guillelmus Testa	512aef1f-e8aa-4d23-95bf-48dbf9a5fb01
+bishop of Hereford	2560a9cc-b718-436f-80be-d85df35bfd8e	Job	Thomas de Cantilupo	1666f889-955c-4e4e-95fd-fb81833e503d
+canon in the church of Hereford	2ed89724-049c-4608-9a97-14126abfe415	Job	Philipp Talebot	c3e054c6-a03b-4702-9037-723eea85ae13
+commissioners for the dean end chapter of Hereford	e93b637d-c7e0-4be0-bb26-f1c27a5e6a9c	Job	Portuens'	9797ef80-b20e-47b0-acde-dc892d7ccee5
+commissioners for the dean end chapter of Hereford	e93b637d-c7e0-4be0-bb26-f1c27a5e6a9c	Job	Guillelmus de Bergamo	7dd1c8c0-ec61-4835-8b20-3247463b5cce
+his proctor	7df38f09-ca11-497b-bddf-06cb5798c252	Job	Adam de Orl'ton'	ebd65200-a6ec-45cf-8192-bc878d3a2cff
+archdeacon of Aran in the church of Comminges, papal chaplain	9334ec67-79f2-4e8b-a58a-807962654e3e	Job	William	c1911a2e-32b4-4529-b6b3-785f10e177da
+executors of the will of magister Philipp Talebot	155f892d-3966-4387-89b2-7433c744ddc0	Job	Alfredus	d307a223-fd8e-4a98-9562-313f079c8da7
+executors of the will of magister Philipp Talebot	155f892d-3966-4387-89b2-7433c744ddc0	Job	John Talebot	fd5a88f7-2146-4943-868a-a6701b184ddc
+dean	34c17acc-7f0e-4f56-8d88-f77ef38d9463	Job	J., dean	b5a72f9a-028f-40b0-8b7c-5add89738a36
+clerk	a3463eb1-b3e4-4772-84c3-d310fa1e6597	Job	Thomas de Gynes	1f051c49-672f-40fc-a571-224754c2e510
+cardinals,	de26ff18-7b58-4183-a916-daf955d75ade	Job	Guillelmus de Bergamo	7dd1c8c0-ec61-4835-8b20-3247463b5cce
+cardinals,	de26ff18-7b58-4183-a916-daf955d75ade	Job	Portuens'	9797ef80-b20e-47b0-acde-dc892d7ccee5
+bishop of Hereford	cb015c64-2e6e-4945-9a74-a059da3cb6c3	Job	Thomas de Centilupo	20d7eb4b-a598-4e46-905e-6e7b9afeeb06
+priest of St. Sabine	828926f1-1f6d-406a-8fcb-d772c060bf55	Job	Thomas	fdc98e3f-91bf-4838-96be-d2db375150ec
+cardinals	9314dde3-f8a1-456d-801e-d9bcc9f05ec2	Job	Thomas	fdc98e3f-91bf-4838-96be-d2db375150ec
+bishop of Hereford	4ddbca8e-e127-4193-a7e5-539cde1947c3	Job	Thomas de Cantilupo	33985e0a-b0d6-427d-9611-245d9afdcd04
+chaplain	d30d634b-923f-484e-b270-7775d9d13357	Job	Alfredus	d307a223-fd8e-4a98-9562-313f079c8da7
+archdeacon of Hereford	a70ef14b-3d37-4efd-b6dd-08a5173c5700	Job	H. de Shorn	49f81339-7a2a-4fc3-aae7-da50b01440d3
+bishop of Hereford	7734148b-f7d3-407d-be83-951cf6196cf7	Job	Thome de Cantulupo	3bdeb895-35a4-4c0c-8913-489f7babc00d
+dean of the church of St, Ethelbert of Hereford	96811cb5-a483-47e2-a254-28474bdee5cb	Job	John de Aqua Blanca	0ea984bd-892b-4c09-be5b-7f0198062f53
+clerk	d04aca7d-da28-44f5-8c7b-c9b4a98037eb	Job	Henry de Heyton	97a56794-62c8-4677-805c-d71e9e1e5c71
+clerk	17a0e5f7-778a-4fc9-b08e-85740075bc2d	Job	Godfrey de la Leye	28cc9507-f86f-45aa-9839-dedf1d490d85
+knight	c0722c2a-594b-4186-862b-886e61ef3939	Job	Grimbald Pauncefot	0d92670f-3393-49aa-a9ed-ebe17e22b79b
+corporal possession of the church of Saint Ismahe	f374daee-9bfa-4f38-8545-8c6ea6ef6f99	Job	Maurice	239ad2f5-4a42-4723-84d1-840d20e40988
+vicar of the church of Landesteffan	a7a06591-f3a1-46b1-8931-ca40b97fd412	Job	Gregory, perpetual vicar of the church of Landesteffan	07e611cd-683a-4253-9ab4-5a7d15254574
+bailiffs of the king at Hereford	505c6dfe-ffc7-48b9-8621-caab60ce2a23	Job	Roger Ochelmon	00ada241-068d-4320-a07b-927f06d8a716
+bailiffs of the king at Hereford	505c6dfe-ffc7-48b9-8621-caab60ce2a23	Job	Roger Penk	806759bf-eecb-49ed-96f8-30214802dbb6
+bailiffs of the king at Hereford	505c6dfe-ffc7-48b9-8621-caab60ce2a23	Job	Hugh Troue	2f970317-e21f-4873-a860-9d850ade2177
+commissary general of the official of the Court of Canterbury	d0e83def-5888-42a4-8802-84acb1b0b6c2	Job	the dean of the church of the blessed Mary of the Arches at London	4c2b1d73-629b-48a5-8993-e78bad3f2c02
+rector of the church of Penbray	102542c7-1602-480f-9e98-0f6f95b22ecb	Job	John, rector of the church of Penbray,	901a4e4f-63d6-40c9-94ad-7760a3cbf4e6
+rector of the said church	0bf02575-b013-4054-94f5-91fbfa5b9529	Job	Maurice	c9d87375-5656-464f-98c4-3e57de1d7464
+rector of the said church	0bf02575-b013-4054-94f5-91fbfa5b9529	Job	la Boxe	ef2d3764-8f25-4708-8e03-aeb20f900a7c
+rector of the church of Penbray	5e585f33-602b-4cc0-8da4-81d1ca0c8e97	Job	John, rector of the church of Penbray	fb08c2df-2e39-4e39-9a85-180cc80c1fa2
+corporal possession of that church	5e2d44f9-2e36-41ef-b54a-e24e7d2cb618	Job	Maurice	f8bd56ce-73d2-43ee-9f1f-a9570cb9e638
+perpetual vicar of Landesteffan	94c1b34c-de47-4c2c-aa03-709a20b3e0d9	Job	Gregory, perpetual vicar of Landesteffan	0382e489-471c-4f99-b985-19b71ba22ab6
+citizen of Hereford	17d82d3f-6a72-4ceb-b2e5-661cb7634a54	Job	John Lightfoot	5f511fd7-6ad5-4942-acad-a64cc8e47a0a
+sub-treasurer in the church of Hereford	4a6c43c6-068d-4ceb-883d-eddf8a2983a3	Job	Williem Valet	6ce7b48a-aef1-432b-a40b-c5c26c94f3a5
+bailiff of the dean and chapter of Hereford	7f96737e-9432-45b9-8e99-c5c44b6fa49a	Job	John de la Barew	06ac5d86-292b-4e0d-8790-a163f19843b4
+bailiff	c39fde79-5071-4c52-8abf-fce42b438e65	Job	John de la Barewe	d22e1950-79e0-4813-b6ad-2910bd2fb205
+clerk of the dean and chapter of Hereford	69ca346e-f3dd-4180-9f20-e89cd38f4858	Job	Robert de Cotinton	341300ea-a58f-4130-b00c-80019b3b1482
+receiver	3c460a8e-8836-4443-b36b-44958cb7514f	Job	W. the Young	2b7d6b15-a752-49d5-838c-039b0ff5d5a1
+clerk of the dean and chapter of Hereford	bf7333ad-2824-46bd-868f-7ec697997117	Job	Adam de Barewe	fc423dc1-e744-4ee6-a552-b0a55480382d
+bailiff of the dean and chapter of Hereford;	473b4d0f-fab5-46b7-aef3-c4958e2ebf44	Job	John de la Barewe	dd65b3fd-d2d0-4c36-9a73-04bee3edcd01
+chaplain	9056524c-630f-4a44-aa3b-bd3e07c3ea99	Job	William de Foston'	45ab5f69-b8ec-453e-910e-bfc473622697
+receiver of the said dean and chapter.	9fa2cfa0-104f-4ed7-89c9-a50a0fa1ed24	Job	William de Foston'	45ab5f69-b8ec-453e-910e-bfc473622697
+marshal	56704c78-5cb7-4555-a68c-e5bf13dc5f03	Job	Roger	b833a58f-759d-4b87-b008-86867e9e978d
+bailiff of the fee	df468300-e304-4387-a9df-cef2f170ab48	Job	Roger le Tailour	297684bb-1501-4598-8139-d201a05dc64d
+baliff of the fee	7940af80-33c2-4bd0-9c60-9926a6cb57ea	Job	Roger le Tailour	b02d27fe-ea25-41bf-920f-4f3bdeee8bdf
+marshal	97ccbbca-1e7c-42a0-a996-154ba8d5988b	Job	Roger	ab8ff5c5-e42e-4f2c-9a2e-e4df42433758
+marshall	d5705f09-62c4-4bd5-bc27-1b8acb5b86bf	Job	Roger	84db6da7-356a-4a9b-904a-a1e6c32f9d1a
+bishop of Hereford,	f4bd204c-2734-4ce6-923a-b89e766d2668	Job	Richard [Swinfield]	b09c8144-9bde-42e2-9cdc-a6fc2e0bbba9
+Bishop	71dcd7c0-604e-4cbf-b89b-ba2757a9e4d4	Job	Peter d'Aigueblanche	56981f56-8ebe-44e4-bd6b-0a53de034625
+chaplain	1f6e449d-80ab-47fa-b026-2f3031791d2b	Job	Thomas Legert	d8829dda-e2cf-49b1-bca8-c70d66f71702
+rector	91d85ce1-f664-4cb6-9716-b69d9d4e8714	Job	Phillip Bernard	cd282225-ad02-4579-be22-0c7eba3bf395
+abbot	cbc540b1-6bb8-4425-90fe-1eb220846206	Job	Frater John	01b7e474-56af-43de-afe5-d0eb29573e12
+knight	b313df3f-471d-4e8d-a1ce-83466cad8ffd	Job	Robert de Penres	aa88a260-2406-4d12-9fc8-07f4d5d0a76a
+chancellor of the church of St. Ethelbert of Hereford	6760b247-ada9-4ead-be86-335a9c3fa6b2	Job	Robert de Gloucestria	ba3cea15-b539-406f-ae4f-c53a19dfdf2f
+dean	0758e4cc-c50d-4fc1-8bcd-9af7e129fdb7	Job	John	28f3c4a1-56f5-4825-9c83-a97ff9a51eef
+substitute proctor of Bartholomew the scribe of Hereford,	7b260825-4927-40f0-a8a0-d360f021d99d	Job	Hugh de Breynton	fac7fb54-6ff8-4d0e-b172-e9eb5f964d9b
+perpetual vicars of the chapel of St. Katherine the Virgin and martyr in the city of Hereford	aeca1671-7e0c-4c0f-8e63-571fc277b17d	Job	John son of John the baker	c5abf226-9faf-4a22-85d8-efc4ef6c2364
+perpetual vicars of the chapel of St. Katherine the Virgin and martyr in the city of Hereford	aeca1671-7e0c-4c0f-8e63-571fc277b17d	Job	Phillip de Stottesdon	5451def1-9f23-4038-8774-41f3b5186c8c
+perpetual vicars of the chapel of St. Katherine the Virgin and martyr in the city of Hereford	aeca1671-7e0c-4c0f-8e63-571fc277b17d	Job	Ralph de Buesham	68e38578-29a5-4ec5-8e99-da0cb6f56fa1
+clerk	4e970e31-9e22-406a-976e-927b0cf2cfe4	Job	Hugh de Breynton	fac7fb54-6ff8-4d0e-b172-e9eb5f964d9b
+baillif of the dean and chapter in the city of Hereford	2547502b-3714-4d04-965a-7cc492663bfc	Job	Richard de La haye	469abb40-84fc-44a5-9bdc-ffa87d06c72e
+bailiff of the bishop of Hereford	be1d724a-ae3b-4e50-9872-34f6e242eb69	Job	Walter Thorgrym	0f3a7e5a-6974-4229-98e8-5cec473eabdc
+his proctor	942cdc09-9e9f-440b-81e8-04a30f3e763d	Job	John de Cherlton	180e2beb-d5c8-4491-8778-99dbaafb4e07
+bailiffs of the king of England	d41437d2-f86e-4c6f-97d6-170522c56fcc	Job	Hugh de Monyton	6a8f7d42-b3b3-4804-ae0b-e738bec294f8
+bailiffs of the king of England	d41437d2-f86e-4c6f-97d6-170522c56fcc	Job	Thomas Tope	6968e8b5-2273-4a98-a5af-b7d73096799f
+bailiffs of the king of England	d41437d2-f86e-4c6f-97d6-170522c56fcc	Job	William de Orleton	4bad5619-6fbe-408b-ba05-532ce191ec47
+their fellow canon and proctor	57cdb6b8-5458-4751-ba35-91b4c08abb98	Job	John de Ledecote	3e87520d-fe40-4a06-bb2b-341da1bb38a3
+canons of the cathedral church of Hereford	36a3049b-fd18-4872-99a6-78fd1ba0431f	Job	Richard de Nonnynton	cf8a4326-0f0f-4770-8a59-9e1cb00462cf
+canons of the cathedral church of Hereford	36a3049b-fd18-4872-99a6-78fd1ba0431f	Job	Hamon de Sandwyco	9bd0889d-bbd5-440e-ba6f-86a14754207a
+dean of Hereford	f69fca1f-d8a5-49b8-96cf-ddc085ec7bbc	Job	Stephen de Thansto	997f1e1a-6556-4026-8bd1-7e3d626cecb6
+bishop of Hereford	905d7d63-76f2-43c5-be8a-27ee33e7ecbd	Job	Adam [Orleton], bishop of Hereford	0d485c10-2ba1-4865-8723-9a5396bec389
+the bake	7fd5ecc6-958c-4117-9268-c96f74f432db	Job	John the baker	55db640a-cf3e-46d6-ae6c-303a6e07c5d6
+le Deyare	069e1496-e851-49e7-adfb-a1a52c4c04ba	Job	Giles le Deyare	2f2b7bf9-8aba-4b66-9153-5446ee753ac0
+clerk	36ea3c32-0b09-45c3-a565-e9d863960b22	Job	Richard Heruy	f0c7307a-b7c0-4c77-a100-e481c05189e8
+perpetual chaplain	352ebc1e-7933-4d0c-ad91-35eb245048f4	Job	Richard de Wykewane	e337ec31-ba1c-407c-9d35-0cd2012de4da
+penitentiary in the church of St. Ethelbert of Hereford	79a2d28f-d5ed-4da7-96c3-f41e229ed70d	Job	Hugh de Brehousa	b7d410d0-0c08-4466-8197-b809f45c40f4
+rector of the parish church of Hompton' near Hereford	bee33a61-9920-4388-a949-1084a5b515d7	Job	Thomas de Dan	b08c7465-e4d0-48cf-83e4-16978b59f673
+commissary of the official of Adam [Orleton], bishop of Hereford	f16a34ca-ccff-4c7d-ab5e-9699a5579d9d	Job	Richard de Sydenhale	8c36dc0f-d3cf-41f2-a2c8-0d4eec7e6d5d
+executors of the will of dominus Stephen de Thansto, formerly dean of Hereford	af58d856-e070-49e4-b9bb-77c09e2d3382	Job	Robert de la Doune	e7210b03-da7d-408a-87e5-1d53ec3c05c2
+executors of the will of dominus Stephen de Thansto, formerly dean of Hereford	af58d856-e070-49e4-b9bb-77c09e2d3382	Job	Richard de Nonnynton	cf8a4326-0f0f-4770-8a59-9e1cb00462cf
+executors of the will of dominus Stephen de Thansto, formerly dean of Hereford	af58d856-e070-49e4-b9bb-77c09e2d3382	Job	Hamon de Sandwyco	9bd0889d-bbd5-440e-ba6f-86a14754207a
+rector of the church of Wrocwardin	b15d29a6-429a-487e-a81f-19092c1e5276	Job	John de Cherlton	180e2beb-d5c8-4491-8778-99dbaafb4e07
+chaplains	1372e7e2-22d3-43c1-9598-3e608f6d9c7b	Job	Ralph de Buesham	68e38578-29a5-4ec5-8e99-da0cb6f56fa1
+chaplains	1372e7e2-22d3-43c1-9598-3e608f6d9c7b	Job	Phillip de Stottesdon	5451def1-9f23-4038-8774-41f3b5186c8c
+chaplains	1372e7e2-22d3-43c1-9598-3e608f6d9c7b	Job	John son of John the baker	c5abf226-9faf-4a22-85d8-efc4ef6c2364
+original proctor of the said vicars	fc4ec85a-d300-49a2-bdee-3932a0f232e6	Job	Bartholomew the scribe of Hereford	615be518-5ba1-4cd0-a66a-22823473b0be
+dean	a9f931bc-1ed1-4309-bbdc-ff76879a18bb	Job	John de Aqua blanca	ff816994-9a27-4b6e-9004-9416d183946f
+the scribe	bcdcff9c-cff5-4d7b-943b-619a2b9bc9c9	Job	Bartholomew the scribe of Hereford	615be518-5ba1-4cd0-a66a-22823473b0be
+bishop of Hereford	076db33d-6b27-42e4-ac52-7f78691f47b8	Job	Richard, bishop of Hereford	66d094c2-a968-4622-9b17-a3690d8d639e
+deacon	4c0acc08-cac8-48bc-9487-335a0b78ca39	Job	Thomas de Dan	b08c7465-e4d0-48cf-83e4-16978b59f673
+bishop	53a6e6cc-3ebd-4a6a-8111-9adcb21e8149	Job	Monmouth	dcfa997b-e2d1-4ff0-9447-94c46888abde
+Commissioner	a6c9b57e-42bd-488e-a92b-425f7ba7c1b8	Job	Walter de Nasse	881694a5-6215-446a-a38e-7b5b91284523
+Commissioner	a6c9b57e-42bd-488e-a92b-425f7ba7c1b8	Job	Alexander de Bykenor	500b441d-2176-4f22-9230-098656511276
+Commissioner	a6c9b57e-42bd-488e-a92b-425f7ba7c1b8	Job	Roger de Blitheslowe	656c7d28-9752-4495-858f-406f4d3aa0f1
+Commissioner	a6c9b57e-42bd-488e-a92b-425f7ba7c1b8	Job	Nicholas Long	f749d46c-6284-4b6d-9ea6-b86728b408e8
+Commissioner	a6c9b57e-42bd-488e-a92b-425f7ba7c1b8	Job	Richard Malemort	fa330cb2-a63b-4771-b0b7-cc9a1db8e0a9
+Commissioner	a6c9b57e-42bd-488e-a92b-425f7ba7c1b8	Job	Osbert Malemort	8f0a7257-97f0-47bc-b9e1-154a8f4ab2bb
+Commissioner	a6c9b57e-42bd-488e-a92b-425f7ba7c1b8	Job	William le Wodeward	e2da13b0-d5fa-4fcb-a04b-4b9f7462b2a2
+Commissioner	a6c9b57e-42bd-488e-a92b-425f7ba7c1b8	Job	Richard le Wodeward	c26ae653-b457-45fe-bf61-8d0d37c2e62d
+Commissioner	a6c9b57e-42bd-488e-a92b-425f7ba7c1b8	Job	Albriton	b4b6b962-39f2-44af-b617-eea1cc36320e
+Commissioner	a6c9b57e-42bd-488e-a92b-425f7ba7c1b8	Job	Roger Spore	9635dbf9-bdac-4df6-b07f-779e04af4b3e
+Commissioner	a6c9b57e-42bd-488e-a92b-425f7ba7c1b8	Job	William Ely	fac69407-910f-4692-a0bb-94472f2e809a
+Commissioner	a6c9b57e-42bd-488e-a92b-425f7ba7c1b8	Job	Walter Kedeford	531533db-9db9-46d6-b648-a6d4e50395b0

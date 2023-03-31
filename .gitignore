@@ -1,7 +1,4 @@
 */venv/*
 */.idea/*
 combining pdfs/*
-scans/*
-*\.idea\*
-*\venv\*
-workspace-backup-2023-01-27.tar.gz
+*.tar.gz

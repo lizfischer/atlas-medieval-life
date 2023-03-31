@@ -1,8 +1,0 @@
-"source","relation","target","source_id","source_tags","target_id","target_tags"
-"abbot","job","John","ddeb011c-c827-4988-a993-cc8b57bd50ab","Job","937521a2-dc34-463e-b2a6-111a6d5b1e17","Principal"
-"Alice","Wife","Thomas Le Brut","9b917993-c56d-46cb-91f0-0491f743e42a","Executor|Principal","7735949c-7136-47ed-8f28-825abba4b42c","Dead"
-"Edith","Wife","Herbert","5e99b593-cebd-4d89-88a5-965cd458efba","","ec066d22-3132-4d2f-9eef-f400741a31bc",""
-"abbot","Job","John","6a8854f2-c9ac-4a3b-b94c-745d2d854b46","Job","51ce8f74-6871-4f3f-8d91-a0fd46fb4937",""
-"abbot","Job","John","ccc5104f-74b5-47a9-9c9c-926b7ace1d4d","job","6b49a1c7-5659-4b80-acd8-3190906b75c5","Principal"
-"abbot","Job","John","596381b2-ae8b-4ee2-9b64-017f2512b83c","Job","665ac809-15bf-4caf-9118-968d921a2727","Principal"
-"Herbert atte Mulle","Father","John atte Mulle","422c9281-ba39-458c-972e-978ade55072d","","655fe31e-f87f-4a9b-8466-a6238869d132","Principal"

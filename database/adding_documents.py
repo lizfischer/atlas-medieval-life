@@ -1,14 +1,18 @@
 from csv import DictReader
+from sqlite3 import Connection
+
 from tqdm import tqdm
 import sqlite3
 
 connection = sqlite3.connect('atlas_database_jan_2024.db')
-cursor = connection.cursor()
+connection.execute("PRAGMA foreign_keys = 1")
 
+cursor = connection.cursor()
 
 # cursor.execute('''INSERT INTO documents (type, source, source_number) VALUES ("account", "HCM", "2368")''')
 # connection.commit()
 # connection.close()
+
 
 def parse_doc_info(input_file="doc_info.csv"):
     with open(input_file, "r", encoding="utf8") as f:

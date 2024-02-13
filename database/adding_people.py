@@ -3,6 +3,8 @@ from tqdm import tqdm
 import sqlite3
 
 connection = sqlite3.connect('atlas_database_jan_2024.db')
+connection.execute("PRAGMA foreign_keys = 1")
+
 cursor = connection.cursor()
 
 

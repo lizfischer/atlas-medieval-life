@@ -1,0 +1,132 @@
+source,relation,target,source_id,source_id_matched,target_id,target_id_matched,error
+"Roger de Breintone, canons of the church of Hereford",Agent,"Richard, formerly bishop of Hereford",bc7b66fb-9d72-471c-b1aa-91a725ee3eb2,,05abc5c4-3b5d-46db-b267-c40e776d0379,,target id not matched
+"Roger de Breintone, canons of the church of Hereford",Agent,"Richard, formerly bishop of Hereford",bc7b66fb-9d72-471c-b1aa-91a725ee3eb2,,05abc5c4-3b5d-46db-b267-c40e776d0379,,target id not matched
+Richard de Vernoun,Agent,"Adam, bishop of Worcester",cade85c5-df00-4cec-a78f-47b8d7008950,,732aed0e-5f29-4504-b70d-7b8ba5925e23,,target id not matched
+Richard de Vernoun,Agent,"Adam, bishop of Worcester",cade85c5-df00-4cec-a78f-47b8d7008950,,732aed0e-5f29-4504-b70d-7b8ba5925e23,,target id not matched
+"Roger de Breynton', canons of the church of Hereford,",Agent,"Adam, bishop of Worcester",2a0dac06-11f9-4973-84f8-81d587b9bc34,,732aed0e-5f29-4504-b70d-7b8ba5925e23,,target id not matched
+"Roger de Breynton', canons of the church of Hereford,",Agent,"Adam, bishop of Worcester",2a0dac06-11f9-4973-84f8-81d587b9bc34,,732aed0e-5f29-4504-b70d-7b8ba5925e23,,target id not matched
+"warden of the chapel of St. Mary, canon in the church of St. Ethelbert",Agent,"dean and chapter of St. Ethelbert, Hereford,",c8885cd6-7ea1-4b08-8145-2ba4a9db2fa0,,f440b109-b3de-4d40-a507-19b45f6a4594,,target id not matched
+"warden of the chapel of St. Mary, canon in the church of St. Ethelbert",Agent,"dean and chapter of St. Ethelbert, Hereford,",c8885cd6-7ea1-4b08-8145-2ba4a9db2fa0,,f440b109-b3de-4d40-a507-19b45f6a4594,,target id not matched
+John de la Felde,Agent,"Richard, formerly bishop of Hereford",b5f76291-e275-482c-bb99-a9481537a2e0,,05abc5c4-3b5d-46db-b267-c40e776d0379,,target id not matched
+John de la Felde,Agent,"Richard, formerly bishop of Hereford",b5f76291-e275-482c-bb99-a9481537a2e0,,05abc5c4-3b5d-46db-b267-c40e776d0379,,target id not matched
+"Adam, bishop of Hereford",Agent,archbishop of Canterbury,bef61a82-5410-4801-80b5-5d3d9c3cadf7,,42677fbb-9fa4-4a2b-b269-1cdb116dce52,,target id not matched
+"Adam, bishop of Hereford",Agent,archbishop of Canterbury,bef61a82-5410-4801-80b5-5d3d9c3cadf7,,42677fbb-9fa4-4a2b-b269-1cdb116dce52,,target id not matched
+"Griffin de Charleton', canon of Hereford",Agent,chapter of the cathedral church of Hereford,952a01ce-af3f-449b-bdd2-f689cb0b7df9,,8aab73c3-9a0f-43f5-9d0a-674ff9667f94,,target id not matched
+"Griffin de Charleton', canon of Hereford",Agent,chapter of the cathedral church of Hereford,952a01ce-af3f-449b-bdd2-f689cb0b7df9,,8aab73c3-9a0f-43f5-9d0a-674ff9667f94,,target id not matched
+"executors of the will of dominus Richard de Swynefeud, formerly bishop of Hereford",Agent,"Richard de Swynefeud, formerly bishop of Hereford",7d31e4a3-8f91-4acb-9063-922113893b37,,7840e89d-330a-4c89-b9c2-0166e2b1d7b9,,target id not matched
+"executors of the will of dominus Richard de Swynefeud, formerly bishop of Hereford",Agent,"Richard de Swynefeud, formerly bishop of Hereford",7d31e4a3-8f91-4acb-9063-922113893b37,,7840e89d-330a-4c89-b9c2-0166e2b1d7b9,,target id not matched
+"John de Kemeseye, treasurer of Hereford",Agent,"Richard de Swynefeud, formerly bishop of Hereford",9811b72f-a28c-4369-b75c-ce5c0a05030b,,7840e89d-330a-4c89-b9c2-0166e2b1d7b9,,target id not matched
+"John de Kemeseye, treasurer of Hereford",Agent,"Richard de Swynefeud, formerly bishop of Hereford",9811b72f-a28c-4369-b75c-ce5c0a05030b,,7840e89d-330a-4c89-b9c2-0166e2b1d7b9,,target id not matched
+"Roger de Breynton', executor of the will of the seid Richard de Swynefeud', formerly bishop of Hereford.",Agent,"Richard de Swynefeud' fornerly bishop of Hereford,",18be6da3-41df-47d3-9004-5d72f1724e51,,41fa71f9-679c-469f-a5b8-06e57b95e1ba,,target id not matched
+"Roger de Breynton', executor of the will of the seid Richard de Swynefeud', formerly bishop of Hereford.",Agent,"Richard de Swynefeud' fornerly bishop of Hereford,",18be6da3-41df-47d3-9004-5d72f1724e51,,41fa71f9-679c-469f-a5b8-06e57b95e1ba,,target id not matched
+"hoger de Breynton', canon of Hereford and executor of the will of the said bishop",Agent,"Richard de Swynesfeld', formerly bishop of Hereford",f44a9651-153e-4218-9369-fe26e0242802,,f4c96d1f-a860-4265-b50b-f5812f128ee9,,target id not matched
+"hoger de Breynton', canon of Hereford and executor of the will of the said bishop",Agent,"Richard de Swynesfeld', formerly bishop of Hereford",f44a9651-153e-4218-9369-fe26e0242802,,f4c96d1f-a860-4265-b50b-f5812f128ee9,,target id not matched
+his four servants (garciones),Agent,"Richard de Hamenasch', canon of Hereford",d2d26499-57a8-45a2-a12b-44f96ec29c62,,674731ba-d60b-4183-97bb-f5af3a4e2533,,target id not matched
+his four servants (garciones),Agent,"Richard de Hamenasch', canon of Hereford",d2d26499-57a8-45a2-a12b-44f96ec29c62,,674731ba-d60b-4183-97bb-f5af3a4e2533,,target id not matched
+Roger de Breynton’ canon in the church of Hereford and sole surviving executor of the will of the said bishop,Agent,"Richard de Swynefeld’, formerly bishop of Hereford,",ca5ad0dc-d43f-4c4f-acc4-cf7d068cb846,,6e3f50bb-c0fd-4b82-94d9-cee04aa72b77,,target id not matched
+Roger de Breynton’ canon in the church of Hereford and sole surviving executor of the will of the said bishop,Agent,"Richard de Swynefeld’, formerly bishop of Hereford,",ca5ad0dc-d43f-4c4f-acc4-cf7d068cb846,,6e3f50bb-c0fd-4b82-94d9-cee04aa72b77,,target id not matched
+"Thomas Talbot, canon of Hereford",Agent,dean and chapter,af9b7373-5126-4950-b69b-9e9ba9476adc,,82ce77d8-f830-43b5-af33-f024dece662b,,target id not matched
+"Thomas Talbot, canon of Hereford",Agent,dean and chapter,af9b7373-5126-4950-b69b-9e9ba9476adc,,82ce77d8-f830-43b5-af33-f024dece662b,,target id not matched
+"Roger de Breynton’, canon in the church of Hereford [sole surviving executor of the will of the said bishop]",Agent,"Richard de [Swinfield], late bishop of Hereford",3e7a2cdc-36e6-4a38-b980-0a8814564e08,,9d864f0d-b73b-4a28-86df-672d9e82fb65,,target id not matched
+"Roger de Breynton’, canon in the church of Hereford [sole surviving executor of the will of the said bishop]",Agent,"Richard de [Swinfield], late bishop of Hereford",3e7a2cdc-36e6-4a38-b980-0a8814564e08,,9d864f0d-b73b-4a28-86df-672d9e82fb65,,target id not matched
+"Robert de Henle, canon and hebdomedary of the said cathedral church and deputy of the dean,",Agent,"dean, who was absent",8111e233-1890-4b73-9615-023c4d03daea,,e343b705-9f67-4336-9484-333fa211af30,,target id not matched
+"Robert de Henle, canon and hebdomedary of the said cathedral church and deputy of the dean,",Agent,"dean, who was absent",8111e233-1890-4b73-9615-023c4d03daea,,e343b705-9f67-4336-9484-333fa211af30,,target id not matched
+"William Bourdon', clerk of the diocese of Canterbury, notary public",Agent,Roger de Breynton’ canon in the church of Hereford and sole surviving executor of the will of the said bishop,565e1115-002c-475f-9eb4-5b15eafeef46,,ca5ad0dc-d43f-4c4f-acc4-cf7d068cb846,,target id not matched
+"William Bourdon', clerk of the diocese of Canterbury, notary public",Agent,Roger de Breynton’ canon in the church of Hereford and sole surviving executor of the will of the said bishop,565e1115-002c-475f-9eb4-5b15eafeef46,,ca5ad0dc-d43f-4c4f-acc4-cf7d068cb846,,target id not matched
+"A[dam], bishop of Hereford,",Agent,"Walter, archbishop of Canterbury",9b4cd896-24da-4538-bdef-9cfc5d327e57,,55eae703-c1a1-41ec-a2c2-fda3630181e3,,target id not matched
+"A[dam], bishop of Hereford,",Agent,"Walter, archbishop of Canterbury",9b4cd896-24da-4538-bdef-9cfc5d327e57,,55eae703-c1a1-41ec-a2c2-fda3630181e3,,target id not matched
+executors,Agent,"Richard, late bishop of Hereford,",ad9097f7-f525-4f4e-bbfb-03cc685b2bfd,,ee7de7cc-15f5-48a0-8085-163853605d01,,target id not matched
+executors,Agent,"Richard, late bishop of Hereford,",ad9097f7-f525-4f4e-bbfb-03cc685b2bfd,,ee7de7cc-15f5-48a0-8085-163853605d01,,target id not matched
+executors,Agent,"A[dam], bishop of Hereford,",ad9097f7-f525-4f4e-bbfb-03cc685b2bfd,,9b4cd896-24da-4538-bdef-9cfc5d327e57,,target id not matched
+executors,Agent,"A[dam], bishop of Hereford,",ad9097f7-f525-4f4e-bbfb-03cc685b2bfd,,9b4cd896-24da-4538-bdef-9cfc5d327e57,,target id not matched
+"Roger Le Tayllor , bailiff of the liberty of the dean and chapter of the cathedral church of St. Ethelbert of Hereford",Agent,dean and chapter of the cathedral church of St. Ethelbert of Hereford,eaade193-e2a4-4f8c-a9dc-71702a243167,,a99e97a4-aa45-4159-a4ba-f90e1d09b737,,target id not matched
+"Roger Le Tayllor , bailiff of the liberty of the dean and chapter of the cathedral church of St. Ethelbert of Hereford",Agent,dean and chapter of the cathedral church of St. Ethelbert of Hereford,eaade193-e2a4-4f8c-a9dc-71702a243167,,a99e97a4-aa45-4159-a4ba-f90e1d09b737,,target id not matched
+"Roger de Breyntonia, executor of the will of dominus Nicholas de Reygate, late treasurer of the church of Hereford.",Agent,"Nicholas de Reygate, late treasurer of the church of Hereford.",88272697-bdc7-4cb0-aca8-0959c58d37ad,,20da1384-6be7-45fd-83cc-b39a336f83ed,,target id not matched
+"Roger de Breyntonia, executor of the will of dominus Nicholas de Reygate, late treasurer of the church of Hereford.",Agent,"Nicholas de Reygate, late treasurer of the church of Hereford.",88272697-bdc7-4cb0-aca8-0959c58d37ad,,20da1384-6be7-45fd-83cc-b39a336f83ed,,target id not matched
+"Roger le Taillur, bailiff of the dean and chapter of Hereford,",Agent,dean and chapter of Hereford,004696ba-afd3-4c3c-b5f1-3c521cf4bee4,,9f9289ec-ad7e-4ecd-9223-d1583daf72a8,,target id not matched
+"Roger le Taillur, bailiff of the dean and chapter of Hereford,",Agent,dean and chapter of Hereford,004696ba-afd3-4c3c-b5f1-3c521cf4bee4,,9f9289ec-ad7e-4ecd-9223-d1583daf72a8,,target id not matched
+"John de Barewe, then seneschal of the said dean and chapter",Agent,dean and chapter of Hereford,e34dbe4a-aca3-4a2d-9040-d946c691baf5,,9c530ea0-20ea-4409-951a-83e567f5bd42,,target id not matched
+"John de Barewe, then seneschal of the said dean and chapter",Agent,dean and chapter of Hereford,e34dbe4a-aca3-4a2d-9040-d946c691baf5,,9c530ea0-20ea-4409-951a-83e567f5bd42,,target id not matched
+William Trussel,Agent,king,844ad808-e572-4f56-990d-aa1f70faef40,,87978c39-a121-4be8-89c6-d37cf0b2b4b0,87978c39-a121-4be8-89c6-d37cf0b2b4b0,source id not matched
+"W. bishop of Norwich, the treasurer,",Agent,king,7454eb6d-c125-49b6-9851-68f9bc64ba34,,87978c39-a121-4be8-89c6-d37cf0b2b4b0,87978c39-a121-4be8-89c6-d37cf0b2b4b0,source id not matched
+"Galiardus de Chueselho(?), servant of the said vicechancellor and guardian of the gate",Agent,"Petrus, cardinal priest of the title of St.","Stephan in Celiomonte and vicechancellor of the holy Roman church""",,Agent|Principal,,target id not matched
+"Galiardus de Chueselho(?), servant of the said vicechancellor and guardian of the gate",Agent,"Petrus, cardinal priest of the title of St.","Stephan in Celiomonte and vicechancellor of the holy Roman church""",,Agent|Principal,,target id not matched
+"executors of the will of dominus Richard, formerly bishop of Hereford",Agent,"Richard, formerly bishop of Hereford,",c81388a0-2e81-453d-afbd-743c55f3d372,,d76a6259-8432-4855-b61e-b3832f1c550c,,target id not matched
+"executors of the will of dominus Richard, formerly bishop of Hereford",Agent,"Richard, formerly bishop of Hereford,",c81388a0-2e81-453d-afbd-743c55f3d372,,d76a6259-8432-4855-b61e-b3832f1c550c,,target id not matched
+"Roger de Breynton', fellow-brothers and fellow-canons, executors of the will of dominus Richard, formerly bishop of Hereford",Agent,"Richard, formerly bishop of Hereford,",7ffa2d70-111c-4d2b-8319-a94b6989c66a,,d76a6259-8432-4855-b61e-b3832f1c550c,,target id not matched
+"Roger de Breynton', fellow-brothers and fellow-canons, executors of the will of dominus Richard, formerly bishop of Hereford",Agent,"Richard, formerly bishop of Hereford,",7ffa2d70-111c-4d2b-8319-a94b6989c66a,,d76a6259-8432-4855-b61e-b3832f1c550c,,target id not matched
+John de la Feld',Agent,"Richard, formerly bishop of Hereford,",fc758d19-855e-4975-ad06-cfc013d11f8a,,d76a6259-8432-4855-b61e-b3832f1c550c,,target id not matched
+John de la Feld',Agent,"Richard, formerly bishop of Hereford,",fc758d19-855e-4975-ad06-cfc013d11f8a,,d76a6259-8432-4855-b61e-b3832f1c550c,,target id not matched
+"Robert de Hompton',",Agent,king,0699d6a0-122f-4922-b655-b74ced58e326,,2fdd18d9-45fc-466a-a7f3-6943e815e3bd,,target id not matched
+"Robert de Hompton',",Agent,king,0699d6a0-122f-4922-b655-b74ced58e326,,2fdd18d9-45fc-466a-a7f3-6943e815e3bd,,target id not matched
+"Walter de Hompton', bailiffs of the king in Hereford",Agent,king,4338ac2b-866b-4d5e-9787-80d8e83363e7,,2fdd18d9-45fc-466a-a7f3-6943e815e3bd,,target id not matched
+"Walter de Hompton', bailiffs of the king in Hereford",Agent,king,4338ac2b-866b-4d5e-9787-80d8e83363e7,,2fdd18d9-45fc-466a-a7f3-6943e815e3bd,,target id not matched
+Thomas Tope,Agent,king,8a83e8b1-05e5-46a2-87bb-758c231c9919,,2fdd18d9-45fc-466a-a7f3-6943e815e3bd,,target id not matched
+Thomas Tope,Agent,king,8a83e8b1-05e5-46a2-87bb-758c231c9919,,2fdd18d9-45fc-466a-a7f3-6943e815e3bd,,target id not matched
+"executors of the will of dominus Richard de Swynefeud, formerly bishop of Hereford",Agent,"Richard de Swynefeud, formerly bishop of Hereford",25095194-9a53-48a8-b533-970cf91285f0,,7659b016-306d-4208-bb08-5399f1b1ecf6,,target id not matched
+"executors of the will of dominus Richard de Swynefeud, formerly bishop of Hereford",Agent,"Richard de Swynefeud, formerly bishop of Hereford",25095194-9a53-48a8-b533-970cf91285f0,,7659b016-306d-4208-bb08-5399f1b1ecf6,,target id not matched
+Robert de Hompton',Agent,king,2e4d12af-4a8c-41b3-8540-dd6069f300e1,,5b15d869-bf10-4252-a8b3-135317fe5809,,target id not matched
+Robert de Hompton',Agent,king,2e4d12af-4a8c-41b3-8540-dd6069f300e1,,5b15d869-bf10-4252-a8b3-135317fe5809,,target id not matched
+"Walter de Hompton', bailiffs of the king in Hereford",Agent,king,2234eabf-9f0e-470c-aa10-17f7ad5cf259,,5b15d869-bf10-4252-a8b3-135317fe5809,,target id not matched
+"Walter de Hompton', bailiffs of the king in Hereford",Agent,king,2234eabf-9f0e-470c-aa10-17f7ad5cf259,,5b15d869-bf10-4252-a8b3-135317fe5809,,target id not matched
+"John, bishop of Hereford,",Agent,"Adam, late bishop of winchester.",6e02f9a0-a515-4948-8a80-4967e2fde668,,9f639d75-3030-44da-8189-0279af87b597,,target id not matched
+"John, bishop of Hereford,",Agent,"Adam, late bishop of winchester.",6e02f9a0-a515-4948-8a80-4967e2fde668,,9f639d75-3030-44da-8189-0279af87b597,,target id not matched
+"Roger de Breynton', executor of the will of Richard de Swynesfeld', formerly bishop of Hereford",Agent,"Richard de Swynesfeld', formerly bishop of Hereford",27194868-5238-47a9-87e1-1237546f565b,,11b3ba73-d7c5-4265-9ce9-002a7ad431ae,,target id not matched
+"Roger de Breynton', executor of the will of Richard de Swynesfeld', formerly bishop of Hereford",Agent,"Richard de Swynesfeld', formerly bishop of Hereford",27194868-5238-47a9-87e1-1237546f565b,,11b3ba73-d7c5-4265-9ce9-002a7ad431ae,,target id not matched
+"Roger de Breynton', executor of the will of Richard de Swynesfeld', formerly bishop of Hereford",Agent,"Adam, late bishop of winchester.",27194868-5238-47a9-87e1-1237546f565b,,9f639d75-3030-44da-8189-0279af87b597,,target id not matched
+"Roger de Breynton', executor of the will of Richard de Swynesfeld', formerly bishop of Hereford",Agent,"Adam, late bishop of winchester.",27194868-5238-47a9-87e1-1237546f565b,,9f639d75-3030-44da-8189-0279af87b597,,target id not matched
+John de Usk,Agent,"Adam, late bishop of winchester.",1b81e7e5-44eb-4cf4-995b-73db343fa3d6,,9f639d75-3030-44da-8189-0279af87b597,,target id not matched
+John de Usk,Agent,"Adam, late bishop of winchester.",1b81e7e5-44eb-4cf4-995b-73db343fa3d6,,9f639d75-3030-44da-8189-0279af87b597,,target id not matched
+"Thomas Tope,",Agent,king,4fe3f7f4-4386-4065-bdda-0cf19670e151,,5b15d869-bf10-4252-a8b3-135317fe5809,,target id not matched
+"Thomas Tope,",Agent,king,4fe3f7f4-4386-4065-bdda-0cf19670e151,,5b15d869-bf10-4252-a8b3-135317fe5809,,target id not matched
+"Walter Carles, executors of the will of Adam, late bishop of winchester.",Agent,"Adam, late bishop of winchester.",5bbeb141-8c5c-4a86-8741-d132a54ce0fa,,9f639d75-3030-44da-8189-0279af87b597,,target id not matched
+"Walter Carles, executors of the will of Adam, late bishop of winchester.",Agent,"Adam, late bishop of winchester.",5bbeb141-8c5c-4a86-8741-d132a54ce0fa,,9f639d75-3030-44da-8189-0279af87b597,,target id not matched
+"Nicholas de Lacrwent, coexecutors with them of the will of the late bishop of Winchester",Agent,"Adam, late bishop of winchester.",46ece4bf-c72a-4965-9b97-45636b9a3d85,,9f639d75-3030-44da-8189-0279af87b597,,target id not matched
+"Nicholas de Lacrwent, coexecutors with them of the will of the late bishop of Winchester",Agent,"Adam, late bishop of winchester.",46ece4bf-c72a-4965-9b97-45636b9a3d85,,9f639d75-3030-44da-8189-0279af87b597,,target id not matched
+Nicholas de Rook’,Agent,Thomas trillek,6afee43a-d284-4e24-b8fa-beac0c4cba43,,08895cdc-26fb-4cd2-81fb-a695f207da9a,,target id not matched
+Nicholas de Rook’,Agent,Thomas trillek,6afee43a-d284-4e24-b8fa-beac0c4cba43,,08895cdc-26fb-4cd2-81fb-a695f207da9a,,target id not matched
+Nicholas de Rook’,Agent,"Walter Carles, executors of the will of Adam, late bishop of winchester.",6afee43a-d284-4e24-b8fa-beac0c4cba43,,5bbeb141-8c5c-4a86-8741-d132a54ce0fa,,target id not matched
+Nicholas de Rook’,Agent,"Walter Carles, executors of the will of Adam, late bishop of winchester.",6afee43a-d284-4e24-b8fa-beac0c4cba43,,5bbeb141-8c5c-4a86-8741-d132a54ce0fa,,target id not matched
+Thomas trillek,Agent,"Adam, late bishop of winchester.",08895cdc-26fb-4cd2-81fb-a695f207da9a,,9f639d75-3030-44da-8189-0279af87b597,,target id not matched
+Thomas trillek,Agent,"Adam, late bishop of winchester.",08895cdc-26fb-4cd2-81fb-a695f207da9a,,9f639d75-3030-44da-8189-0279af87b597,,target id not matched
+"Roger de Breynton', canon of Hereford",Agent,"Richard de Swynesfeld', late bishop of Hereford",e8c719ce-2947-4db4-bc76-47cbfd6e71c7,,62e70caa-c415-404e-b861-514c4accebd3,,target id not matched
+"Roger de Breynton', canon of Hereford",Agent,"Richard de Swynesfeld', late bishop of Hereford",e8c719ce-2947-4db4-bc76-47cbfd6e71c7,,62e70caa-c415-404e-b861-514c4accebd3,,target id not matched
+"Roger Racy of Bosebury,",Agent,"Alianora, wife of Roger Racy of Bosebury,",426a3e63-9cf8-4f69-8dc6-3d9063dbb0f6,,fcdba759-f0bf-417e-992d-cbd6a5f4876b,,target id not matched
+"Roger Racy of Bosebury,",Agent,"Alianora, wife of Roger Racy of Bosebury,",426a3e63-9cf8-4f69-8dc6-3d9063dbb0f6,,fcdba759-f0bf-417e-992d-cbd6a5f4876b,,target id not matched
+"Roger Racy of Bosebury,",Agent,Richard,426a3e63-9cf8-4f69-8dc6-3d9063dbb0f6,,44a45eff-e7e3-4033-b989-93c40f13db9f,,target id not matched
+"Roger Racy of Bosebury,",Agent,Richard,426a3e63-9cf8-4f69-8dc6-3d9063dbb0f6,,44a45eff-e7e3-4033-b989-93c40f13db9f,,target id not matched
+"Roger Racy of Bosebury,",Agent,Roger,426a3e63-9cf8-4f69-8dc6-3d9063dbb0f6,,b50e2cb0-61fc-48ff-878e-ae7733ce481d,,target id not matched
+"Roger Racy of Bosebury,",Agent,Roger,426a3e63-9cf8-4f69-8dc6-3d9063dbb0f6,,b50e2cb0-61fc-48ff-878e-ae7733ce481d,,target id not matched
+"Roger Racy of Bosebury,",Agent,Juliana,426a3e63-9cf8-4f69-8dc6-3d9063dbb0f6,,0cca7822-f163-4567-b82a-650078bc1ada,,target id not matched
+"Roger Racy of Bosebury,",Agent,Juliana,426a3e63-9cf8-4f69-8dc6-3d9063dbb0f6,,0cca7822-f163-4567-b82a-650078bc1ada,,target id not matched
+"Roger Racy of Bosebury,",Agent,"Alice, her children",426a3e63-9cf8-4f69-8dc6-3d9063dbb0f6,,1c272628-11b8-4efd-af59-b37da097a9d3,,target id not matched
+"Roger Racy of Bosebury,",Agent,"Alice, her children",426a3e63-9cf8-4f69-8dc6-3d9063dbb0f6,,1c272628-11b8-4efd-af59-b37da097a9d3,,target id not matched
+Richard de Aust,Agent,"Alianora, wife of Roger Racy of Bosebury,",c0e370ce-79a4-42bc-a2a7-1e4e551d916b,,fcdba759-f0bf-417e-992d-cbd6a5f4876b,,target id not matched
+Richard de Aust,Agent,"Alianora, wife of Roger Racy of Bosebury,",c0e370ce-79a4-42bc-a2a7-1e4e551d916b,,fcdba759-f0bf-417e-992d-cbd6a5f4876b,,target id not matched
+Richard de Aust,Agent,Richard,c0e370ce-79a4-42bc-a2a7-1e4e551d916b,,44a45eff-e7e3-4033-b989-93c40f13db9f,,target id not matched
+Richard de Aust,Agent,Richard,c0e370ce-79a4-42bc-a2a7-1e4e551d916b,,44a45eff-e7e3-4033-b989-93c40f13db9f,,target id not matched
+Richard de Aust,Agent,Roger,c0e370ce-79a4-42bc-a2a7-1e4e551d916b,,b50e2cb0-61fc-48ff-878e-ae7733ce481d,,target id not matched
+Richard de Aust,Agent,Roger,c0e370ce-79a4-42bc-a2a7-1e4e551d916b,,b50e2cb0-61fc-48ff-878e-ae7733ce481d,,target id not matched
+Richard de Aust,Agent,Juliana,c0e370ce-79a4-42bc-a2a7-1e4e551d916b,,0cca7822-f163-4567-b82a-650078bc1ada,,target id not matched
+Richard de Aust,Agent,Juliana,c0e370ce-79a4-42bc-a2a7-1e4e551d916b,,0cca7822-f163-4567-b82a-650078bc1ada,,target id not matched
+Richard de Aust,Agent,"Alice, her children",c0e370ce-79a4-42bc-a2a7-1e4e551d916b,,1c272628-11b8-4efd-af59-b37da097a9d3,,target id not matched
+Richard de Aust,Agent,"Alice, her children",c0e370ce-79a4-42bc-a2a7-1e4e551d916b,,1c272628-11b8-4efd-af59-b37da097a9d3,,target id not matched
+Robert de wee,Agent,king,687523bf-00d6-44da-b879-a2cbaeacd575,,abd379aa-75ad-48a5-a4ed-d1711478b975,,target id not matched
+Robert de wee,Agent,king,687523bf-00d6-44da-b879-a2cbaeacd575,,abd379aa-75ad-48a5-a4ed-d1711478b975,,target id not matched
+Thomas Tope,Agent,king,502c43ce-8bb3-482b-b3f2-d6f264e49eb0,,abd379aa-75ad-48a5-a4ed-d1711478b975,,target id not matched
+Thomas Tope,Agent,king,502c43ce-8bb3-482b-b3f2-d6f264e49eb0,,abd379aa-75ad-48a5-a4ed-d1711478b975,,target id not matched
+Walter de omptont bailiffs of the king in Hereford,Agent,king,74f6eb8a-7219-478a-bc6e-3038e10d38c2,74f6eb8a-7219-478a-bc6e-3038e10d38c2,abd379aa-75ad-48a5-a4ed-d1711478b975,,target id not matched
+"executors of the will of dominus Richard de Swynefeud, formerly bishop of Hereford",Agent,"Richard de Swynefeud, formerly bishop of Hereford",ae8c9703-cbe4-4fb7-b6d0-0eda328684b1,,d61f9128-beb4-49a2-9d38-459f193fed06,,target id not matched
+"executors of the will of dominus Richard de Swynefeud, formerly bishop of Hereford",Agent,"Richard de Swynefeud, formerly bishop of Hereford",ae8c9703-cbe4-4fb7-b6d0-0eda328684b1,,d61f9128-beb4-49a2-9d38-459f193fed06,,target id not matched
+"Roger de Breynton', canon of Hereford and executor of the will of the said bishop",Agent,"Richard, formerly bishop of Hereford",581d0896-21c5-4631-b842-5a838369589d,,7330f4d6-b8dc-42a5-bc5c-1e034408c49c,,target id not matched
+"Roger de Breynton', canon of Hereford and executor of the will of the said bishop",Agent,"Richard, formerly bishop of Hereford",581d0896-21c5-4631-b842-5a838369589d,,7330f4d6-b8dc-42a5-bc5c-1e034408c49c,,target id not matched
+executor of the will of the said bishop,Agent,"Richard, formerly bishop of Hereford",1f7864c9-1a93-408a-a5d9-473b17a11f33,,7330f4d6-b8dc-42a5-bc5c-1e034408c49c,,target id not matched
+executor of the will of the said bishop,Agent,"Richard, formerly bishop of Hereford",1f7864c9-1a93-408a-a5d9-473b17a11f33,,7330f4d6-b8dc-42a5-bc5c-1e034408c49c,,target id not matched
+"Walter de iyearuans proctor and special envoy of the bishop, dean, and chapter of Hereford",Agent,"bishop","c430faa9-d1d7-4201-b4b8-93266e158267",,"078ffeca-94e5-40c1-b7f0-96e4137fd928",,target id not matched
+"Walter de iyearuans proctor and special envoy of the bishop, dean, and chapter of Hereford",Agent,"bishop","c430faa9-d1d7-4201-b4b8-93266e158267",,"078ffeca-94e5-40c1-b7f0-96e4137fd928",,target id not matched
+"Walter de iyearuans proctor and special envoy of the bishop, dean, and chapter of Hereford",Agent,"dean, and chapter of Hereford","c430faa9-d1d7-4201-b4b8-93266e158267",,"ab8d31cf-7395-4586-9a8d-da9643625694",,target id not matched
+"Walter de iyearuans proctor and special envoy of the bishop, dean, and chapter of Hereford",Agent,"dean, and chapter of Hereford","c430faa9-d1d7-4201-b4b8-93266e158267",,"ab8d31cf-7395-4586-9a8d-da9643625694",,target id not matched
+executors of the will of dominus Richard de Swynefeud,Agent,"Richard de Swynefeud, formerly bishop of Hereford",60243f2d-f406-4038-ab92-9836f941e557,,e0fdd452-78c1-4020-9bd6-73254f1c0ecb,,target id not matched
+executors of the will of dominus Richard de Swynefeud,Agent,"Richard de Swynefeud, formerly bishop of Hereford",60243f2d-f406-4038-ab92-9836f941e557,,e0fdd452-78c1-4020-9bd6-73254f1c0ecb,,target id not matched
+"John de Kemeseye, treasurer of Hereford and one of the executors of the will of dominus Richard de Swynefeud",Agent,"Richard de Swynefeud, formerly bishop of Hereford",09a8448a-b55e-4bfe-bf5d-521a66c1d28b,,e0fdd452-78c1-4020-9bd6-73254f1c0ecb,,target id not matched
+"John de Kemeseye, treasurer of Hereford and one of the executors of the will of dominus Richard de Swynefeud",Agent,"Richard de Swynefeud, formerly bishop of Hereford",09a8448a-b55e-4bfe-bf5d-521a66c1d28b,,e0fdd452-78c1-4020-9bd6-73254f1c0ecb,,target id not matched

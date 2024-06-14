@@ -1,4 +1,4 @@
-Source,Target,Type,Document
+person1,person2,Type,evidence
 01ddc43d-208b-4046-b3cc-d27bea2d9e68, e13fc4a9-c1ec-42fe-aa78-8e6b9ccf4712, neighbors, HCM 16
 01ddc43d-208b-4046-b3cc-d27bea2d9e68, 8c0dfa25-95d2-414e-880e-aa156d330a10, neighbors, HCM 16
 e13fc4a9-c1ec-42fe-aa78-8e6b9ccf4712, 8c0dfa25-95d2-414e-880e-aa156d330a10, neighbors, HCM 16

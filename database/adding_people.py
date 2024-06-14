@@ -101,4 +101,20 @@ def insert_people(input_file="all_people.csv"):
         connection.commit()
 
 
-insert_people()
+def add_supplemental_naming(input_file="all_people.csv"):
+    query = '''UPDATE person_named_in_document
+                SET supplemental_naming = ?
+                WHERE person_id = ? AND document_id = ?'''
+    people = _parse_all_people(input_file)
+    for p in tqdm(people):
+        if not p['Supplemental naming']:
+            continue
+        person_id = _lookup_person(p)[0][0]
+        source, num = p['Doc Number'].split(" ")
+        document_id = get_doc_id_by_sourcenum(source, num)
+        cursor.execute(query, (p['Supplemental naming'], person_id, document_id))
+
+    connection.commit()
+
+
+add_supplemental_naming()
